@@ -8,6 +8,7 @@
 
 ## Apps
 
+- [Geogebra](https://www.geogebra.org/)
 - [MathPix](https://mathpix.com/)
 
 ## Articles

@@ -17,6 +17,8 @@
 ## Books
 
 - [Photography: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192801647.001.0001/actrade-9780192801647?rskey=sBHDD5&result=455)
+- [Sophie's World](https://www.goodreads.com/book/show/10959.Sophie_s_World?ac=1&from_search=true) by Jostein Gaarder
+- [The Story of Philosophy](https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy) by [Will Durant](#people)
 
 ## Certifications & Assessment
 
@@ -45,6 +47,8 @@
 ## Newsletters
 
 ## People
+
+- Will Durant ([goodreads](https://www.goodreads.com/author/show/16184.Will_Durant), [wikipedia](https://en.wikipedia.org/wiki/Will_Durant))
 
 ## Q&A
 

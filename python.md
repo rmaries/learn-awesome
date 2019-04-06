@@ -18,6 +18,7 @@
 ## Blogs
 
 - [Rg3](http://rg3.name/)
+- [BangPypers](http://bangalore.python.org.in/)
 
 ## Books
 
@@ -45,6 +46,7 @@
 ## Forums, Group chats
 
 - [Python](https://www.reddit.com/r/Python/)
+- [BangPypers](https://bangpypers.slack.com/)
 
 ## Games
 
@@ -60,7 +62,11 @@
 
 ## Meetups
 
+- [BangPypers](https://www.meetup.com/bangpypers)
+
 ## Newsletters
+
+- [BangPypers](https://mail.python.org/mailman/listinfo/bangpypers)
 
 ## People
 

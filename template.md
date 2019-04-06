@@ -56,3 +56,6 @@
 
 ## Wiki
 
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

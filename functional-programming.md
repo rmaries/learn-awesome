@@ -65,6 +65,8 @@
 
 ## Q&A
 
+- [Functional programming](https://www.quora.com/topic/Functional-Programming)
+
 ## Research Papers
 
 - [How to make ad-hoc polymorphism less ad hoc (1988)](https://pdfs.semanticscholar.org/cc7f/2242dba6f09023128897762d07517f13ba4a.pdf)

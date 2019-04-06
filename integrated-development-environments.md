@@ -1,4 +1,4 @@
-# Garbage Collection
+# Integrated Development Environment
 
 - prerequisites:
 - subtopics:
@@ -7,6 +7,7 @@
 ------
 
 ## Apps
+
 
 ## Articles
 
@@ -46,15 +47,17 @@
 
 ## Q&A
 
-- [Garbage collection](https://www.quora.com/topic/Garbage-Collection-programming)
+- [Integrated development environments](https://www.quora.com/topic/Integrated-Development-Environments)
+- [IntelliJ](https://www.quora.com/topic/IntelliJ-IDEA)
 
 ## Quotes
 
 ## Research Papers
 
-- [Lively linear lisp -- 'look ma, no garbage!](http://www.pipeline.com/~hbaker1/LinearLisp.html)
-- [Thermodynamics and garbage collection](http://www.pipeline.com/~hbaker1/ThermoGC.html)
-
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

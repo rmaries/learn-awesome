@@ -1,4 +1,4 @@
-# Garbage Collection
+# Computer Hardware
 
 - prerequisites:
 - subtopics:
@@ -46,15 +46,15 @@
 
 ## Q&A
 
-- [Garbage collection](https://www.quora.com/topic/Garbage-Collection-programming)
+- [Computer hardware](https://www.quora.com/topic/Computer-Hardware)
 
 ## Quotes
 
 ## Research Papers
 
-- [Lively linear lisp -- 'look ma, no garbage!](http://www.pipeline.com/~hbaker1/LinearLisp.html)
-- [Thermodynamics and garbage collection](http://www.pipeline.com/~hbaker1/ThermoGC.html)
-
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Computer_hardware)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Computer_hardware)

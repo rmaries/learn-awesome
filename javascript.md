@@ -84,6 +84,8 @@
 
 ## Q&A
 
+ [Javascript](https://www.quora.com/topic/JavaScript-programming-language)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

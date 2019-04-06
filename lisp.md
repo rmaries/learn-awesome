@@ -51,6 +51,8 @@
 
 ## Q&A
 
+- [Lisp](https://www.quora.com/topic/Lisp-programming-language)
+
 ## Quotes
 
 ## Research Papers

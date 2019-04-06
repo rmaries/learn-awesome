@@ -417,6 +417,7 @@
 ## Q&A
 
 - [StackOverflow](https://stackoverflow.com/)
+- [Computer programming](https://www.quora.com/topic/Computer-Programming)
 
 ## Research Papers
 

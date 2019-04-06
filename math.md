@@ -150,6 +150,9 @@
 
 - [Math StackExchange](https://math.stackexchange.com/)
 - [MathOverflow](https://mathoverflow.net/)
+- [Discrete mathematics](https://www.quora.com/topic/Discrete-Mathematics)
+- [Geometry](https://www.quora.com/topic/Geometry)
+- [Graph theory](https://www.quora.com/topic/Graph-Theory)
 
 ## Research Papers
 

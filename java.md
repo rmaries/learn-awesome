@@ -61,6 +61,9 @@
 
 ## Q&A
 
+- [Java](https://www.quora.com/topic/Java-programming-language)
+- [Jvm](https://www.quora.com/topic/Java-Virtual-Machine-JVM)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

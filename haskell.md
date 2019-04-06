@@ -70,6 +70,8 @@
 
 ## Q&A
 
+- [Haskell](https://www.quora.com/topic/Haskell-programming-language)
+
 ## Research Papers
 
 - [Linear-Time Suffix Array Implementation in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/projects/isaacs_geiduscheck.pdf)

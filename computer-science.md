@@ -86,6 +86,8 @@
 
 ## Q&A
 
+- [Computer science](https://www.quora.com/topic/Computer-Science)
+
 ## Research Papers
 
 - [Papers we love](http://paperswelove.org/)

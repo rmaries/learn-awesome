@@ -50,8 +50,16 @@
 
 ## Q&A
 
+- [Data science](https://www.quora.com/topic/Data-Science)
+- [Data](https://www.quora.com/topic/Data)
+- [Datasets](https://www.quora.com/topic/Datasets)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Data_science)
+

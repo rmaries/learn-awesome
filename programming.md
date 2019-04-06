@@ -394,6 +394,8 @@
 ## Forums, Group chats
 
 - [Hacker News](https://news.ycombinator.com/)
+- [Advent of Code](https://www.reddit.com/r/adventofcode/)
+- [Graphics Programming](https://www.reddit.com/r/GraphicsProgramming/)
 
 ## Games
 

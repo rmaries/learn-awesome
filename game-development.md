@@ -32,6 +32,8 @@
 
 ## Forums, Group chats
 
+- [Game Dev](https://www.reddit.com/r/gamedev/)
+
 ## Games
 
 ## Images

@@ -31,6 +31,8 @@
 
 ## Forums, Group chats
 
+- [Perl](https://www.reddit.com/r/perl/)
+
 ## Games
 
 ## Images
@@ -58,3 +60,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Perl)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Perl)

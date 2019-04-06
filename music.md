@@ -30,6 +30,17 @@
 
 ## Forums, Group chats
 
+- [80s electro](https://www.reddit.com/r/80sElectro/)
+- [Cyber punk music](https://www.reddit.com/r/Cyberpunk_Music/)
+- [Experimental music](https://www.reddit.com/r/experimentalmusic/)
+- [Future beats](https://www.reddit.com/r/futurebeats/)
+- [Future pop music](https://www.reddit.com/r/futurepopmusic/)
+- [Future synth](https://www.reddit.com/r/futuresynth/)
+- [Listen to this](https://www.reddit.com/r/listentothis/)
+- [Listen to us](https://www.reddit.com/r/listentous/)
+- [Music for concentration](https://www.reddit.com/r/MusicForConcentration/)
+- [New retro wave](https://www.reddit.com/r/newretrowave/)
+
 ## Games
 
 ## Images

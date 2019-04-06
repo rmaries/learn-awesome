@@ -1,4 +1,4 @@
-# OCaml
+# Combinatorics
 
 - prerequisites:
 - subtopics:
@@ -16,8 +16,6 @@
 
 ## Books
 
-- [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
-
 ## Certifications & Assessment
 
 ## Code
@@ -27,8 +25,6 @@
 ## Courses
 
 ## Forums, Group chats
-
-- [OCaml](https://www.reddit.com/r/ocaml/)
 
 ## Games
 
@@ -50,6 +46,8 @@
 
 ## Q&A
 
+- [Combinatorics](https://www.quora.com/topic/Combinatorics)
+
 ## Quotes
 
 ## Research Papers
@@ -57,5 +55,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
-- [Main Wikipedia](https://en.wikipedia.org/wiki/OCaml)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/OCaml)
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Combinatorics)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Combinatorics)

@@ -48,6 +48,8 @@
 
 ## Q&A
 
+- [Big data](https://www.quora.com/topic/Big-Data)
+
 ## Quotes
 
 ## Research Papers
@@ -57,3 +59,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Big_data)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Big_data)

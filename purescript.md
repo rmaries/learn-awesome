@@ -28,6 +28,8 @@
 
 ## Forums, Group chats
 
+- [Purescript](https://www.reddit.com/r/purescript/)
+
 ## Games
 
 ## Images
@@ -55,3 +57,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/PureScript)

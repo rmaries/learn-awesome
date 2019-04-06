@@ -50,8 +50,13 @@
 
 ## Q&A
 
+- [C](https://www.quora.com/topic/C-programming-language)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/C_(programming_language))

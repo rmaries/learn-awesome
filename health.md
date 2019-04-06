@@ -36,6 +36,15 @@
 
 ## Forums, Group chats
 
+- [Advanced fitness](https://www.reddit.com/r/AdvancedFitness/)
+- [Get disciplined](https://www.reddit.com/r/getdisciplined/)
+- [Health](https://www.reddit.com/r/Health/)
+- [Longevity](https://www.reddit.com/r/longevity/)
+- [Nootropics](https://www.reddit.com/r/Nootropics/)
+- [Nutrition](https://www.reddit.com/r/nutrition/)
+- [Plant Based Diet](https://www.reddit.com/r/PlantBasedDiet)
+- [Vegan](https://www.reddit.com/r/vegan/)
+
 ## Games
 
 ## Images

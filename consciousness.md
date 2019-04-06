@@ -1,4 +1,4 @@
-# OCaml
+# Consciousness
 
 - prerequisites:
 - subtopics:
@@ -16,8 +16,6 @@
 
 ## Books
 
-- [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
-
 ## Certifications & Assessment
 
 ## Code
@@ -28,7 +26,10 @@
 
 ## Forums, Group chats
 
-- [OCaml](https://www.reddit.com/r/ocaml/)
+- [Meditation](https://www.reddit.com/r/Meditation/)
+- [Neuro](https://www.reddit.com/r/neuro/)
+- [Psychonaut](https://www.reddit.com/r/Psychonaut/)
+- [Rational psychonaut](https://www.reddit.com/r/RationalPsychonaut/)
 
 ## Games
 
@@ -57,5 +58,3 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
-- [Main Wikipedia](https://en.wikipedia.org/wiki/OCaml)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/OCaml)

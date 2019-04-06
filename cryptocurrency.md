@@ -38,6 +38,8 @@
 
 ## Forums, Group chats
 
+- [CryptoTechnology](https://www.reddit.com/r/CryptoTechnology/)
+
 ## Games
 
 ## Images

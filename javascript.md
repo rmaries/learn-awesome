@@ -64,6 +64,8 @@
 
 ## Forums, Group chats
 
+- [Javascript](https://www.reddit.com/r/javascript/)
+
 ## Games
 
 ## Images
@@ -87,3 +89,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
+- [Simple Wikipedia](https://en.wikipedia.org/wiki/JavaScript)

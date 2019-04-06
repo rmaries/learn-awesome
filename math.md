@@ -112,6 +112,13 @@
 
 ## Forums, Group chats
 
+- [Fived](https://www.reddit.com/r/fived/)
+- [Fractals](https://www.reddit.com/r/fractals/)
+- [Gonwild](https://www.reddit.com/r/gonwild/)
+- [Holofractal](https://www.reddit.com/r/holofractal/)
+- [Hypershape](https://www.reddit.com/r/hypershape/)
+- [Math](https://www.reddit.com/r/math/)
+
 ## Games
 - [ProdigyGame](https://www.prodigygame.com/) For class 1 to 8, Maths questions in between the video game.
 - [NRICH](https://nrich.maths.org/) Rich in maths games, activities, news and mathematical thinking for different level student

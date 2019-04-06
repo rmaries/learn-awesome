@@ -54,6 +54,8 @@
 
 ## Forums, Group chats
 
+- [Golang](https://www.reddit.com/r/golang/)
+
 ## Games
 
 ## Images
@@ -77,3 +79,4 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))

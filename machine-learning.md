@@ -123,6 +123,13 @@
 
 ## Forums, Group chats
 
+- [Artificial Intelligence](https://www.reddit.com/r/artificial/)
+- [Big data](https://www.reddit.com/r/bigdata/)
+- [Data science](https://www.reddit.com/r/datascience/)
+- [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
+- [Machine learning](https://www.reddit.com/r/MachineLearning/)
+- [ML Questions](https://www.reddit.com/r/MLQuestions/)
+
 ## Games
 
 ## Images

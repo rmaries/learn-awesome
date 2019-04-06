@@ -31,6 +31,14 @@
 
 ## Forums, Group chats
 
+- [Ask Drugs](https://www.reddit.com/r/askdrugs/)
+- [Dark Net Market Noobs](https://www.reddit.com/r/DarkNetMarketsNoobs/)
+- [Drug nerds](https://www.reddit.com/r/DrugNerds/)
+- [Drugs](https://www.reddit.com/r/Drugs/)
+- [EU RC Sources](https://www.reddit.com/r/EU_RCSources/)
+- [NovelDissos](https://www.reddit.com/r/NovelDissos/)
+- [Replications](https://www.reddit.com/r/replications/)
+
 ## Games
 
 ## Images

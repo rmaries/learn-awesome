@@ -58,6 +58,12 @@
 
 ## Forums, Group chats
 
+- [Algorithms](https://www.reddit.com/r/algorithms/)
+- [Ask computer science](https://www.reddit.com/r/AskComputerScience/)
+- [Compsci](https://www.reddit.com/r/compsci/)
+- [CS career questions](https://www.reddit.com/r/cscareerquestions/)
+- [Netsec](https://www.reddit.com/r/netsec/)
+
 ## Games
 
 ## Images

@@ -34,6 +34,16 @@
 
 ## Forums, Group chats
 
+- [Front end](https://www.reddit.com/r/Frontend/)
+- [Internet is beautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+- [Learn javascript](https://www.reddit.com/r/learnjavascript/)
+- [Node js](https://www.reddit.com/r/node/)
+- [Rails](https://www.reddit.com/r/rails/)
+- [React js](https://www.reddit.com/r/reactjs/)
+- [Web design](https://www.reddit.com/r/web_design/)
+- [Web dev](https://www.reddit.com/r/webdev/)
+
+
 ## Games
 
 ## Images
@@ -61,3 +71,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/World_Wide_Web)

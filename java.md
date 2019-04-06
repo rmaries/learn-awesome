@@ -41,6 +41,8 @@
 
 ## Forums, Group chats
 
+- [Java](https://www.reddit.com/r/java/)
+
 ## Games
 
 ## Images
@@ -64,3 +66,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Simple Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))

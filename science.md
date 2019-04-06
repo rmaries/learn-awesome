@@ -34,6 +34,15 @@
 
 ## Forums, Group chats
 
+- [Askscience](https://www.reddit.com/r/askscience/)
+- [Astronomy](https://www.reddit.com/r/Astronomy/)
+- [Chemistry](https://www.reddit.com/r/chemistry/)
+- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
+- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
+- [Physics](https://www.reddit.com/r/Physics/)
+- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
+- [Science](https://www.reddit.com/r/science/)
+
 ## Games
 
 ## Images
@@ -61,3 +70,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Science)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Science)

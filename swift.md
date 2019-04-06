@@ -54,6 +54,8 @@
 
 ## Forums, Group chats
 
+- [Swift](https://www.reddit.com/r/swift/)
+
 ## Games
 
 ## Images
@@ -81,3 +83,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))

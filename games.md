@@ -28,6 +28,10 @@
 
 ## Forums, Group chats
 
+- [Factorio](https://www.reddit.com/r/factorio/)
+
+- [Patient gamers](https://www.reddit.com/r/patientgamers/)
+
 ## Games
 
 ## Images

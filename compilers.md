@@ -54,6 +54,8 @@
 
 ## Q&A
 
+- [Compilers](https://www.quora.com/topic/JavaScript-programming-language)
+
 ## Research Papers
 
 - [Writing parsers like it is 2017](http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf)

@@ -44,6 +44,8 @@
 
 ## Forums, Group chats
 
+- [Python](https://www.reddit.com/r/Python/)
+
 ## Games
 
 ## Images
@@ -71,3 +73,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Python_(programming_language))

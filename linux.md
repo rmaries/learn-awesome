@@ -34,6 +34,10 @@
 
 ## Forums, Group chats
 
+- [Android](https://www.reddit.com/r/Android/)
+- [Docker](https://www.reddit.com/r/docker/)
+- [Linux](https://www.reddit.com/r/linux/)
+
 ## Games
 
 ## Images

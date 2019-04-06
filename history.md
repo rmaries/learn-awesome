@@ -64,6 +64,9 @@
 
 ## Forums, Group chats
 
+- [Art history](https://www.reddit.com/r/ArtHistory/)
+- [History](https://www.reddit.com/r/history/)
+
 ## Games
 
 ## Images

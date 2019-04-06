@@ -1,4 +1,4 @@
-# OCaml
+# Funny
 
 - prerequisites:
 - subtopics:
@@ -16,8 +16,6 @@
 
 ## Books
 
-- [📖 Real World OCaml (2018)](http://dev.realworldocaml.org/)
-
 ## Certifications & Assessment
 
 ## Code
@@ -28,7 +26,7 @@
 
 ## Forums, Group chats
 
-- [OCaml](https://www.reddit.com/r/ocaml/)
+- [Stopped working](https://www.reddit.com/r/StoppedWorking/)
 
 ## Games
 
@@ -57,5 +55,3 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
-- [Main Wikipedia](https://en.wikipedia.org/wiki/OCaml)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/OCaml)

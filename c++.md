@@ -52,8 +52,13 @@
 
 ## Q&A
 
+- [C++](https://www.quora.com/topic/C++-programming-language)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/C%2B%2B)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/C%2B%2B)

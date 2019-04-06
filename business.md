@@ -51,6 +51,8 @@
 
 ## Q&A
 
+[Business](https://www.quora.com/topic/Business)
+
 ## Quotes
 > Stop thinking about making a million dollars and start thinking about serving a million people. - Dharmesh Shah
 
@@ -71,3 +73,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Business)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Business)

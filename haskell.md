@@ -50,6 +50,8 @@
 
 ## Forums, Group chats
 
+- [Haskell](https://www.reddit.com/r/haskell/)
+
 ## Games
 
 ## Images

@@ -23,6 +23,8 @@
 - [📕 Prometheus rising (1983)](http://www.goodreads.com/book/show/28597.Prometheus_Rising)
 - [📕 Finite and infinite games (1986)](http://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
 - [📕 The stuff of thought (2007)](http://www.goodreads.com/book/show/373969.The_Stuff_of_Thought)
+- [Sophie's World](https://www.goodreads.com/book/show/10959.Sophie_s_World?ac=1&from_search=true) by Jostein Gaarder
+- [The Story of Philosophy](https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy) by [Will Durant](#people)
 
 ## Certifications & Assessment
 
@@ -51,6 +53,8 @@
 ## Newsletters
 
 ## People
+
+- Will Durant ([goodreads](https://www.goodreads.com/author/show/16184.Will_Durant), [wikipedia](https://en.wikipedia.org/wiki/Will_Durant))
 
 ## Q&A
 

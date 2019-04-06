@@ -47,6 +47,7 @@
 ## Q&A
 
 - [Anime & manga](http://anime.stackexchange.com)
+- [Blender](https://blender.stackexchange.com)
 
 ## Quotes
 

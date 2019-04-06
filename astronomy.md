@@ -1,4 +1,4 @@
-# Games
+# Astronomy
 
 - prerequisites:
 - subtopics:
@@ -13,8 +13,6 @@
 ## Audio, Podcasts
 
 ## Blogs
-
-- [Video Game History Foundation](https://gamehistory.org/blog/)
 
 ## Books
 
@@ -34,6 +32,8 @@
 
 ## Interactives
 
+## Journals
+
 ## Learning Plans
 
 ## Livestreams
@@ -46,7 +46,9 @@
 
 ## Q&A
 
-- [Board & card games](https://boardgames.stackexchange.com)
+- [Astronomy](https://astronomy.stackexchange.com)
+
+## Quotes
 
 ## Research Papers
 

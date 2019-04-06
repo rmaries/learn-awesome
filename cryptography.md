@@ -19,7 +19,7 @@
 - [📖 Engineering security (2014)](https://www.cs.auckland.ac.nz/~pgut001/pubs/book.pdf)
 - [📖 Graduate course in applied cryptography (2016)](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
 - [📖 Practical Cryptography for Developers (2018)](https://cryptobook.nakov.com/?q=)
-
+- [📕 Serious Cryptography: A Practical Introduction to Modern Encryption](https://nostarch.com/seriouscrypto)
 
 ## Certifications & Assessment
 
@@ -39,6 +39,7 @@
 ## Images
 
 ## Interactives
+- [the cryptopals crypto challenges](https://cryptopals.com)
 
 ## Learning Plans
 

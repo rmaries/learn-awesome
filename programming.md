@@ -193,6 +193,7 @@
 - [📖 How These Things Work (2016)](http://reasonablypolymorphic.com/book/preface)
 - [📕 Introduction to the Theory of Complex Systems (2018)](https://www.goodreads.com/book/show/40404857-introduction-to-the-theory-of-complex-systems)
 - [📖 Composing programs](http://www.composingprograms.com/)
+- [📕 Design Patterns: Elements of Reusable Object-Oriented Software (Gang Of Four) (1994)](https://www.goodreads.com/book/show/85009.Design_Patterns)
 
 ## Programming interviews
 

@@ -47,6 +47,8 @@
 
 ## Q&A
 
+- [Android enthusiasts](https://android.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

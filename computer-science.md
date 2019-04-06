@@ -87,6 +87,9 @@
 ## Q&A
 
 - [Computer science](https://www.quora.com/topic/Computer-Science)
+- [MapReduce](https://www.quora.com/topic/MapReduce)
+- [Matrix computations ](https://www.quora.com/topic/Matrix-Computations)
+- [Processors](https://www.quora.com/topic/Processors)
 
 ## Research Papers
 

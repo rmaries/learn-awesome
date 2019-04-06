@@ -61,6 +61,8 @@
 
 ## Q&A
 
+- [Technology](https://www.quora.com/topic/Technology)
+
 ## Quotes
 
 ## Research Papers

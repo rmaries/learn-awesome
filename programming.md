@@ -418,6 +418,8 @@
 
 - [StackOverflow](https://stackoverflow.com/)
 - [Computer programming](https://www.quora.com/topic/Computer-Programming)
+- [Sublime text](https://www.quora.com/topic/Sublime-Text)
+- [Text editors](https://www.quora.com/topic/Text-Editors)
 
 ## Research Papers
 

@@ -72,6 +72,8 @@
 
 ## Q&A
 
+- [Python](https://www.quora.com/topic/Python-programming-language-1)
+
 ## Quotes
 
 ## Research Papers

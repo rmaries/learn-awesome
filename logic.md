@@ -49,8 +49,13 @@
 
 ## Q&A
 
+- [Logic](https://www.quora.com/topic/Logic-mathematics)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Logic)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Logic)

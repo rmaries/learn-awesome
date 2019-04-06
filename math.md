@@ -153,6 +153,11 @@
 - [Discrete mathematics](https://www.quora.com/topic/Discrete-Mathematics)
 - [Geometry](https://www.quora.com/topic/Geometry)
 - [Graph theory](https://www.quora.com/topic/Graph-Theory)
+- [Mathematics](https://www.quora.com/topic/Mathematics)
+- [Matrices](https://www.quora.com/topic/Matrices-mathematics)
+- [Number theory](https://www.quora.com/topic/Number-Theory)
+- [Prime numbers](https://www.quora.com/topic/Prime-Numbers)
+- [Set theory](https://www.quora.com/topic/Set-Theory)
 
 ## Research Papers
 

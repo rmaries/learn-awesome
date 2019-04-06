@@ -48,6 +48,7 @@
 ## Q&A
 
 - [Computer memory](https://www.quora.com/topic/Computer-Memory)
+- [Memory management](https://www.quora.com/topic/Memory-Management-computer-programming)
 
 ## Quotes
 

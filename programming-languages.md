@@ -46,6 +46,8 @@
 
 ## Q&A
 
+- [Programming languages](https://www.quora.com/topic/Programming-Languages)
+
 ## Quotes
 
 ## Research Papers

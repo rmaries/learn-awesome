@@ -55,6 +55,8 @@
 
 ## Q&A
 
+- [Vim](https://www.quora.com/topic/Vim-text-editor)
+
 ## Quotes
 
 ## Research Papers

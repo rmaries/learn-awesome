@@ -20,6 +20,8 @@
 
 ## Cheatsheets
 
+- [OWASP Cheatsheet series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)
+
 ## Code
 
 ## Conferences

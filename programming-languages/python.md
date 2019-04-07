@@ -33,6 +33,7 @@
 - [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine)
 - [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/)
+- [📕 A Byte of Python](https://python.swaroopch.com/)
 
 
 ## Certifications & Assessment

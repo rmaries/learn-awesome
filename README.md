@@ -33,6 +33,7 @@ You should join us to expand and improve our collection! Use this [template](tem
   - Difficulty level (beginner / intermediate / expert)
   - Author. Add them in `people` section whenever they're worth following for that topic.
 - Build a useful concept graph by specifying prerequisites and subtopics. This is often hard.
+- For a new topic, start with this [template](template.md).
 - Always put the learner first.
 - Discuss your ideas & questions over at [Gitter](https://gitter.im/learn-awesome/).
 

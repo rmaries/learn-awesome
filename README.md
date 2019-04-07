@@ -13,7 +13,7 @@ We have collected links for [life](life.md), [learning](learning.md), [thinking]
 
 We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science](science.md), [physics](physics.md), [chemistry](chemistry.md) & [biology](biology.md) among others.
 
-A lot of our current users are programmers. And so we have: [Git](git.md), [algorithms](algorithms.md), [artificial intelligence](artificial-intelligence.md), [compilers](compilers.md), [computer science](computer-science.md), [computer security](computer-security.md), [computer vision](computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](deep-learning.md), [machine learning](machine-learning.md), and [programming](programming.md).
+A lot of our current users are programmers. And so we have: [Git](git.md), [algorithms](computer-science/algorithms.md), [artificial intelligence](computer-science/artificial-intelligence.md), [compilers](computer-science/compilers.md), [computer science](computer-science.md), [computer security](computer-science/computer-security.md), [computer vision](computer-science/computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](computer-science/deep-learning.md), [machine learning](computer-science/machine-learning.md), and [programming](programming.md).
 
 For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). 
 

@@ -1,4 +1,4 @@
-[!Never stop learning](header.jpg?raw=true)
+![Never stop learning](header.jpg?raw=true)
 
 # learn-awesome
 

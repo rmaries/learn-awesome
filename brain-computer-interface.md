@@ -15,12 +15,14 @@
 ## Audio, Podcasts
 
 ## Blogs
-- [Alexandre Barachant](http://alexandre.barachant.org/blog/)
 
+- [Alexandre Barachant](http://alexandre.barachant.org/blog/)
 
 ## Books
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

@@ -13,13 +13,15 @@
 ## Audio, Podcasts
 
 ## Blogs
+
 - [Airbnb Engineering](https://medium.com/airbnb-engineering)
 - [Learn Anything](https://medium.com/learn-anything)
-
 
 ## Books
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

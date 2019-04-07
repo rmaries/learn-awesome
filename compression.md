@@ -13,11 +13,14 @@
 ## Audio, Podcasts
 
 ## Blogs
+
 - [Realtime Data Compression](http://fastcompression.blogspot.nl/)
 
 ## Books
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

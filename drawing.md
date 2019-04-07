@@ -2,7 +2,7 @@
 
 - prerequisites:
 - subtopics:
-- curators: @pareshchouhan
+- curators: pareshchouhan
 
 ------
 
@@ -17,6 +17,8 @@
 ## Books
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

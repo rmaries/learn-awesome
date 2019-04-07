@@ -15,13 +15,15 @@
 ## Audio, Podcasts
 
 ## Blogs
+
 - [KDnuggets](http://www.kdnuggets.com/)
 - [MLWave](http://mlwave.com/)
-
 
 ## Books
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

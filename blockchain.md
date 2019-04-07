@@ -2,7 +2,7 @@
 
 - prerequisites:
 - subtopics:
-- curators:
+- curators: anistark
 
 ------
 
@@ -70,6 +70,8 @@
 - [Mastering Bitcoin Programming](https://www.amazon.in/Mastering-Bitcoin-Programming-Open-Blockchain/dp/9352135741) - Andreas M. Antonopoulos
 
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

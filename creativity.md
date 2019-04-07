@@ -16,10 +16,12 @@
 ## Blogs
 
 ## Books
+
 - [📕 Creativity, inc (2014)](http://www.goodreads.com/book/show/18077903-creativity-inc)
 
-
 ## Certifications & Assessment
+
+## Cheatsheets
 
 ## Code
 

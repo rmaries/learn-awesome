@@ -26,14 +26,14 @@ You should join us to expand and improve our collection! Use this [template](tem
 - Have a high bar for quality. The Internet is full of awesome things as well as less-than-awesome things.
 - Do not promote your own books / articles / videos etc. If it's good, it will show up.
 - Remove any affiliate codes etc from the links.
-- Paid resources (like courses) are okay, but they should marked as `paid`. Remember, quality is the first criteria.
+- Paid resources (like courses) are okay, but they should be marked as `paid`. Remember, quality is the first criteria.
 - Try to add this metadata with every link whenever relevant:
   - Year (to know how old a resource is)
   - Estimated time it will take to complete (reading, watching, completing course exercises etc.)
   - Difficulty level (beginner / intermediate / expert)
-  - Author. Add them in `people` section whenever appropriate.
+  - Author. Add them in `people` section whenever they're worth following for that topic.
 - Build a useful concept graph by specifying prerequisites and subtopics. This is often hard.
-- Whenever in doubt, always put the learner first.
+- Always put the learner first.
 - Discuss your ideas & questions over at [Gitter](https://gitter.im/learn-awesome/).
 
 ## Future

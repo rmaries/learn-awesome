@@ -28,6 +28,8 @@
 
 ## Certifications & Assessment
 
+## Cheatsheets
+
 ## Code
 
 ## Conferences

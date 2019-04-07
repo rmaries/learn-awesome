@@ -6,9 +6,14 @@
 
 ---
 
-## Apps
+## Apps & Websites
 
 - [Anki: Flash cards with spaced repetition](https://apps.ankiweb.net/)
+- [LibGen](http://gen.lib.rus.ec/)
+- [SciHub](https://sci-hub.tw/)
+- [Main Wikipedia](https://en.wikipedia.org/)
+- [Simple Wikipedia](https://simple.wikipedia.org/)
+- [OpenCulture](http://www.openculture.com/)
 
 ## Articles
 

@@ -1,3 +1,5 @@
+[!Never stop learning](header.jpg?raw=true)
+
 # learn-awesome
 
 [![Gitter](https://img.shields.io/badge/-Gitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gitter.im/learn-awesome/community)
@@ -23,6 +25,7 @@ You should join us to expand and improve our collection! Use this [template](tem
 
 ## Contributing
 
+- Always put the learner first.
 - Have a high bar for quality. The Internet is full of awesome things as well as less-than-awesome things.
 - Do not promote your own books / articles / videos etc. If it's good, it will show up.
 - Remove any affiliate codes etc from the links.
@@ -34,7 +37,6 @@ You should join us to expand and improve our collection! Use this [template](tem
   - Author. Add them in `people` section whenever they're worth following for that topic.
 - Build a useful concept graph by specifying prerequisites and subtopics. This is often hard.
 - For a new topic, start with this [template](template.md).
-- Always put the learner first.
 - Discuss your ideas & questions over at [Gitter](https://gitter.im/learn-awesome/).
 
 ## Future

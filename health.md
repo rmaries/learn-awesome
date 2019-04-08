@@ -36,6 +36,8 @@
 
 ## Courses
 
+- [Science of Exercise](https://www.coursera.org/learn/science-exercise)
+
 ## Forums, Group chats
 
 - [Advanced fitness](https://www.reddit.com/r/AdvancedFitness/)

@@ -94,6 +94,7 @@
 - [MapReduce](https://www.quora.com/topic/MapReduce)
 - [Matrix computations ](https://www.quora.com/topic/Matrix-Computations)
 - [Processors](https://www.quora.com/topic/Processors)
+- [Theoretical computer science](http://cstheory.stackexchange.com)
 
 ## Research Papers
 

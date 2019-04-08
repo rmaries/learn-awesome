@@ -48,7 +48,7 @@
 
 ## Q&A
 
-- [Spanish language](http://spanish.stackexchange.com)
+
 
 ## Quotes
 

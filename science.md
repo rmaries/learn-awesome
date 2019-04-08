@@ -67,6 +67,7 @@
 
 - [Science](https://www.quora.com/topic/Science)
 - [Skeptics](https://skeptics.stackexchange.com)
+- [Science fiction & fantasy](https://scifi.stackexchange.com)
 
 ## Quotes
 

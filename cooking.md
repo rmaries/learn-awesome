@@ -1,4 +1,4 @@
-# Games
+# Cooking
 
 - prerequisites:
 - subtopics:
@@ -14,8 +14,6 @@
 
 ## Blogs
 
-- [Video Game History Foundation](https://gamehistory.org/blog/)
-
 ## Books
 
 ## Certifications & Assessment
@@ -30,15 +28,13 @@
 
 ## Forums, Group chats
 
-- [Factorio](https://www.reddit.com/r/factorio/)
-
-- [Patient gamers](https://www.reddit.com/r/patientgamers/)
-
 ## Games
 
 ## Images
 
 ## Interactives
+
+## Journals
 
 ## Learning Plans
 
@@ -52,11 +48,16 @@
 
 ## Q&A
 
-- [Board & card games](https://boardgames.stackexchange.com)
-- [Role playing games](https://rpg.stackexchange.com)
+- [Seasoned advice](https://cooking.stackexchange.com)
+
+## Quotes
 
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Cooking)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Cooking)
+

@@ -53,6 +53,8 @@
 
 ## Q&A
 
+- [Russian language](https://russian.stackexchange.com)
+
 ## Quotes
 
 ## Research Papers
@@ -60,3 +62,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Russian_language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Russian_language)
+

@@ -31,10 +31,10 @@
 - [Nick Balestra](http://nick.balestra.ch/)
 - [Perfection Kills](http://perfectionkills.com/)
 - [PlayfulJS](http://www.playfuljs.com)
+- [Praveen's Adventures](https://blog.praveen.science/tag/javascript/)
 - [Wavesoft](http://wavesoft.github.io/)
 - [Wes Bos](http://wesbos.com/blog/)
 - [Yehuda Katz](http://yehudakatz.com/)
-
 
 ## Books
 
@@ -62,11 +62,16 @@
 
 ## Conferences
 
+- [JSConf - Conferences for the JavaScript Community](https://jsconf.com/)
+
 ## Courses
+
+- [React For Beginners — The best way to learn React](https://reactforbeginners.com/)
+- [Advanced React & GraphQL — Build Full Stack Applications with React and GraphQL](https://advancedreact.com/)
 
 ## Forums, Group chats
 
-- [Javascript](https://www.reddit.com/r/javascript/)
+- [JavaScript](https://www.reddit.com/r/javascript/)
 
 ## Games
 
@@ -76,9 +81,13 @@
 
 ## Learning Plans
 
+- [JavaScript Path | Pluralsight](https://www.pluralsight.com/paths/javascript)
+
 ## Livestreams
 
 ## Meetups
+
+- [Frontend web developer meetup, Newcastle upon Tyne](https://frontendne.co.uk/)
 
 ## Newsletters
 
@@ -93,5 +102,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
 - [Main Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 - [Simple Wikipedia](https://en.wikipedia.org/wiki/JavaScript)

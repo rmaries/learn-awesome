@@ -58,8 +58,13 @@
 
 ## Q&A
 
+- [Unix](https://unix.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Linux)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Linux)

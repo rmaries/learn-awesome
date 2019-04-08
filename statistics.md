@@ -64,6 +64,8 @@
 
 ## Q&A
 
+- [Cross validated](https://stats.stackexchange.com)
+
 ## Quotes
 
 ## Research Papers

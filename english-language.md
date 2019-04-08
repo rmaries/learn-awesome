@@ -1,4 +1,4 @@
-# Alcohol
+# English Language
 
 - prerequisites:
 - subtopics:
@@ -48,8 +48,8 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [English language & usage](https://english.stackexchange.com)
+- [English language learners](https://ell.stackexchange.com)
 
 ## Quotes
 
@@ -58,3 +58,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/English_language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/English_language)
+

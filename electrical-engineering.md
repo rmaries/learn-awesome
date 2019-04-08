@@ -1,4 +1,4 @@
-# Alcohol
+# Electrical Engineering
 
 - prerequisites:
 - subtopics:
@@ -48,8 +48,7 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [Electrical engineering](http://electronics.stackexchange.com?title=)
 
 ## Quotes
 
@@ -58,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Electrical_engineering)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Electrical_engineering)
+

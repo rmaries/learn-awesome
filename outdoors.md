@@ -1,4 +1,4 @@
-# Alcohol
+# Outdoors
 
 - prerequisites:
 - subtopics:
@@ -48,8 +48,7 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [Great outdoors](https://outdoors.stackexchange.com)
 
 ## Quotes
 
@@ -58,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

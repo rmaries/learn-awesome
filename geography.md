@@ -1,4 +1,4 @@
-# Alcohol
+# Geography
 
 - prerequisites:
 - subtopics:
@@ -48,8 +48,7 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [Geographic information systems](https://gis.stackexchange.com)
 
 ## Quotes
 
@@ -58,3 +57,8 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia Geographic information system](https://en.wikipedia.org/wiki/Geographic_information_system)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Geography)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Geography)
+

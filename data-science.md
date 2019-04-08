@@ -55,6 +55,7 @@
 - [Data science](https://www.quora.com/topic/Data-Science)
 - [Data](https://www.quora.com/topic/Data)
 - [Datasets](https://www.quora.com/topic/Datasets)
+- [Data science](https://datascience.stackexchange.com)
 
 ## Research Papers
 

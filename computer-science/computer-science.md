@@ -98,6 +98,7 @@
 - [Software engineering](https://softwareengineering.stackexchange.com)
 - [Software quality assurance & testing](https://sqa.stackexchange.com)
 - [Software recommendations](https://softwarerecs.stackexchange.com)
+- [Computer science](https://cs.stackexchange.com)
 
 ## Research Papers
 

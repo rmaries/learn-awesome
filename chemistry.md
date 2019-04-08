@@ -55,6 +55,8 @@
 
 ## Q&A
 
+- [Chemistry](https://chemistry.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

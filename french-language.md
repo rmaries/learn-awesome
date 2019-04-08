@@ -1,5 +1,4 @@
-# Alcohol
-
+# French language
 - prerequisites:
 - subtopics:
 - curators:
@@ -48,8 +47,7 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [French language](https://french.stackexchange.com)
 
 ## Quotes
 
@@ -58,3 +56,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/French_language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/French_language)
+

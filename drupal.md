@@ -1,4 +1,4 @@
-# Alcohol
+# Drupal
 
 - prerequisites:
 - subtopics:
@@ -48,8 +48,7 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [Drupal](https://drupal.stackexchange.com)
 
 ## Quotes
 
@@ -58,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Drupal)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Drupal)
+

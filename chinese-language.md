@@ -1,4 +1,4 @@
-# Alcohol
+# Chinese Language
 
 - prerequisites:
 - subtopics:
@@ -48,8 +48,7 @@
 
 ## Q&A
 
-- [Beer wine and & spirits](https://alcohol.stackexchange.com)
-- [Homebrewing](https://homebrew.stackexchange.com)
+- [Chinese](http://chinese.stackexchange.com)
 
 ## Quotes
 
@@ -58,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Chinese_language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Chinese_language)
+

@@ -49,8 +49,13 @@
 
 ## Q&A
 
+- [Graphic design](https://graphicdesign.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Graphic_design)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Graphic_design)

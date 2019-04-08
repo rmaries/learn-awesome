@@ -51,6 +51,8 @@
 
 ## Q&A
 
+- [Computer graphics](http://computergraphics.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

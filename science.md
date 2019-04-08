@@ -68,6 +68,8 @@
 - [Science](https://www.quora.com/topic/Science)
 - [Skeptics](https://skeptics.stackexchange.com)
 - [Science fiction & fantasy](https://scifi.stackexchange.com)
+- [Cognitive sciences](https://cogsci.stackexchange.com)
+- [Computational science](https://scicomp.stackexchange.com)
 
 ## Quotes
 

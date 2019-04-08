@@ -54,9 +54,13 @@
 
 - [Board & card games](https://boardgames.stackexchange.com)
 - [Role playing games](https://rpg.stackexchange.com)
+- [Gaming](https://gaming.stackexchange.com)
 
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Game)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Game)

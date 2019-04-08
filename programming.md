@@ -421,6 +421,7 @@
 - [Sublime text](https://www.quora.com/topic/Sublime-Text)
 - [Text editors](https://www.quora.com/topic/Text-Editors)
 - [Programming puzzles & code golf](https://codegolf.stackexchange.com)
+- [Code review](http://codereview.stackexchange.com)
 
 ## Research Papers
 

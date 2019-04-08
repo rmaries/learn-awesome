@@ -63,6 +63,8 @@
 
 ## Q&A
 
+- [Stack Exchange](http://music.stackexchange.com)
+
 ## Quotes
 
 ## Research Papers
@@ -70,3 +72,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Music)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Music)

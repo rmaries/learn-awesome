@@ -420,6 +420,7 @@
 - [Computer programming](https://www.quora.com/topic/Computer-Programming)
 - [Sublime text](https://www.quora.com/topic/Sublime-Text)
 - [Text editors](https://www.quora.com/topic/Text-Editors)
+- [Programming puzzles & code golf](https://codegolf.stackexchange.com)
 
 ## Research Papers
 

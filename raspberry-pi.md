@@ -1,4 +1,4 @@
-# Parenting
+# Raspberry pi
 
 - prerequisites:
 - subtopics:
@@ -48,7 +48,7 @@
 
 ## Q&A
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Raspberry pi](http://raspberrypi.stackexchange.com)
 
 ## Quotes
 
@@ -58,5 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Parenting)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Parenting)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Raspberry_Pi)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Raspberry_Pi)
+

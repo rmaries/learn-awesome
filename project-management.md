@@ -1,4 +1,4 @@
-# Parenting
+# Project Management
 
 - prerequisites:
 - subtopics:
@@ -46,9 +46,9 @@
 
 ## People
 
-## Q&A
+## Q&
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Project management](https://pm.stackexchange.com)
 
 ## Quotes
 
@@ -58,5 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Parenting)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Parenting)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Project_management)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Project_management)
+

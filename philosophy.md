@@ -61,7 +61,8 @@
 
 ## Q&A
 
-- [Philosophy](https://www.quora.com/topic/Philosophy)
+- [Quora](https://www.quora.com/topic/Philosophy)
+- [Stack Exchange](https://philosophy.stackexchange.com)
 
 ## Quotes
 

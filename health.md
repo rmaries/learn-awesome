@@ -67,7 +67,9 @@
 
 ## People
 
-## Q&A
+## Q&
+
+- [Physical fitness](http://fitness.stackexchange.com)
 
 ## Quotes
 

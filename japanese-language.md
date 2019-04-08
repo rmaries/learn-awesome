@@ -1,4 +1,4 @@
-# Parenting
+# Japanese
 
 - prerequisites:
 - subtopics:
@@ -46,9 +46,9 @@
 
 ## People
 
-## Q&A
+## Q&
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Stack Exchange](https://japanese.stackexchange.com)
 
 ## Quotes
 
@@ -58,5 +58,7 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Parenting)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Parenting)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Japanese_language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Japanese_language)
+
+

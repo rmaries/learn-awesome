@@ -1,4 +1,4 @@
-# Parenting
+# Pets
 
 - prerequisites:
 - subtopics:
@@ -46,9 +46,9 @@
 
 ## People
 
-## Q&A
+## Q&
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Stack Exchange](https://pets.stackexchange.com)
 
 ## Quotes
 
@@ -58,5 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Parenting)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Parenting)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Pet)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Pet)
+

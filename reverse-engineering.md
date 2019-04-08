@@ -53,6 +53,8 @@
 
 ## Q&A
 
+- [Reverse engineering](https://reverseengineering.stackexchange.com)
+
 ## Quotes
 
 ## Research Papers

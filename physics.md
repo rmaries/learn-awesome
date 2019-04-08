@@ -74,6 +74,8 @@
 
 ## Q&A
 
+- [Physics](http://physics.stackexchange.com)
+
 ## Research Papers
 
 - [Hamiltonian for the zeros of the Riemann Zeta function (2016)](https://arxiv.org/abs/1608.03679)
@@ -96,3 +98,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Physics)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Physics)

@@ -62,6 +62,8 @@
 
 ## Q&A
 
+- [Network engineering Stack Exchange](https://networkengineering.stackexchange.com)
+
 ## Research Papers
 
 - [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf)

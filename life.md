@@ -56,6 +56,8 @@
 
 ## Q&A
 
+- [Personal productivity Stack Exchange](https://productivity.stackexchange.com)
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

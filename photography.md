@@ -52,10 +52,15 @@
 
 ## People
 
-## Q&A
+## Q&
+
+- [Photography](https://photo.stackexchange.com)
 
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Photography)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Photography)

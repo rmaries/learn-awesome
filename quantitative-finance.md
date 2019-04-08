@@ -1,4 +1,4 @@
-# Parenting
+# Quantitative Finance
 
 - prerequisites:
 - subtopics:
@@ -46,9 +46,9 @@
 
 ## People
 
-## Q&A
+## Q&
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Quantitative finance](https://quant.stackexchange.com)
 
 ## Quotes
 
@@ -58,5 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Parenting)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Parenting)
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

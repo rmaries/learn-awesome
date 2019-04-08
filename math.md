@@ -160,6 +160,9 @@
 - [Number theory](https://www.quora.com/topic/Number-Theory)
 - [Prime numbers](https://www.quora.com/topic/Prime-Numbers)
 - [Set theory](https://www.quora.com/topic/Set-Theory)
+- [Math educators Stack Exchange](http://matheducators.stackexchange.com)
+- [Math overflow](http://mathoverflow.net)
+- [Mathematica Stack Exchange](http://mathematica.stackexchange.com)
 
 ## Research Papers
 

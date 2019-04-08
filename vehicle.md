@@ -1,4 +1,4 @@
-# Parenting
+# Vehicle
 
 - prerequisites:
 - subtopics:
@@ -48,7 +48,7 @@
 
 ## Q&A
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Motor vehicle maintenance & repair](https://mechanics.stackexchange.com)
 
 ## Quotes
 
@@ -58,5 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Parenting)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Parenting)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Vehicle)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Vehicle)
+

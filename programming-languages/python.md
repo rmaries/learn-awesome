@@ -38,7 +38,7 @@
 - [📖 Inside the python virtual machine (2017)](https://leanpub.com/insidethepythonvirtualmachine/read)
 - [📖 Full Speed Python (2018)](https://github.com/joaoventura/full-speed-python)
 - [📖 Automate the boring stuff with python](https://automatetheboringstuff.com/) by [Al Sweigart](https://twitter.com/AlSweigart)
-- [📕 A Byte of Python](https://python.swaroopch.com/)
+- [📕 A Byte of Python](https://python.swaroopch.com/) by Swaroop C. H.
 - [📖 Building Skills in Python (2010)](http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) by [Steven F. Lott](https://www.goodreads.com/author/show/4537706.Steven_F_Lott)
 - [📕 Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
 - [📕 Quantitative Economics with Python](https://lectures.quantecon.org/py/)

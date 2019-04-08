@@ -66,7 +66,7 @@
 
 ## Forums, Group chats
 
-- [Python](https://www.reddit.com/r/Python/)
+- [r/python | Reddit](https://www.reddit.com/r/Python/)
 - [BangPypers](https://bangpypers.slack.com/)
 - [PyStudyGroup](https://pystudygroup.slack.com/)
 

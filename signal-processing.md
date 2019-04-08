@@ -1,4 +1,4 @@
-# Git
+# Signal Processing
 
 - prerequisites:
 - subtopics:
@@ -16,14 +16,9 @@
 
 ## Books
 
-- [📖 Git in practice (2014)](https://content.mirantis.com/rs/451-RBY-185/images/McQuaid-git-in-practice.pdf)
-- [📖 Pro git (2014)](https://git-scm.com/book/en/v2)
-
 ## Certifications & Assessment
 
 ## Cheatsheets
-
-- [GitHub Education](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Code
 
@@ -39,6 +34,8 @@
 
 ## Interactives
 
+## Journals
+
 ## Learning Plans
 
 ## Livestreams
@@ -51,8 +48,16 @@
 
 ## Q&A
 
+- [Signal processing](https://dsp.stackexchange.com)
+
+## Quotes
+
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Signal_processing)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Signal_processing)
+

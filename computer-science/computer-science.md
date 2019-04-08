@@ -95,6 +95,9 @@
 - [Matrix computations ](https://www.quora.com/topic/Matrix-Computations)
 - [Processors](https://www.quora.com/topic/Processors)
 - [Theoretical computer science](http://cstheory.stackexchange.com)
+- [Software engineering](https://softwareengineering.stackexchange.com)
+- [Software quality assurance & testing](https://sqa.stackexchange.com)
+- [Software recommendations](https://softwarerecs.stackexchange.com)
 
 ## Research Papers
 

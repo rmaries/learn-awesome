@@ -66,6 +66,7 @@
 ## Q&A
 
 - [Science](https://www.quora.com/topic/Science)
+- [Skeptics](https://skeptics.stackexchange.com)
 
 ## Quotes
 

@@ -17,6 +17,7 @@
 ## Books
 
 - [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
+- [📕 Digital Minimalism](https://www.goodreads.com/book/show/44160076-digital-minimalism)
 
 
 ## Certifications & Assessment

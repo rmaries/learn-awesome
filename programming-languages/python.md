@@ -29,7 +29,6 @@
 - [Python Software Foundation](http://pyfound.blogspot.com/)'s Blog
 - [Rg3](http://rg3.name/)
 - [BangPypers](http://bangalore.python.org.in/)
-- [PyCoder's Weekly | A Weekly Python E-Mail Newsletter](https://pycoders.com/)
 
 ## Books
 
@@ -100,6 +99,7 @@
 ## Newsletters
 
 - [BangPypers](https://mail.python.org/mailman/listinfo/bangpypers)
+- [PyCoder's Weekly | A Weekly Python E-Mail Newsletter](https://pycoders.com/)
 
 ## People
 

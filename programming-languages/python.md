@@ -114,5 +114,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Python_(programming_language))
+- [Python Wiki](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+- [Python(Programming Language) | Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+- [Python(Programming Language) | Simple Wikipedia](https://simple.wikipedia.org/wiki/Python_(programming_language))

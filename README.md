@@ -17,7 +17,7 @@ We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science]
 
 A lot of our current users are programmers. And so we have: [Git](git.md), [algorithms](computer-science/algorithms.md), [artificial intelligence](computer-science/artificial-intelligence.md), [compilers](computer-science/compilers.md), [computer science](computer-science/computer-science.md), [computer security](computer-science/computer-security.md), [computer vision](computer-science/computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](computer-science/deep-learning.md), [machine learning](computer-science/machine-learning.md), and [programming](programming.md). And of course a whole bunch of [programming languages](programming-languages/)! :-)
 
-For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). 
+For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). We're now starting to curate links for a few [human languages](human-languages) as well.
 
 You should join us to expand and improve our collection! Use this [template](template.md) to create a page for a new topic and send us a pull request. For discussions, come over to [Gitter](https://gitter.im/learn-awesome/). Happy learning :-)
 

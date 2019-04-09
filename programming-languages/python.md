@@ -83,6 +83,10 @@
 
 ## Interactives
 
+- [Python Tutor | Visualize Python Code Execution](http://pythontutor.com/visualize.html#mode=edit)
+- [CodeSkulptor3](https://py3.codeskulptor.org/)
+- [CheckiO | Python Online Playground](https://py.checkio.org/)
+
 ## Journals
 
 ## Learning Plans

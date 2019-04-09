@@ -1,4 +1,4 @@
-# Minimalism
+# Kannada
 
 - prerequisites:
 - subtopics:
@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [Kannada Baruthe](https://play.google.com/store/apps/details?id=com.kannadabaruthe&hl=en_IN)
+
 ## Articles
 
 ## Audio, Podcasts
@@ -15,10 +17,6 @@
 ## Blogs
 
 ## Books
-
-- [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
-- [📕 Digital Minimalism](https://www.goodreads.com/book/show/44160076-digital-minimalism)
-
 
 ## Certifications & Assessment
 
@@ -60,5 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Minimalism)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Minimalism)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Kannada)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Kannada)
+

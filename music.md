@@ -30,6 +30,8 @@
 
 ## Courses
 
+- [Udemy Beginnner Piano lessons](https://www.udemy.com/beginnerpianolessons/)
+
 ## Forums, Group chats
 
 - [80s electro](https://www.reddit.com/r/80sElectro/)

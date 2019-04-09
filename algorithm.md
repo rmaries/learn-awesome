@@ -1,4 +1,4 @@
-# Minimalism
+# Algorithms
 
 - prerequisites:
 - subtopics:
@@ -15,10 +15,6 @@
 ## Blogs
 
 ## Books
-
-- [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
-- [📕 Digital Minimalism](https://www.goodreads.com/book/show/44160076-digital-minimalism)
-
 
 ## Certifications & Assessment
 
@@ -60,5 +56,7 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Minimalism)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Minimalism)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Algorithm)
+
+

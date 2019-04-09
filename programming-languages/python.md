@@ -27,6 +27,7 @@
 - [Python Software Foundation](http://pyfound.blogspot.com/)'s Blog
 - [Rg3](http://rg3.name/)
 - [BangPypers](http://bangalore.python.org.in/)
+- [PyCoder's Weekly | A Weekly Python E-Mail Newsletter](https://pycoders.com/)
 
 ## Books
 
@@ -72,6 +73,7 @@
 - [r/python | Reddit](https://www.reddit.com/r/Python/)
 - [BangPypers](https://bangpypers.slack.com/)
 - [PyStudyGroup](https://pystudygroup.slack.com/)
+- [comp.lang.python | Google Group](https://groups.google.com/forum/#!forum/comp.lang.python)
 
 ## Games
 

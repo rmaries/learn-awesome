@@ -1,4 +1,4 @@
-# Funny
+# Medicine
 
 - prerequisites:
 - subtopics:
@@ -28,8 +28,6 @@
 
 ## Forums, Group chats
 
-- [Stopped working](https://www.reddit.com/r/StoppedWorking/)
-
 ## Games
 
 ## Images
@@ -57,3 +55,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Medicine)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Medicine)
+

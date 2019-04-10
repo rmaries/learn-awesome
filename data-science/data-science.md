@@ -1,7 +1,7 @@
 # Data Science
 - prerequisites:
 - subtopics:
-- curators: [Somraj](https://github.com/Jarmos-san)
+- curators: [Jarmos](https://github.com/Jarmos-san)
 
 ------
 

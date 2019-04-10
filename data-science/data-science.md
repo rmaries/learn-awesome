@@ -14,12 +14,14 @@
 ## Audio, Podcasts
 
 ## Blogs
+
 - [Robert Chang](https://medium.com/@rchang) - Worked at Airbnb and Twitter.
 - [Variance Explained](http://varianceexplained.org/)
 
 
 ## Books
-- [📕 Designing Data-Intensive Applications (2014)](http://shop.oreilly.com/product/0636920032175.do)
+
+- [📕 Designing Data-Intensive Applications (2014)](https://dataintensive.net/) by Martin Kleppmann
 
 
 ## Certifications & Assessment
@@ -52,10 +54,10 @@
 
 ## Q&A
 
-- [Data science](https://www.quora.com/topic/Data-Science)
-- [Data](https://www.quora.com/topic/Data)
-- [Datasets](https://www.quora.com/topic/Datasets)
-- [Data science](https://datascience.stackexchange.com)
+- [Data science | Quora](https://www.quora.com/topic/Data-Science)
+- [Data | Quora](https://www.quora.com/topic/Data)
+- [Datasets | Quora](https://www.quora.com/topic/Datasets)
+- [Data science | StackExchange](https://datascience.stackexchange.com)
 
 ## Research Papers
 

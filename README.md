@@ -7,6 +7,9 @@
 
 #### Awesome learning resources organized by topics, formats and difficulty.
 
+<a href="https://www.producthunt.com/posts/learn-awesome?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-learn-awesome" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=150963&theme=light" alt="Learn Awesome - Awesome links from the Web by topics, formats & difficulty | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
+
 ## What is learn-awesome?
 
 With the explosion of information available on the Internet, it has become difficult to find the best learning resources on any topic. Some really amazing things are available on the Web, but learning platforms are typically tied to a single format and want to keep you within their site/app. In other words, learning apps are not actually learner-centric. For any given topic (say, machine learning), it should be easy to find best courses, best podcasts, best books, best articles, best Q&A sites, best chat groups, best people to follow, the best research papers, best interactive exercises/playgrounds and so on.

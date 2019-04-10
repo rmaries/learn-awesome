@@ -28,6 +28,7 @@
 - [The Art of Learning](https://www.goodreads.com/book/show/857333.The_Art_of_Learning) by [Josh Watzkin](#people)
 - [Learning: A Very Short Introduction](https://www.goodreads.com/book/show/27310222-learning) by [Mark Haselgrove](#people)
 - [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by [National Academies Press](https://www.nap.edu)
+- [Learning How To Learn](https://www.goodreads.com/book/show/36647421-learning-how-to-learn?ac=1&from_search=true) (2018) by [Barbara Oakley](#people)
 
 ## Certifications & Assessment
 
@@ -43,6 +44,18 @@
 - [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) by [Dr. Barbara Oakley](#people), [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) & M.S. Orlando Trejo (11 hours; Beginner)
 
 ## Forums, Group chats
+
+- [/r/TodayILearned](https://www.reddit.com/r/todayilearned/top/?sort=top&t=all)
+- [/r/ExplainLikeImfive](https://www.reddit.com/r/explainlikeimfive/top/?sort=top&t=all)
+- [/r/EducationalGIFs](https://www.reddit.com/r/educationalgifs/top/?sort=top&t=all)
+- [/r/YouShouldKnow](https://www.reddit.com/r/YouShouldKnow/top/?sort=top&t=all)
+- [/r/IWantToLearn](https://www.reddit.com/r/IWantToLearn/top/?sort=top&t=all)
+- [/r/howto](https://www.reddit.com/r/howto/top/?sort=top&t=all)
+- [/r/answers](https://www.reddit.com/r/answers/top/?sort=top&t=all)
+- [/r/lectures](https://www.reddit.com/r/lectures/top/?sort=top&t=all)
+- [/r/teachingresources](https://www.reddit.com/r/teachingresources/top/?sort=top&t=all)
+- [/r/OpenEd](https://www.reddit.com/r/OpenEd/top/?sort=top&t=all)
+- [/r/UniversityOfReddit](https://www.reddit.com/r/universityofreddit/)
 
 ## Games
 
@@ -60,7 +73,7 @@
 
 ## People
 
-- Dr. Barbara Oakley: [twitter](https://twitter.com/barbaraoakley), [website](https://barbaraoakley.com/)
+- Dr. Barbara Oakley: [twitter](https://twitter.com/barbaraoakley), [website](https://barbaraoakley.com/), [wiki](https://en.wikipedia.org/wiki/Barbara_Oakley)
 - Dr. Terrence Sejnowski: [wiki](https://en.wikipedia.org/wiki/Terry_Sejnowski)
 - Derek Sivers: [twitter](https://twitter.com/sivers/), [website](https://sivers.org/)
 - Nicky Case: [twitter](https://twitter.com/ncasenmare), [website](https://ncase.me/)

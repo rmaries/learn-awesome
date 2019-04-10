@@ -30,7 +30,7 @@
 
 ## Courses
 
-- [Udemy Beginnner Piano lessons](https://www.udemy.com/beginnerpianolessons/)
+
 
 ## Forums, Group chats
 

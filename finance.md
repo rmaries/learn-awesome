@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [Varsity by Zerodha](https://play.google.com/store/apps/details?id=com.zerodha.varsity&hl=en_US)
+
 ## Articles
 
 ## Audio, Podcasts
@@ -25,6 +27,8 @@
 ## Conferences
 
 ## Courses
+
+- [Varsity by Zerodha](https://zerodha.com/varsity/)
 
 ## Forums, Group chats
 

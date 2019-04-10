@@ -1,4 +1,4 @@
-# Chess
+# Piano
 
 - prerequisites:
 - subtopics:
@@ -7,9 +7,6 @@
 ------
 
 ## Apps
-
-- [Lichess Android](https://play.google.com/store/apps/details?id=org.lichess.mobileapp&hl=en_IN)
-- [Lichess iOS](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 
 ## Articles
 
@@ -28,6 +25,9 @@
 ## Conferences
 
 ## Courses
+
+- [Udemy Beginnner Piano lessons](https://www.udemy.com/beginnerpianolessons/)
+- [Classical Piano Pieces for beginners](https://www.udemy.com/pi-101-piano/learn/lecture/5015594#overview)
 
 ## Forums, Group chats
 
@@ -51,8 +51,6 @@
 
 ## Q&A
 
-- [Chess](https://chess.stackexchange.com)
-
 ## Quotes
 
 ## Research Papers
@@ -61,6 +59,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Chess)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Chess)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Piano)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Piano)
 

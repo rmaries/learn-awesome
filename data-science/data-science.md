@@ -15,6 +15,11 @@
 
 - [Robert Chang](https://medium.com/@rchang) - Worked at Airbnb and Twitter.
 - [Variance Explained](http://varianceexplained.org/)
+- [Data Science & Psychology](http://www.polipsych.com/)
+- [Data Science 101 | Learning to be a Data Scientist](https://101.datascience.community/)
+- [KDNuggets](https://www.kdnuggets.com/)
+- [No Free Hunch | The Official Blog of Kaggle](http://blog.kaggle.com/)
+- [Data Science Central](https://www.datasciencecentral.com/)
 
 
 ## Books

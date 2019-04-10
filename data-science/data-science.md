@@ -11,6 +11,14 @@
 
 ## Audio, Podcasts
 
+- [Data Skeptic Episodes](https://dataskeptic.com/podcast?limit=10&offset=0)
+- [Linear Digressions](http://lineardigressions.com/)
+- [Not So Standard Deviations](http://nssdeviations.com/)
+- [Super Data Science](https://www.superdatascience.com/podcast/)
+- [TWiML&AI](https://twimlai.com/)
+- [Artificial Intelligence in Industry With Daniel Fagella](http://techemergence.libsyn.com/)
+- [Learning Machines 101](https://www.learningmachines101.com/)
+
 ## Blogs
 
 - [Robert Chang](https://medium.com/@rchang) - Worked at Airbnb and Twitter.

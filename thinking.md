@@ -1,8 +1,8 @@
 # Thinking
 
 - prerequisites:
-- subtopics:
-- curators:
+- subtopics: 
+- curators: 
 
 ------
 
@@ -19,6 +19,7 @@
 - [Analytic Philosophy: A Very Short introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198778028.001.0001/actrade-9780198778028?rskey=MLPnxI&result=28)
 - [Logic: A Very Short Introduction (2nd edn)](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198811701.001.0001/actrade-9780198811701?rskey=rtROx3&result=348)
 - [Thinking and Reasoning: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198787259.001.0001/actrade-9780198787259?rskey=P9EWzI&result=561)
+- [The Great Mental Models](https://fs.blog/tgmm/) by Farnam Street
 
 ## Certifications & Assessment
 

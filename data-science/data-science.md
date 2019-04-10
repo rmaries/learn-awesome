@@ -19,6 +19,7 @@
 
 ## Books
 
+- [Hands-on Machine Learning With Scikit-Learn, Keras & TensorFlow, 2nd Edition (2019)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by [Aurélien Géron](https://twitter.com/aureliengeron?lang=en)
 - [📕 Designing Data-Intensive Applications (2017)](https://dataintensive.net/) by [Martin Kleppmann](https://martin.kleppmann.com/)
 
 

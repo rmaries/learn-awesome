@@ -58,4 +58,6 @@
 
 ## Videos, Documentaries & Films
 
+- [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 ## Wiki

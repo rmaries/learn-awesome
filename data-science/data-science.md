@@ -53,6 +53,15 @@
 
 ## Forums, Group chats
 
+- [KDNuggets LinkedIn Group](https://www.linkedin.com/groups/54257/)
+- [Data Science Central](https://www.datasciencecentral.com/forum)
+- [Analytics Vidhya](https://discuss.analyticsvidhya.com/)
+- [Data Is Ugly | Reddit](https://www.reddit.com/r/dataisugly/)
+- [Data Is Beautiful | Reddit](https://www.reddit.com/r/dataisbeautiful/)
+- [LearnMachineLearning | Reddit](https://www.reddit.com/r/learnmachinelearning/)
+- [Data Science | Reddit](https://www.reddit.com/r/datascience/)
+- [KaggleNoobs](https://kagglenoobs.herokuapp.com/)
+
 ## Games
 
 ## Images

@@ -19,7 +19,7 @@
 
 ## Books
 
-- [📕 Designing Data-Intensive Applications (2014)](https://dataintensive.net/) by Martin Kleppmann
+- [📕 Designing Data-Intensive Applications (2017)](https://dataintensive.net/) by [Martin Kleppmann](https://martin.kleppmann.com/)
 
 
 ## Certifications & Assessment

@@ -1,13 +1,11 @@
 # Data Science
 - prerequisites:
 - subtopics:
-- curators:
+- curators: [Somraj](https://github.com/Jarmos-san)
 
 ------
 
 ## Apps
-
-
 
 ## Articles
 
@@ -27,6 +25,8 @@
 ## Certifications & Assessment
 
 ## Cheatsheets
+
+- [Data Science Cheatsheets](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf) by [Maverick Lin](https://github.com/ml874)
 
 ## Code
 

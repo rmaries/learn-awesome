@@ -64,6 +64,9 @@
 
 ## People
 
+- [Jeremy Howard](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur)) | [Twitter](https://twitter.com/jeremyphoward?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | [YouTube](https://www.youtube.com/user/howardjeremyp/feed) | [LinkedIn](https://www.linkedin.com/in/howardjeremy/) | [Kaggle](https://www.kaggle.com/jhoward)
+- [Siraj Raval](https://sirajraval.com/)
+
 ## Q&A
 
 - [Data science | Quora](https://www.quora.com/topic/Data-Science)

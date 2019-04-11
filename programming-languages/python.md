@@ -16,7 +16,7 @@
 
 - [Talk Python To Me](https://talkpython.fm/)
 - [Python Bytes Podcast](https://pythonbytes.fm/)
-- [Podcast._init_](https://www.pythonpodcast.com/)
+- [Podcast.___init___](https://www.pythonpodcast.com/)
 - [Test & Code - Software Testing, Development, Python](https://testandcode.com/)
 
 

@@ -14,6 +14,9 @@
 - [Main Wikipedia](https://en.wikipedia.org/)
 - [Simple Wikipedia](https://simple.wikipedia.org/)
 - [OpenCulture](http://www.openculture.com/)
+- [Coursera](https://coursera.org)
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+- [MIT OpenCourseWare](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
 
 ## Articles
 

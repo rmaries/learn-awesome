@@ -1,5 +1,7 @@
 # R
 
+![R logo](https://www.r-project.org/logo/Rlogo.png)
+
 - prerequisites:
 - subtopics:
 - curators:

@@ -32,7 +32,7 @@
 
 ## Courses
 
-- [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/share/1000DOBUQcclZbRXo=/) (**Estimated time to Complete**:10.5 hours, **Difficulty**: Beginner)by _Kirill Eremenko_ `paid`
+- [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/share/1000DOBUQcclZbRXo=/) (**Estimated time to Complete**:10.5 hours, **Difficulty**: Beginner) by _Kirill Eremenko_ `paid`
 
 ## Forums, Group chats
 

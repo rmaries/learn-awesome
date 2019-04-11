@@ -95,6 +95,7 @@
 ## Meetups
 
 - [BangPypers](https://www.meetup.com/bangpypers)
+- [Python Meetups | Worldwide](https://www.meetup.com/topics/python/)
 
 ## Newsletters
 

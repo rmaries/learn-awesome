@@ -4,7 +4,7 @@
 
 - prerequisites:
 - subtopics:
-- curators:
+- curators: [Jarmos](https://github.com/Jarmos-san)
 
 ------
 

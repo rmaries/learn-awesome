@@ -59,3 +59,5 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [R | Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))

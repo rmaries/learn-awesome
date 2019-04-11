@@ -30,6 +30,8 @@
 
 ## Courses
 
+- [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/share/1000DOBUQcclZbRXo=/) by Kirill Eremenko `paid`
+
 ## Forums, Group chats
 
 ## Games

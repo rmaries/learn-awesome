@@ -1,6 +1,6 @@
 # R
 
-![R logo](https://www.r-project.org/logo/Rlogo.png)
+![R logo](https://www.r-project.org/logo/Rlogo.svg)
 
 - prerequisites:
 - subtopics:

@@ -54,7 +54,7 @@
 
 ## People
 
-- [Hadley Wickham -- [Twitter](https://twitter.com/hadleywickham?lang=en) | [Quora](https://www.quora.com/profile/Hadley-Wickham)
+- Hadley Wickham -- [Twitter](https://twitter.com/hadleywickham?lang=en) | [Quora](https://www.quora.com/profile/Hadley-Wickham)
 
 ## Q&A
 

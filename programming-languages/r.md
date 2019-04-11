@@ -54,9 +54,12 @@
 
 ## People
 
-- [Hadley Wickham](https://twitter.com/hadleywickham?lang=en)
+- [Hadley Wickham -- [Twitter](https://twitter.com/hadleywickham?lang=en) | [Quora](https://www.quora.com/profile/Hadley-Wickham)
 
 ## Q&A
+
+- [R | StackOverflow](https://stackoverflow.com/tags/r/info)
+- [R | Quora](https://www.quora.com/topic/R-programming-language)
 
 ## Quotes
 

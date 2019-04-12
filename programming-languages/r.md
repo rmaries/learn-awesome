@@ -12,6 +12,11 @@
 
 ## Articles
 
+- [World Cup 2018: 5 Game Changing Technologies in Football](https://www.edureka.co/blog/game-changing-technologies-in-the-world-cup-2018/)
+- [The First Date with your Data in R](http://www.programmingr.com/content/first-date-data-r/)
+- [How To Make Your Data Analyst Resume Stand Out](http://www.programmingr.com/content/analyst-resume/)
+- [Resume & Interview Tips For R Programmers](http://www.programmingr.com/content/resume-interview-tips-r-programmers/)
+
 ## Audio, Podcasts
 
 - [The R-Podcast](https://r-podcast.org/)

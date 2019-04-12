@@ -14,6 +14,12 @@
 
 ## Audio, Podcasts
 
+- [The R-Podcast](https://r-podcast.org/)
+- [No So Standard Deviations](http://nssdeviations.com/)
+- [DataFramed](https://www.datacamp.com/community/podcast?tap_a=5644-dce66f&tap_s=10907-287229)
+- [This Week in Machine Learning and AI Podcast](https://twimlai.com/)
+- [Microsoft Research Podcast Archives](https://www.microsoft.com/en-us/research/blog/category/podcast/)
+
 ## Blogs
 
 ## Books

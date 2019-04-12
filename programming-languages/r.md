@@ -60,6 +60,7 @@
 
 ## People
 
+- [Roger D. Peng](https://twitter.com/rdpeng)
 - Hadley Wickham -- [Twitter](https://twitter.com/hadleywickham?lang=en) | [Quora](https://www.quora.com/profile/Hadley-Wickham)
 
 ## Q&A

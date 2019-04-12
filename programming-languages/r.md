@@ -1,6 +1,6 @@
 # R
 
-![R logo](https://imgur.com/a/Net3WM5)
+![R logo](https://i.imgur.com/p3p9wQ7.jpg)
 
 - prerequisites:
 - subtopics: [Data Science](https://github.com/learn-awesome/learn-awesome/tree/master/data-science)

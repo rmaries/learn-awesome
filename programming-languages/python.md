@@ -130,6 +130,7 @@
 - [Python Tutorials by Corey Schafer | YouTube](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - [Python Tutorials for Absolute Beginner by CS Dojo | YouTube](https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 - [Python 3 Basics Tutorial by Sentdex | YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+- [Archived List of Python Conference Videos](https://pyvideo.org/)
 
 ## Wiki
 

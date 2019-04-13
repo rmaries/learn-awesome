@@ -85,6 +85,14 @@
 
 ## Meetups
 
+- [List of Some of the Big Meetup Groups Worldwide](https://www.meetup.com/pro/r-user-groups)
+- [New York Open Statistical Programming Meetup | 10k+ Members](https://nyhackr.org/)
+- [Data Science Festival - London | 9k+ Members](https://www.meetup.com/Data-Science-Festival-London/)
+- [Greater Boston useR Group | 3k+ Members](https://www.meetup.com/Boston-useR/)
+- [Analytics Vidhya Bangalore | 4k+ members](https://www.meetup.com/analytics-vidhya-bangalore/)
+- [Taiwan R User Group/MLDM Monday | 6k+ Members](https://www.meetup.com/Taiwan-R/)
+- [London Data Science Workshop | 4k+ Members](https://www.meetup.com/London-Data-Science-Workshop/)
+
 ## Newsletters
 
 ## People

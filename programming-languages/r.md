@@ -117,6 +117,8 @@
 - [R Programming For Beginner | edureka!](https://youtu.be/fDRa82lxzaU)
 - [Learn R Programming - YouTube Playlist | DataCamp](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)
 - [Learn R Programming with John Hopkins University - YouTbe Playlist](https://www.youtube.com/playlist?list=PLVext98k2evi8mDNRo4MwIgVgSmwM3cS8)
+- [Introduction to R - YouTube Playlist ](https://www.youtube.com/playlist?list=PL8eNk_zTBST_KL2gnciUv1oor0ECw8Hqg)
+- [Introduction to `dplyr`](https://www.youtube.com/playlist?list=PL8eNk_zTBST923vmo5RZLIZle9fRFoXVP)
 
 ## Wiki
 

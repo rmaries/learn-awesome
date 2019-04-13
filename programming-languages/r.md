@@ -95,6 +95,9 @@
 
 ## Newsletters
 
+- [The R Journal](https://journal.r-project.org/)
+- [RWeekly.org](https://rweekly.org/)
+
 ## People
 
 - [Roger D. Peng](https://twitter.com/rdpeng)

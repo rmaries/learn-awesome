@@ -114,6 +114,10 @@
 
 ## Videos, Documentaries & Films
 
+- [R Programming For Beginner | edureka!](https://youtu.be/fDRa82lxzaU)
+- [Learn R Programming - YouTube Playlist | DataCamp](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg)
+- [Learn R Programming with John Hopkins University - YouTbe Playlist](https://www.youtube.com/playlist?list=PLVext98k2evi8mDNRo4MwIgVgSmwM3cS8)
+
 ## Wiki
 
 - [R | Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))

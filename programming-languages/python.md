@@ -64,6 +64,10 @@
 
 ## Conferences
 
+- [List of Python Conferences & Workshops Worldwide](https://www.python.org/community/workshops/)
+- [Official PyCon Website](http://pycon.org/)
+- [List of Upcoming Python Conferences Worldwide](https://www.python.org/events/)
+
 ## Courses
 
 - [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/share/100058BUQcclZbRXo=/) (**Estimated time to complete**: 24 hours, **Difficulty**: Beginner) by _Jose Portilla_ `Paid`

@@ -37,6 +37,21 @@
 
 ## Cheatsheets
 
+- [Base R](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+- [Advanced R](https://www.rstudio.com/wp-content/uploads/2016/02/advancedR.pdf)
+- [Regular Expressions](https://github.com/rstudio/cheatsheets/raw/master/regex.pdf)
+- [Import Data using R](https://github.com/rstudio/cheatsheets/raw/master/data-import.pdf)
+- [Data Transformation](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+- [Data Visualization](https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf)
+- [R Markdown](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- [RStudio IDE](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+- [Shiny](https://github.com/rstudio/cheatsheets/raw/master/shiny.pdf)
+- [Caret - R Package | Modelling & ML in R](https://github.com/rstudio/cheatsheets/raw/master/caret.pdf)
+- [Tabular Guide to ML Modelling](https://github.com/rstudio/cheatsheets/raw/master/Machine%20Learning%20Modelling%20in%20R.pdf)
+- [Basic R Programming Cheatsheet](http://datasciencefree.com/basicR.pdf)
+- [R Cheatsheet | MIT](http://web.mit.edu/hackl/www/lab/turkshop/slides/r-cheatsheet.pdf)
+- [The Ultimate Cheatsheet(v4)](https://sites.ualberta.ca/~ahamann/teaching/renr690/R_Cheat_Data.pdf)
+
 ## Code
 
 ## Conferences

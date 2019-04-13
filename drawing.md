@@ -16,6 +16,8 @@
 
 ## Books
 
+- [Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/37797374-the-drawing-on-the-right-side-of-the-brain-workbook) by Betty Edwards
+
 ## Certifications & Assessment
 
 ## Cheatsheets
@@ -27,6 +29,9 @@
 ## Courses
 
 ## Forums, Group chats
+
+- [/r/drawing](https://www.reddit.com/r/drawing/)
+- [/r/learntodraw](https://www.reddit.com/r/learntodraw/)
 
 ## Games
 
@@ -55,4 +60,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main wikipedia](https://en.wikipedia.org/wiki/Drawing)
 

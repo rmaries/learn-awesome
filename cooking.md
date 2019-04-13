@@ -6,7 +6,7 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
 
@@ -28,6 +28,12 @@
 
 ## Forums, Group chats
 
+- [/r/cooking](https://www.reddit.com/r/Cooking/)
+- [/r/GifRecipes](https://www.reddit.com/r/GifRecipes/)
+- [/r/AskCulinary](https://www.reddit.com/r/AskCulinary/)
+- [/r/recipes](https://www.reddit.com/r/recipes/)
+- [/r/IndianFood](https://www.reddit.com/r/IndianFood/)
+
 ## Games
 
 ## Images
@@ -48,7 +54,7 @@
 
 ## Q&A
 
-- [Seasoned advice](https://cooking.stackexchange.com)
+- [Seasoned advice (StackExchange)](https://cooking.stackexchange.com)
 
 ## Quotes
 

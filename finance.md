@@ -8,6 +8,7 @@
 
 ## Apps
 
+- [Investopedia](https://www.investopedia.com/)
 - [Varsity by Zerodha](https://play.google.com/store/apps/details?id=com.zerodha.varsity&hl=en_US)
 
 ## Articles
@@ -19,6 +20,8 @@
 ## Books
 
 ## Certifications & Assessment
+
+- [NISM, SEBI India's Investment Advisor Level 1 Certification](https://www.nism.ac.in/certification/index.php/nism-certifications/investment-adviser/investment-adviser-level-1)
 
 ## Cheatsheets
 
@@ -50,7 +53,7 @@
 
 ## People
 
-## Q&
+## Q&A
 
 - [Personal finance & money - Stack Exchange](http://money.stackexchange.com)
 

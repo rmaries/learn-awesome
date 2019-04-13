@@ -6,7 +6,7 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 - [A sample link](https://example/) by [Author](#people)
 

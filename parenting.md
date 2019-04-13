@@ -16,6 +16,9 @@
 
 ## Books
 
+- [On Education, Especially in early childhood](https://www.goodreads.com/book/show/29782087-on-education-especially-in-early-childhood) by Bertrand Russell
+- [How Children Fail](https://en.wikipedia.org/wiki/How_Children_Fail) by John Holt
+
 ## Certifications & Assessment
 
 ## Cheatsheets
@@ -25,6 +28,9 @@
 ## Conferences
 
 ## Courses
+
+- [Child Nutrition & Cooking](https://www.coursera.org/learn/childnutrition?) by Maya Adam (Stanford school of medicine) (8 hours, beginner)
+- [Everyday Parenting: The ABCs of Child Rearing](https://www.coursera.org/learn/everyday-parenting) (14 hours, beginner)
 
 ## Forums, Group chats
 
@@ -48,7 +54,7 @@
 
 ## Q&A
 
-- [Stack Exchange](https://parenting.stackexchange.com)
+- [Parenting Stack Exchange](https://parenting.stackexchange.com)
 
 ## Quotes
 

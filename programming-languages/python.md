@@ -12,6 +12,9 @@
 
 ## Articles
 
+- [Learning Python: From Zero to Hero](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5)
+- [Learning Python Programming: The Basics](https://medium.com/@george.seif94/learning-python-programming-the-basics-252d9df3744a)
+
 ## Audio, Podcasts
 
 - [Talk Python To Me](https://talkpython.fm/)

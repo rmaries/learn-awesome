@@ -75,6 +75,8 @@
 
 ## Interactives
 
+- [Swirl: Learn R, in R.](https://swirlstats.com/)
+
 ## Journals
 
 ## Learning Plans

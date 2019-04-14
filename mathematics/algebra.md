@@ -6,7 +6,9 @@
 
 ------
 
-## Apps
+## Apps and websites
+
+- [Visual Patterns](http://www.visualpatterns.org/)
 
 ## Articles
 

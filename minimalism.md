@@ -10,11 +10,15 @@
 
 ## Articles
 
+- [ZenHabits](https://zenhabits.net/focus-antidote/)
+
 ## Audio, Podcasts
 
 - [theminimalists](https://www.theminimalists.com/podcast/)
 
 ## Blogs
+
+- [mnmlist](http://mnmlist.com/archives/)
 
 ## Books
 
@@ -65,6 +69,10 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [The trap of materialism](https://www.youtube.com/watch?v=DtwXryPNciM)
+- [Get Out Of The Materialism Trap NOW](https://www.youtube.com/watch?v=Qk1i7UGBz1Q)
+- [The High Price of Materialism](https://www.youtube.com/watch?v=oGab38pKscw)
 
 ## Wiki
 

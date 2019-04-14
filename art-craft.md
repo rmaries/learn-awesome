@@ -1,4 +1,4 @@
-# Art
+# Art and Crafts
 
 - prerequisites:
 - subtopics:
@@ -51,6 +51,8 @@
 ## People
 
 ## Q&A
+
+- [Stack Exchange](https://crafts.stackexchange.com/)
 
 ## Research Papers
 

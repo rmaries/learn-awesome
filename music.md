@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [Generative.fm - Endlessly unique ambient music](https://generative.fm/)
+
 ## Articles
 
 ## Audio, Podcasts

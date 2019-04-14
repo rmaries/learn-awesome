@@ -125,6 +125,7 @@
 - [Holofractal](https://www.reddit.com/r/holofractal/)
 - [Hypershape](https://www.reddit.com/r/hypershape/)
 - [Math](https://www.reddit.com/r/math/)
+- [Freenode IRC #math](https://webchat.freenode.net/)
 
 ## Games
 - [ProdigyGame](https://www.prodigygame.com/) For class 1 to 8, Maths questions in between the video game.

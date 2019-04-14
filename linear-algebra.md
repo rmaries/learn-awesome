@@ -16,6 +16,8 @@
 
 ## Books
 
+- [Understanding Linear Algebra](http://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/ula.html) by David Austin
+
 ## Certifications & Assessment
 
 ## Cheatsheets

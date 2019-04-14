@@ -102,6 +102,7 @@
 
 ## Courses
 
+- [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/) by Andrew Ng (non-technical)
 - [MIT Deep Learning (2019)](https://github.com/lexfridman/mit-deep-learning)
 - [Amazon’s Machine Learning University course (2018)](https://aws.amazon.com/blogs/machine-learning/amazons-own-machine-learning-university-now-available-to-all-developers/) 🆓
 - [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp) - Get hands-on experience optimizing, deploying, and scaling production ML models. 💰
@@ -143,6 +144,7 @@
 ## Learning Plans
 
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
+- [Dorai Thodla](https://mobile.twitter.com/dorait/status/1113621559581728768)
 
 ## Livestreams
 

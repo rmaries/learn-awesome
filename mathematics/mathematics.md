@@ -38,6 +38,7 @@
 
 ## Books
 
+- [Partial Differential Equations for Scientists and Engineers](https://www.goodreads.com/book/show/164585.Partial_Differential_Equations_for_Scientists_and_Engineers) by Stanley J. Farlow
 - [Applied Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046?rskey=MLPnxI&result=48)
 - [Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615?rskey=rtROx3&result=366)
 - [Game Theory: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780199218462.001.0001/actrade-9780199218462?rskey=XaooWh&result=243)

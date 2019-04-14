@@ -1,4 +1,4 @@
-# Quantum Physics
+# Game Theory
 
 - prerequisites:
 - subtopics:
@@ -15,9 +15,6 @@
 ## Blogs
 
 ## Books
-
-- [📕 Quantum: A Guide for the Perplexed (2003)](https://www.goodreads.com/book/show/100034.Quantum)
-
 
 ## Certifications & Assessment
 
@@ -55,7 +52,7 @@
 
 ## Research Papers
 
-- [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
+- [Compositionality and String Diagrams for Game Theory](https://arxiv.org/pdf/1604.06061.pdf)
 
 ## Videos, Documentaries & Films
 

@@ -18,6 +18,8 @@
 
 ## Books
 
+- [A Theory of Fun for Game Design](https://www.goodreads.com/book/show/18182.A_Theory_of_Fun_for_Game_Design)
+
 ## Certifications & Assessment
 
 ## Cheatsheets

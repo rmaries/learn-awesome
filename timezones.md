@@ -1,4 +1,4 @@
-# Quantum Physics
+# Timezones
 
 - prerequisites:
 - subtopics:
@@ -6,18 +6,20 @@
 
 ------
 
-## Apps
+## Apps & Websites
+
+- [EveryTimeZone](https://everytimezone.com/)
 
 ## Articles
+
+- [UTC is enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) by Zach Holman
+- [Falsehoods About Time](FalsehoodsAboutTime.com)
 
 ## Audio, Podcasts
 
 ## Blogs
 
 ## Books
-
-- [📕 Quantum: A Guide for the Perplexed (2003)](https://www.goodreads.com/book/show/100034.Quantum)
-
 
 ## Certifications & Assessment
 
@@ -55,8 +57,10 @@
 
 ## Research Papers
 
-- [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
-
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Time_zone)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Time_zone)
+

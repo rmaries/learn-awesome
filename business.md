@@ -21,7 +21,7 @@
 - [📕 Give and take: why helping others drives our success (2014)](http://www.goodreads.com/book/show/16158498-give-and-take)
 - [📕 MAKE: Bootstrapper's Handbook (2018)](https://www.goodreads.com/book/show/39165640-make)
 - [📕 The Lean Startup (2011)](https://www.goodreads.com/book/show/10127019-the-lean-startup)
-
+- [A16Z](https://a16z.com/)
 
 ## Certifications & Assessment
 

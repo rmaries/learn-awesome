@@ -10,6 +10,8 @@
 
 ## Articles
 
+- [Cognitive Machine Learning: Learning to Explain](http://blog.shakirm.com/2017/02/cognitive-machine-learning-1-learning-to-explain/)
+
 ## Audio, Podcasts
 
 - [The Talking Machines](https://www.thetalkingmachines.com/)

@@ -12,6 +12,7 @@
 
 - [Geogebra](https://www.geogebra.org/)
 - [MathPix](https://mathpix.com/)
+- [How these 20+ math tools can make your lessons more exciting](https://www.bookwidgets.com/blog/2019/02/how-these-20-math-tools-can-make-your-lessons-more-exciting)
 
 ## Articles
 
@@ -96,6 +97,7 @@
 
 ## Courses
 
+- [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) by Dr. Keith Devlin
 - [Abstract algebra (2014)](https://www.math.upenn.edu/~ted/371F14/math371.html) 🆓
 - [MIT linear algebra (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) 🆓
 - [MIT multivariable calculus (2007)](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) 🆓

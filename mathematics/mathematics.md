@@ -12,6 +12,7 @@
 - [MathPix](https://mathpix.com/)
 - [How these 20+ math tools can make your lessons more exciting](https://www.bookwidgets.com/blog/2019/02/how-these-20-math-tools-can-make-your-lessons-more-exciting)
 - [NRICH maths](https://nrich.maths.org/)
+- [Geometry Games](http://geometrygames.org/) by Jeff weeks
 
 ## Articles
 
@@ -38,6 +39,7 @@
 
 ## Books
 
+- [The Shape of Space](https://www.goodreads.com/book/show/599877.The_Shape_of_Space) Jeff Weeks
 - [Partial Differential Equations for Scientists and Engineers](https://www.goodreads.com/book/show/164585.Partial_Differential_Equations_for_Scientists_and_Engineers) by Stanley J. Farlow
 - [Applied Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046?rskey=MLPnxI&result=48)
 - [Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615?rskey=rtROx3&result=366)

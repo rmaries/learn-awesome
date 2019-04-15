@@ -6,11 +6,12 @@
 
 ------
 
-## Apps
+## Apps and Websites
 
 - [Geogebra](https://www.geogebra.org/)
 - [MathPix](https://mathpix.com/)
 - [How these 20+ math tools can make your lessons more exciting](https://www.bookwidgets.com/blog/2019/02/how-these-20-math-tools-can-make-your-lessons-more-exciting)
+- [NRICH maths](https://nrich.maths.org/)
 
 ## Articles
 
@@ -106,6 +107,8 @@
 - [Stanford mathematical foundations of computing (2016)](http://web.stanford.edu/class/cs103/) 🆓
 - [Types, Logic, and Verification (2013)](https://www.fcs.uoregon.edu/research/summerschool/summer13/curriculum.html)
 - [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html) 🆓
+- [Exploding Dots](https://www.explodingdots.org/)
+
 
 ## Documenteries
 
@@ -144,7 +147,9 @@
 
 ## Livestreams
 
-## Meetups
+## Meetups and Events
+
+- [Association of Teachers of Mathematics](https://www.atm.org.uk/Maths-teacher-conference)
 
 ## Newsletters
 

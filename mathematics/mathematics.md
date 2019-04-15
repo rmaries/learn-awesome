@@ -1,7 +1,5 @@
 # Mathematics
 
-![mathematics image](https://cdn.pixabay.com/photo/2015/11/15/07/47/geometry-1044090_960_720.jpg)
-
 - prerequisites:
 - subtopics:
 - curators: [nileshtrivedi](https://github.com/nileshtrivedi)

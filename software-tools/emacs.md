@@ -1,6 +1,6 @@
 # Emacs
 
-- prerequisites: [text-editors](software-tools/text-editors.md)
+- prerequisites:
 - subtopics:
 - curators:
 

@@ -110,6 +110,7 @@
 - [Types, Logic, and Verification (2013)](https://www.fcs.uoregon.edu/research/summerschool/summer13/curriculum.html)
 - [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html) 🆓
 - [Exploding Dots](https://www.explodingdots.org/)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) by _Imperial College London_ `paid`
 
 
 ## Documenteries

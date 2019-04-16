@@ -383,6 +383,7 @@
 
 ## Courses
 
+- [CS 242: Programming Languages, Fall 2018](http://cs242.stanford.edu/f18/) by Will Crichton
 - [Build a modern computer from first principles: from nand to tetris ](https://www.coursera.org/learn/build-a-computer) 💰
 - [Introduction to programming with matlab](https://www.coursera.org/learn/matlab) 💰
 - [MIT software construction (2016)](http://web.mit.edu/6.005/www/fa16/) 🆓

@@ -51,6 +51,8 @@
 
 ## Certifications & Assessment
 
+- [Data Scientist Masters Program | Simplilear](https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training)
+
 ## Cheatsheets
 
 - [General Data Science Cheatsheets](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf) by [Maverick Lin](https://github.com/ml874)
@@ -77,6 +79,28 @@
 - [Re-Work](https://www.re-work.co/)
 
 ## Courses
+
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/share/100034BUQcclZbRXo=/)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/10008ABUQcclZbRXo=/)
+- [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/share/1000DOBUQcclZbRXo=/)
+- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/share/1000HWBUQcclZbRXo=/)
+- [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100hMqBUQcclZbRXo=/)
+- [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/share/1000rsBUQcclZbRXo=/)
+- [Statistics for Data Science and Business Analysis](https://www.udemy.com/share/10003QBUQcclZbRXo=/)
+- [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+- [Microsoft Professional Program in Artificial Intelligence](https://www.edx.org/microsoft-professional-program-artificial-intelligence)
+- [Python Data Science](https://www.edx.org/professional-certificate/python-data-science)
+- [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
+- [Full Stack Data Science Program](https://www.jigsawacademy.com/full-stack-data-science-program-online/)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+- [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+- [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [https://www.coursera.org/learn/what-is-datascience](https://www.coursera.org/learn/what-is-datascience)
 
 ## Forums, Group chats
 

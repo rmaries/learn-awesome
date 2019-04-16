@@ -9,12 +9,24 @@
 ## Apps
 
 ## Articles
+
 - [React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+
 ## Audio, Podcasts
+
+- [The React Podcast](https://changelog.com/reactpodcast)
 
 ## Blogs
 
+- [Brent Vatne](http://brentvatne.ca/)
+- [Build with React](http://buildwithreact.com/)
+
+
 ## Books
+
+- [📖 React in Patterns (2018)](https://krasimir.gitbooks.io/react-in-patterns/content/)
+- [📖 The Road to learn React](https://roadtoreact.com/)
+
 
 ## Certifications & Assessment
 
@@ -37,13 +49,13 @@
 
 ## Forums, Group chats
 
-- [Hacker News](https://news.ycombinator.com/)
-
 ## Games
 
 ## Images
 
 ## Interactives
+
+## Journals
 
 ## Learning Plans
 
@@ -57,11 +69,12 @@
 
 ## Q&A
 
-- [StackOverflow](https://stackoverflow.com/)
+## Quotes
 
 ## Research Papers
 
 ## Videos, Documentaries & Films
 
 ## Wiki
+
 - [Main Wikipedia](https://en.wikipedia.org/wiki/React_(JavaScript_library))

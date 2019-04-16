@@ -29,7 +29,7 @@
 
 ## Books
 
-- [📖 R for Data Science (2016)](http://r4ds.had.co.nz/) by [Hadley Wickham](hadley.nz) & [Garett Grolemund](https://twitter.com/StatGarrett?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- [📖 R for Data Science (2016)](http://r4ds.had.co.nz/) by [Hadley Wickham](hadley.nz) & [Garett Grolemund](https://twitter.com/StatGarrett)
 
 ## Certifications & Assessment
 

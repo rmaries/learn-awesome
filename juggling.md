@@ -34,7 +34,7 @@
 
 ## Images & Animations
 
-- [Relation with Braid theory](https://twitter.com/panlepan/status/850352320634335232)
+- [Relation with Braid theory](https://twitter.com/panlepan/status/850352320634335232) by Vincent Pantaloni
 
 ## Interactives
 

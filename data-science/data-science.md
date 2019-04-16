@@ -1,13 +1,15 @@
 # Data Science
 - prerequisites:
 - subtopics:
-- curators: [Jarmos](https://github.com/Jarmos-san)
+- curators: [Jarmos](https://twitter.com/Jarmosan)
 
 ------
 
 ## Apps
 
 ## Articles
+
+- []()
 
 ## Audio, Podcasts
 

@@ -12,6 +12,8 @@
 
 ## Articles
 
+- [Productivity](https://blog.samaltman.com/productivity) by Sam Altman
+
 ## Audio, Podcasts
 
 ## Blogs

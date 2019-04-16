@@ -12,6 +12,7 @@
 - [MathPix](https://mathpix.com/)
 - [How these 20+ math tools can make your lessons more exciting](https://www.bookwidgets.com/blog/2019/02/how-these-20-math-tools-can-make-your-lessons-more-exciting)
 - [NRICH maths](https://nrich.maths.org/)
+- [BLOODHOUND Education](http://www.bloodhoundeducation.com/Learning_Resources)
 
 ## Articles
 

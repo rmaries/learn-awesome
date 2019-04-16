@@ -16,6 +16,8 @@
 
 ## Books
 
+- [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef?ac=1&from_search=true) by Timothy Ferris
+
 ## Certifications & Assessment
 
 ## Cheatsheets

@@ -1,4 +1,4 @@
-# Poetry
+# Reading
 
 - prerequisites:
 - subtopics:
@@ -6,17 +6,17 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
+
+- [On ostentatious reading and the tendency to hoard](https://medium.com/swlh/seneca-hates-goodreads-ffa3cd5f4129) by Kunal Shandilya
 
 ## Audio, Podcasts
 
 ## Blogs
 
 ## Books
-
-- [📕 Letters to a Young Poet (1929)](https://www.goodreads.com/book/show/46199)
 
 ## Certifications & Assessment
 
@@ -50,8 +50,6 @@
 
 ## Q&A
 
-- [Poetry](https://www.quora.com/topic/Poetry)
-
 ## Quotes
 
 ## Research Papers
@@ -59,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

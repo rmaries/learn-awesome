@@ -1,7 +1,7 @@
 # Learning
 
 - prerequisites:
-- subtopics:
+- subtopics: [Space Repetition](spaced-repetition.md)
 - curators: nileshtrivedi
 
 ---
@@ -23,6 +23,10 @@
 - [There's no speed limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 - [What kids need to learn to succeed in 2050](https://medium.com/s/youthnow/yuval-noah-harari-21-lessons-21st-century-what-kids-need-to-learn-now-to-succeed-in-2050-1b72a3fb4bcf) by Yuval Noah Harari
 - [Want to learn a new skill? Take some short breaks](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Want-learn-new-skill-Take-some-short-breaks)
+- [Designing personal curricula for lifelong learning](https://medium.com/swlh/designing-personal-curricula-for-lifelong-learning-9f2b2d21b893) by Kunal Shandilya
+- [The Problem With Learning Styles](https://www.scientificamerican.com/article/the-problem-with-learning-styles/)
+- [Why Lifelong Learning is The Only Option](http://www.gettingsmart.com/2017/01/10-reasons-why-lifelong-learning-is-the-only-option/)
+- [Aerobic Exercises Enhance Neurogenesis and Neuroplasticity](https://sharpbrains.com/resources/2-the-4-pillars-of-brain-maintenance/physical-exercise-why-aerobic-exercise-enhances-neurogenesis-and-neuroplasticity/)
 
 ## Audio, Podcasts
 
@@ -34,6 +38,7 @@
 - [Learning: A Very Short Introduction](https://www.goodreads.com/book/show/27310222-learning) by [Mark Haselgrove](#people)
 - [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by [National Academies Press](https://www.nap.edu)
 - [Learning How To Learn](https://www.goodreads.com/book/show/36647421-learning-how-to-learn?ac=1&from_search=true) (2018) by [Barbara Oakley](#people)
+- [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef?ac=1&from_search=true) by Timothy Ferris
 
 ## Certifications & Assessment
 
@@ -97,7 +102,8 @@
 
 ## Videos, Documentaries & Films
 
-- [TedX: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)
+- [TEDx: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)
+- [CrashCourse: Study Skills](https://www.youtube.com/watch?v=IhuwS5ZLwKY&list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) by Thomas Frank
 
 ## Wiki
 

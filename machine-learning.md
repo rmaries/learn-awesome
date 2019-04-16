@@ -25,6 +25,8 @@
 
 ## Blogs
 
+- [KDnuggets](http://www.kdnuggets.com/)
+- [MLWave](http://mlwave.com/)
 - [Aditya Prakash](http://iamaaditya.github.io/)
 - [Andrej Karpathy](https://karpathy.github.io/)
 - [Andrew Gambarella](https://atgambardella.github.io/)

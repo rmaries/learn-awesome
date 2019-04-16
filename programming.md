@@ -164,10 +164,11 @@
 - [Xero](http://blog.xero.nu/)
 - [Zachary Voase](http://zacharyvoase.com/)
 - [Александр Субботин](https://blog.asubbotin.ru/)
-
+- [The Big Mud Puddle](http://evincarofautumn.blogspot.nl/)
 
 ## Books
 
+- [📖 Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 - [📕 The art of computer programming (1968-)](http://www.goodreads.com/book/show/112239.The_Art_of_Computer_Programming_Volumes_1_3_Boxed_Set)
 - [📕 The psychology of computer programming (1971)](http://www.goodreads.com/book/show/1660754.The_Psychology_of_Computer_Programming)
 - [📕 The elements of programming style (1974)](http://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)

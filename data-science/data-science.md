@@ -1,4 +1,5 @@
 # Data Science
+
 - prerequisites:
 - subtopics:
 - curators: [Jarmos](https://twitter.com/Jarmosan)
@@ -9,7 +10,13 @@
 
 ## Articles
 
-- []()
+- [Teach Yourself Data Science](https://medium.freecodecamp.org/a-path-for-you-to-learn-analytics-and-data-skills-bd48ccde7325) by [Dan Stern](https://medium.freecodecamp.org/@danstern)
+- [A Comprehensive Learning Path for Deep Learning](https://medium.com/analytics-vidhya/a-comprehensive-learning-path-for-deep-learning-in-2019-4836744d5c) by [Pranav Dar](https://medium.com/@dberbatov)
+- [Technical Notes on Using Data Science and AI](https://chrisalbon.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
+- [Where to Start Data Mining and Data Science](https://www.kdnuggets.com/faq/learning-data-mining-data-science.html)
+- [27 Amazing Data Science Books Every Data Scientist Should Read](https://medium.com/analytics-vidhya/27-books-every-data-scientist-should-read-7b051607595) by [Pranav Dar](https://medium.com/@dberbatov)
+- [Beginner Guide to Data Science](https://hackernoon.com/beginners-guide-for-data-science-388a2ceab93d) by [Jay Rodge](https://hackernoon.com/@jayrodge)
+- [How to Become a Data Scientist On Your Own | Kaggle](https://www.kaggle.com/getting-started/44915)
 
 ## Audio, Podcasts
 
@@ -30,7 +37,12 @@
 - [KDNuggets](https://www.kdnuggets.com/)
 - [No Free Hunch | The Official Blog of Kaggle](http://blog.kaggle.com/)
 - [Data Science Central](https://www.datasciencecentral.com/)
-
+- [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/)
+- [Machine Learnings](https://machinelearnings.co/)
+- [Applied Data Science](https://medium.com/applied-data-science)
+- [Analytics Vidhya](https://medium.com/analytics-vidhya)
+- [ML Review](https://medium.com/mlreview)
 
 ## Books
 
@@ -86,10 +98,13 @@
 
 ## Newsletters
 
+- [ML Review - Machine Learning Digest](https://mlreview.com/?medium)
+
 ## People
 
 - [Jeremy P. Howard](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur)) -- [Twitter](https://twitter.com/jeremyphoward?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | [YouTube](https://www.youtube.com/user/howardjeremyp/feed) | [LinkedIn](https://www.linkedin.com/in/howardjeremy/) | [Kaggle](https://www.kaggle.com/jhoward)
 - [Siraj Raval](https://sirajraval.com/)
+- [Lex Fridman](https://lexfridman.com/)
 
 ## Q&A
 
@@ -101,6 +116,8 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [MIT Deep Learning | YouTube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) by [Lex Fridman](https://lexfridman.com/)
 
 ## Wiki
 

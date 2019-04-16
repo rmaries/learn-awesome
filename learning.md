@@ -38,7 +38,7 @@
 - [Learning: A Very Short Introduction](https://www.goodreads.com/book/show/27310222-learning) by [Mark Haselgrove](#people)
 - [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by [National Academies Press](https://www.nap.edu)
 - [Learning How To Learn](https://www.goodreads.com/book/show/36647421-learning-how-to-learn?ac=1&from_search=true) (2018) by [Barbara Oakley](#people)
-- [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef?ac=1&from_search=true) by Timothy Ferris
+- [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef) by Timothy Ferris
 
 ## Certifications & Assessment
 

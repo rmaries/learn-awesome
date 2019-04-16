@@ -15,6 +15,7 @@
 - [Learning Python: From Zero to Hero](https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5) by [TK](https://medium.com/@leandrotk_)
 - [Learning Python Programming: The Basics](https://medium.com/@george.seif94/learning-python-programming-the-basics-252d9df3744a) by [George Seif](https://medium.com/@george.seif94)
 - [Analyzing Medium Story Stats With Python](https://towardsdatascience.com/analyzing-medium-story-stats-with-python-24c6491a8ff0) by [William Koehrsen](https://towardsdatascience.com/@williamkoehrsen)
+- [An Intro to Python](https://blog.anirudha.org/en/2014/08/29/intro-to-python/) by [Kumar Anirudha](@anistark)
 
 ## Audio, Podcasts
 

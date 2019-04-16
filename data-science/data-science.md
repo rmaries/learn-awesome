@@ -49,7 +49,6 @@
 - [📕 Hands-on Machine Learning With Scikit-Learn, Keras & TensorFlow, 2nd Edition (2019)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by [Aurélien Géron](https://twitter.com/aureliengeron?lang=en)
 - [📕 Designing Data-Intensive Applications (2017)](https://dataintensive.net/) by [Martin Kleppmann](https://martin.kleppmann.com/)
 
-
 ## Certifications & Assessment
 
 ## Cheatsheets
@@ -70,6 +69,12 @@
 ## Code
 
 ## Conferences
+
+- [Open Data Science Conference](https://odsc.com/)
+- [The Data Science Conference](https://www.thedatascienceconference.com/)
+- [AnacondaCON](https://anacondacon.io/)
+- [QCon.ai](https://qcon.ai/)
+- [Re-Work](https://www.re-work.co/)
 
 ## Courses
 

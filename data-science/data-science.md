@@ -51,7 +51,7 @@
 
 ## Certifications & Assessment
 
-- [Data Scientist Masters Program | Simplilear](https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training)
+- [Data Scientist Masters Program | Simplilearn](https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training)
 
 ## Cheatsheets
 
@@ -100,7 +100,7 @@
 - [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
 - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [https://www.coursera.org/learn/what-is-datascience](https://www.coursera.org/learn/what-is-datascience)
+- [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ## Forums, Group chats
 

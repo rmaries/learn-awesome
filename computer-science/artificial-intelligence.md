@@ -10,6 +10,8 @@
 
 ## Articles
 
+- [WTF is Artificial Intelligence](https://machinelearnings.co/how-to-prepare-your-career-for-artificial-intelligence-driven-automation-1bb153759b3b) by [Sam DeBrule](https://machinelearnings.co/@samdebrule)
+
 ## Audio, Podcasts
 
 ## Blogs

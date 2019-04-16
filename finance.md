@@ -15,6 +15,8 @@
 
 ## Audio, Podcasts
 
+- [Paisa Vaisa - all things money in India](https://ivmpodcasts.com/paisavaisa) by [Anupam Gupta](https://twitter.com/b50)
+
 ## Blogs
 
 ## Books

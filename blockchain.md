@@ -2,7 +2,7 @@
 
 - prerequisites:
 - subtopics:
-- curators: anistark
+- curators: [anistark](https://twitter.com/kranirudha)
 
 ------
 

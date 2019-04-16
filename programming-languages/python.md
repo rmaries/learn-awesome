@@ -1,14 +1,12 @@
 # Python
 
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
-
-- prerequisites:
+- prerequisites: [programming](programming.md)
 - subtopics:
 - curators: [Jarmos](https://twitter.com/Jarmosan)
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
 

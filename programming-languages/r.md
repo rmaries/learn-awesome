@@ -1,14 +1,12 @@
 # R
 
-![R logo](https://i.imgur.com/p3p9wQ7.jpg)
-
-- prerequisites:
+- prerequisites: [programming](programming.md)
 - subtopics: [Data Science](https://github.com/learn-awesome/learn-awesome/tree/master/data-science)
 - curators: [Jarmos](https://github.com/Jarmos-san)
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
 

@@ -13,11 +13,9 @@
 - [MathPix](https://mathpix.com/)
 - [How these 20+ math tools can make your lessons more exciting](https://www.bookwidgets.com/blog/2019/02/how-these-20-math-tools-can-make-your-lessons-more-exciting)
 - [NRICH maths](https://nrich.maths.org/)
-<<<<<<< HEAD
 - [BLOODHOUND Education](http://www.bloodhoundeducation.com/Learning_Resources)
-=======
+- [Mathematica](https://www.wolfram.com/mathematica/)
 - [Geometry Games](http://geometrygames.org/) by Jeff weeks
->>>>>>> 8693855c1a23b75278fe65f6229e47378ee72a7e
 
 ## Articles
 

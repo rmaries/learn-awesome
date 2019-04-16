@@ -12,6 +12,8 @@
 
 ## Articles
 
+- [Combinatorial Music Theory](http://andrewduncan.net/cmt/) by Andrew Duncan
+
 ## Audio, Podcasts
 
 ## Blogs
@@ -31,8 +33,6 @@
 ## Conferences
 
 ## Courses
-
-
 
 ## Forums, Group chats
 
@@ -74,6 +74,9 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [The Making of Dancing in my Head](https://www.youtube.com/watch?v=-dIcuU58Oy8) by Avicii
+- [Music Theory Distilled (3 parts)](https://www.youtube.com/watch?v=mdEcLQ_RQPY) by Casey Connor
 
 ## Wiki
 

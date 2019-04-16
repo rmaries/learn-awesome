@@ -1,4 +1,4 @@
-# Poetry
+# Productivity
 
 - prerequisites:
 - subtopics:
@@ -6,17 +6,19 @@
 
 ------
 
-## Apps
+## Apps & Websites
+
+- [Loop Habit Tracker](https://play.google.com/store/apps/details?id=org.isoron.uhabits) (android)
 
 ## Articles
+
+- [Productivity](https://blog.samaltman.com/productivity) by Sam Altman
 
 ## Audio, Podcasts
 
 ## Blogs
 
 ## Books
-
-- [📕 Letters to a Young Poet (1929)](https://www.goodreads.com/book/show/46199)
 
 ## Certifications & Assessment
 
@@ -50,8 +52,6 @@
 
 ## Q&A
 
-- [Poetry](https://www.quora.com/topic/Poetry)
-
 ## Quotes
 
 ## Research Papers
@@ -59,3 +59,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

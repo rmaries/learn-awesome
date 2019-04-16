@@ -1,13 +1,22 @@
 # Data Science
+
 - prerequisites:
 - subtopics:
-- curators: [Jarmos](https://github.com/Jarmos-san)
+- curators: [Jarmos](https://twitter.com/Jarmosan)
 
 ------
 
 ## Apps
 
 ## Articles
+
+- [Teach Yourself Data Science](https://medium.freecodecamp.org/a-path-for-you-to-learn-analytics-and-data-skills-bd48ccde7325) by [Dan Stern](https://medium.freecodecamp.org/@danstern)
+- [A Comprehensive Learning Path for Deep Learning](https://medium.com/analytics-vidhya/a-comprehensive-learning-path-for-deep-learning-in-2019-4836744d5c) by [Pranav Dar](https://medium.com/@dberbatov)
+- [Technical Notes on Using Data Science and AI](https://chrisalbon.com/) by [Chris Albon](https://chrisalbon.com/about/chris_albon/)
+- [Where to Start Data Mining and Data Science](https://www.kdnuggets.com/faq/learning-data-mining-data-science.html)
+- [27 Amazing Data Science Books Every Data Scientist Should Read](https://medium.com/analytics-vidhya/27-books-every-data-scientist-should-read-7b051607595) by [Pranav Dar](https://medium.com/@dberbatov)
+- [Beginner Guide to Data Science](https://hackernoon.com/beginners-guide-for-data-science-388a2ceab93d) by [Jay Rodge](https://hackernoon.com/@jayrodge)
+- [How to Become a Data Scientist On Your Own | Kaggle](https://www.kaggle.com/getting-started/44915)
 
 ## Audio, Podcasts
 
@@ -28,15 +37,21 @@
 - [KDNuggets](https://www.kdnuggets.com/)
 - [No Free Hunch | The Official Blog of Kaggle](http://blog.kaggle.com/)
 - [Data Science Central](https://www.datasciencecentral.com/)
-
+- [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/)
+- [Machine Learnings](https://machinelearnings.co/)
+- [Applied Data Science](https://medium.com/applied-data-science)
+- [Analytics Vidhya](https://medium.com/analytics-vidhya)
+- [ML Review](https://medium.com/mlreview)
 
 ## Books
 
 - [📕 Hands-on Machine Learning With Scikit-Learn, Keras & TensorFlow, 2nd Edition (2019)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by [Aurélien Géron](https://twitter.com/aureliengeron?lang=en)
 - [📕 Designing Data-Intensive Applications (2017)](https://dataintensive.net/) by [Martin Kleppmann](https://martin.kleppmann.com/)
 
-
 ## Certifications & Assessment
+
+- [Data Scientist Masters Program | Simplilearn](https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training)
 
 ## Cheatsheets
 
@@ -57,7 +72,35 @@
 
 ## Conferences
 
+- [Open Data Science Conference](https://odsc.com/)
+- [The Data Science Conference](https://www.thedatascienceconference.com/)
+- [AnacondaCON](https://anacondacon.io/)
+- [QCon.ai](https://qcon.ai/)
+- [Re-Work](https://www.re-work.co/)
+
 ## Courses
+
+- [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/share/100034BUQcclZbRXo=/)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/share/10008ABUQcclZbRXo=/)
+- [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/share/1000DOBUQcclZbRXo=/)
+- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/share/1000HWBUQcclZbRXo=/)
+- [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100hMqBUQcclZbRXo=/)
+- [Python A-Z™: Python For Data Science With Real Exercises!](https://www.udemy.com/share/1000rsBUQcclZbRXo=/)
+- [Statistics for Data Science and Business Analysis](https://www.udemy.com/share/10003QBUQcclZbRXo=/)
+- [Microsoft Professional Program in Data Science](https://www.edx.org/microsoft-professional-program-data-science)
+- [Microsoft Professional Program in Artificial Intelligence](https://www.edx.org/microsoft-professional-program-artificial-intelligence)
+- [Python Data Science](https://www.edx.org/professional-certificate/python-data-science)
+- [Data Science](https://www.edx.org/professional-certificate/harvardx-data-science)
+- [Full Stack Data Science Program](https://www.jigsawacademy.com/full-stack-data-science-program-online/)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+- [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+- [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+- [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ## Forums, Group chats
 
@@ -84,10 +127,13 @@
 
 ## Newsletters
 
+- [ML Review - Machine Learning Digest](https://mlreview.com/?medium)
+
 ## People
 
 - [Jeremy P. Howard](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur)) -- [Twitter](https://twitter.com/jeremyphoward?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) | [YouTube](https://www.youtube.com/user/howardjeremyp/feed) | [LinkedIn](https://www.linkedin.com/in/howardjeremy/) | [Kaggle](https://www.kaggle.com/jhoward)
 - [Siraj Raval](https://sirajraval.com/)
+- [Lex Fridman](https://lexfridman.com/)
 
 ## Q&A
 
@@ -99,6 +145,8 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [MIT Deep Learning | YouTube](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) by [Lex Fridman](https://lexfridman.com/)
 
 ## Wiki
 

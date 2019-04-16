@@ -12,7 +12,11 @@
 - [MathPix](https://mathpix.com/)
 - [How these 20+ math tools can make your lessons more exciting](https://www.bookwidgets.com/blog/2019/02/how-these-20-math-tools-can-make-your-lessons-more-exciting)
 - [NRICH maths](https://nrich.maths.org/)
+<<<<<<< HEAD
 - [BLOODHOUND Education](http://www.bloodhoundeducation.com/Learning_Resources)
+=======
+- [Geometry Games](http://geometrygames.org/) by Jeff weeks
+>>>>>>> 8693855c1a23b75278fe65f6229e47378ee72a7e
 
 ## Articles
 
@@ -39,6 +43,7 @@
 
 ## Books
 
+- [The Shape of Space](https://www.goodreads.com/book/show/599877.The_Shape_of_Space) Jeff Weeks
 - [Partial Differential Equations for Scientists and Engineers](https://www.goodreads.com/book/show/164585.Partial_Differential_Equations_for_Scientists_and_Engineers) by Stanley J. Farlow
 - [Applied Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780198754046.001.0001/actrade-9780198754046?rskey=MLPnxI&result=48)
 - [Mathematics: A Very Short Introduction](http://www.veryshortintroductions.com/abstract/10.1093/actrade/9780192853615.001.0001/actrade-9780192853615?rskey=rtROx3&result=366)
@@ -109,6 +114,7 @@
 - [Types, Logic, and Verification (2013)](https://www.fcs.uoregon.edu/research/summerschool/summer13/curriculum.html)
 - [Discrete Mathematics and Probability Theory](http://www-inst.eecs.berkeley.edu/%7Ecs70/archives.html) 🆓
 - [Exploding Dots](https://www.explodingdots.org/)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) by _Imperial College London_ `paid`
 
 
 ## Documenteries

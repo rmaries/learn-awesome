@@ -46,6 +46,7 @@
 - [Applied Data Science](https://medium.com/applied-data-science)
 - [Analytics Vidhya](https://medium.com/analytics-vidhya)
 - [ML Review](https://medium.com/mlreview)
+- [Curated List of Data Science Blogs](https://github.com/rushter/data-science-blogs) & [Real-time updated list of blogs](https://rushter.com/dsreader/) by [Artem Golubin](https://github.com/rushter)
 
 ## Books
 
@@ -124,9 +125,18 @@
 
 ## Learning Plans
 
+- [Data Science Foundations](https://cognitiveclass.ai/learn/data-science/)
+
 ## Livestreams
 
 ## Meetups
+
+- [List of Data Science Meetups Worldwide](https://www.datascienceweekly.org/data-science-resources/data-science-meetups)
+- [Silicon Valley Startup: Idea to IPO](https://www.meetup.com/Silicon-Valley-Startup-Idea-to-IPO/)
+- [Data Driven NYC | 17k+ Members](https://www.meetup.com/DataDrivenNYC/)
+- [SF Data Science | 15k+ Members](https://www.meetup.com/SF-Data-Science/)
+- [Applied Singularity | 14k+ Members](https://www.meetup.com/SF-Data-Science/)
+- [Nubank Data Science & Machine Learning | 11k+ Members](https://www.meetup.com/SF-Data-Science/)
 
 ## Newsletters
 

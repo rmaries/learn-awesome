@@ -17,6 +17,9 @@
 - [27 Amazing Data Science Books Every Data Scientist Should Read](https://medium.com/analytics-vidhya/27-books-every-data-scientist-should-read-7b051607595) by [Pranav Dar](https://medium.com/@dberbatov)
 - [Beginner Guide to Data Science](https://hackernoon.com/beginners-guide-for-data-science-388a2ceab93d) by [Jay Rodge](https://hackernoon.com/@jayrodge)
 - [How to Become a Data Scientist On Your Own | Kaggle](https://www.kaggle.com/getting-started/44915)
+- [Learn Data Science With Dataquest](https://www.dataquest.io/blog/learn-data-science/)
+- [How to Get into the Top 15 of a Kaggle Competition Using Python](https://www.dataquest.io/blog/kaggle-tutorial/)
+- [Building a Data Science Portfolio: Storytelling With Data](https://www.dataquest.io/blog/data-science-portfolio-project/)
 
 ## Audio, Podcasts
 
@@ -43,9 +46,6 @@
 - [Applied Data Science](https://medium.com/applied-data-science)
 - [Analytics Vidhya](https://medium.com/analytics-vidhya)
 - [ML Review](https://medium.com/mlreview)
-- [Learn Data Science With Dataquest](https://www.dataquest.io/blog/learn-data-science/)
-- [How to Get into the Top 15 of a Kaggle Competition Using Python](https://www.dataquest.io/blog/kaggle-tutorial/)
-- [Building a Data Science Portfolio: Storytelling With Data](https://www.dataquest.io/blog/data-science-portfolio-project/)
 
 ## Books
 

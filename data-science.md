@@ -153,7 +153,6 @@
 - [Analytics Vdihya](https://www.analyticsvidhya.com/)
 - [R-Bloggers](https://www.r-bloggers.com/)
 - [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
-- []()
 
 ## People
 

@@ -43,6 +43,9 @@
 - [Applied Data Science](https://medium.com/applied-data-science)
 - [Analytics Vidhya](https://medium.com/analytics-vidhya)
 - [ML Review](https://medium.com/mlreview)
+- [Learn Data Science With Dataquest](https://www.dataquest.io/blog/learn-data-science/)
+- [How to Get into the Top 15 of a Kaggle Competition Using Python](https://www.dataquest.io/blog/kaggle-tutorial/)
+- [Building a Data Science Portfolio: Storytelling With Data](https://www.dataquest.io/blog/data-science-portfolio-project/)
 
 ## Books
 
@@ -128,6 +131,29 @@
 ## Newsletters
 
 - [ML Review - Machine Learning Digest](https://mlreview.com/?medium)
+- [Data Elixir](https://dataelixir.com/)
+- [The Data Science Roundup](http://roundup.fishtownanalytics.com/)
+- [Data Science Weekly Newsletter](https://www.datascienceweekly.org/)
+- [KDNuggets News](https://www.kdnuggets.com/news/subscribe.html?1)
+- [O'Reilly Data Newsletter](https://www.oreilly.com/data/newsletter.html)
+- [The Analytics Dispatch](https://mode.com/newsletter/)
+- [Hacker News Digest](https://www.hndigest.com/)
+- [Data Machina](https://datamachina.substack.com/)
+- [Import AI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+- [The Wild Week in AI](https://www.getrevue.co/profile/wildml?utm_campaign=Issue&utm_content=profilename&utm_medium=email&utm_source=The+Wild+Week+in+AI)
+- [Data is Plural](https://tinyletter.com/data-is-plural)
+- [Towards Data Science Newsletter](https://towardsdatascience.com/tagged/tds-letter)
+- [Deep Learning Weekly](https://www.deeplearningweekly.com/?utm_source=twitter&utm_medium=profile-description)
+- [Deep Hunt Newsletter](https://deephunt.in/tagged/newsletter) by [Avinash Hindpur](https://twitter.com/hindupuravinash)
+- [The Algorithm - MIT Technology Review](https://go.technologyreview.com/newsletters/the-algorithm/)
+- [TOPBOTS: Applied AI for Bussiness](https://www.topbots.com/enterprise-ai-news-pro-newsletter/)
+- [Artificial Intelligence and Deep Learning Weekly](http://aidl.io/)
+- [Center for Data Innovation](https://www.datainnovation.org/about/newsletter/)
+- [Data Science Community Newsletter - NYU Center for Data Science](https://cds.nyu.edu/newsletter/)
+- [Analytics Vdihya](https://www.analyticsvidhya.com/)
+- [R-Bloggers](https://www.r-bloggers.com/)
+- [Data Science Central](https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
+- []()
 
 ## People
 

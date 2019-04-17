@@ -46,7 +46,7 @@
 - [Applied Data Science](https://medium.com/applied-data-science)
 - [Analytics Vidhya](https://medium.com/analytics-vidhya)
 - [ML Review](https://medium.com/mlreview)
-- [Curated List of Data Science Blogs](https://github.com/rushter/data-science-blogs) & [Real-time updated list of blogs](https://rushter.com/dsreader/) by [Artem Golubin](https://github.com/rushter)
+- [Curated List of Data Science Blogs](https://github.com/rushter/data-science-blogs) & [Real-time updated list of blog posts](https://rushter.com/dsreader/) by [Artem Golubin](https://github.com/rushter)
 
 ## Books
 

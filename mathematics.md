@@ -135,8 +135,10 @@
 - [Freenode IRC #math](https://webchat.freenode.net/)
 
 ## Games
+
 - [ProdigyGame](https://www.prodigygame.com/) For class 1 to 8, Maths questions in between the video game.
 - [NRICH](https://nrich.maths.org/) Rich in maths games, activities, news and mathematical thinking for different level student
+- [MathForLove](https://mathforlove.com/)
 
 ## Images
 
@@ -206,6 +208,11 @@
 
 - [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&t=271s)
 - [3Blue1Brown | YouTube Playlists](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+
+## Teaching Resources
+
+- [Rich Series Professional Development by Dan Finkel](https://mathspathway.com/media-library/)
 
 ## Wiki
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Mathematics)

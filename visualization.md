@@ -8,6 +8,8 @@
 
 ## Apps
 
+- [Tools & Libs](http://selection.datavisualization.ch/)
+
 ## Articles
 
 ## Audio, Podcasts

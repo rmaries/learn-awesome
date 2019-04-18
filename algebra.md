@@ -38,6 +38,8 @@
 
 ## Interactives
 
+- [MathBox: Tool for Thought (Algebra & Fourier Analysis)](https://acko.net/files/gltalks/toolsforthought/#0) by Steven Wittens
+
 ## Journals
 
 ## Learning Plans

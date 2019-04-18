@@ -104,6 +104,8 @@
 
 - [TEDx: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)
 - [CrashCourse: Study Skills](https://www.youtube.com/watch?v=IhuwS5ZLwKY&list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) by Thomas Frank
+- [Rich Series Professional Development for Maths by Dan Finkel](https://mathspathway.com/media-library/)
+
 
 ## Wiki
 

@@ -54,6 +54,8 @@
 
 ## Journals
 
+- [I Wonder](https://azimpremjifoundation.org/foundation/779)
+
 ## Learning Plans
 
 ## Livestreams

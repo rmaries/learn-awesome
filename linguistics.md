@@ -36,6 +36,8 @@
 
 ## Journals
 
+- [Langauge and Language Teaching](https://azimpremjifoundation.org/foundation/807)
+
 ## Learning Plans
 
 ## Livestreams

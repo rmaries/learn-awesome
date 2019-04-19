@@ -27,6 +27,7 @@
 - [The Problem With Learning Styles](https://www.scientificamerican.com/article/the-problem-with-learning-styles/)
 - [Why Lifelong Learning is The Only Option](http://www.gettingsmart.com/2017/01/10-reasons-why-lifelong-learning-is-the-only-option/)
 - [Aerobic Exercises Enhance Neurogenesis and Neuroplasticity](https://sharpbrains.com/resources/2-the-4-pillars-of-brain-maintenance/physical-exercise-why-aerobic-exercise-enhances-neurogenesis-and-neuroplasticity/)
+- [You and Your Research](https://jamesclear.com/great-speeches/you-and-your-research-by-richard-hamming) by Richard Hamming
 
 ## Audio, Podcasts
 
@@ -105,7 +106,8 @@
 - [TEDx: Learning How To Learn](https://www.youtube.com/watch?v=O96fE1E-rf8) by [Dr. Barbara Oakley](#people)
 - [CrashCourse: Study Skills](https://www.youtube.com/watch?v=IhuwS5ZLwKY&list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W) by Thomas Frank
 - [Rich Series Professional Development for Maths by Dan Finkel](https://mathspathway.com/media-library/)
-
+- [Learning to Learn](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) by Richard Hamming
+- [The Science of Learning](https://youtu.be/8i-nkurgt_4)
 
 ## Wiki
 

@@ -80,6 +80,8 @@
 
 ## Videos, Documentaries & Films
 
+- [The Power of Ten](https://youtu.be/0fKBhvDjuy0)
+
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Science)

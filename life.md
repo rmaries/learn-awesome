@@ -59,6 +59,12 @@
 
 - [Personal productivity Stack Exchange](https://productivity.stackexchange.com)
 
+## Quotes
+
+> To laugh often and much; to win the respect of intelligent people and affection of children; to learn the appreciation of honest critics and endure the betrayal of false friends; to appreciate beauty; to find the best in others; to leave the world a little bit better, whether by a healthy child, a garden patch, or a redeemed social condition; to know even one life has breathed easier because you have lived. This is to have succeeded. - (disputed)
+
+> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. - Robert Heinlein
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

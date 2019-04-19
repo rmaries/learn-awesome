@@ -20,6 +20,7 @@
 
 ## Articles
 
+- [The Spiral Approach to Thinking and Learning](https://www.av8n.com/physics/spiral-approach.htm)
 - [There's no speed limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 - [What kids need to learn to succeed in 2050](https://medium.com/s/youthnow/yuval-noah-harari-21-lessons-21st-century-what-kids-need-to-learn-now-to-succeed-in-2050-1b72a3fb4bcf) by Yuval Noah Harari
 - [Want to learn a new skill? Take some short breaks](https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Want-learn-new-skill-Take-some-short-breaks)
@@ -108,8 +109,11 @@
 - [Rich Series Professional Development for Maths by Dan Finkel](https://mathspathway.com/media-library/)
 - [Learning to Learn](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30) by Richard Hamming
 - [The Science of Learning](https://youtu.be/8i-nkurgt_4)
+- [Digital Aristotle: Thoughts on the Future of Education](https://www.youtube.com/watch?v=7vsCAM17O-M)
+- [This will revolutionize education](https://www.youtube.com/watch?v=GEmuEWjHr5c) by Veritasium (a critique to Digital Aristotle idea above)
 
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Learning)
 - [Simple Wikipedia](https://simple.wikipedia.org/wiki/Learning)
+- [Philosophy of Education](https://en.wikipedia.org/wiki/Philosophy_of_education)

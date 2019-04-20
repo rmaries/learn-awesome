@@ -6,7 +6,9 @@
 
 ------
 
-## Apps
+## Apps and Websites
+
+- [Science Friday](https://www.sciencefriday.com/topics/biology/)
 
 ## Articles
 

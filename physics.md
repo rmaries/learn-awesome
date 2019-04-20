@@ -6,8 +6,9 @@
 
 ------
 
-## Apps
+## Apps and Websites
 
+- [Science Friday](https://www.sciencefriday.com/topics/physics-chemistry/)
 - [Algodoo](http://www.algodoo.com/)
 
 ## Articles

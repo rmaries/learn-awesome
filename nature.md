@@ -1,4 +1,4 @@
-# Teaching
+# Nature
 
 - prerequisites:
 - subtopics:
@@ -6,13 +6,11 @@
 
 ------
 
-## Apps and websites
+## Apps & Websites
 
-- [Cult of Pedagogy](https://www.cultofpedagogy.com/)
+- [Science Friday](https://www.sciencefriday.com/topics/nature/)
 
 ## Articles
-
-- [How to teach an inductive learning lesson](https://www.cultofpedagogy.com/inductive-learning/)
 
 ## Audio, Podcasts
 
@@ -59,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Nature)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Nature)
+

@@ -6,7 +6,9 @@
 
 ------
 
-## Apps
+## Apps and Websites
+
+- [science Friday](https://www.sciencefriday.com/topics/art-culture-history/)
 
 ## Articles
 

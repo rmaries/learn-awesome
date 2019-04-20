@@ -16,6 +16,7 @@
 - [BLOODHOUND Education](http://www.bloodhoundeducation.com/Learning_Resources)
 - [Mathematica](https://www.wolfram.com/mathematica/)
 - [Geometry Games](http://geometrygames.org/) by Jeff weeks
+- [ScienceFriday Math](https://www.sciencefriday.com/topics/math/)
 
 ## Articles
 

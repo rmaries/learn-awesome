@@ -1,7 +1,7 @@
 # Learning
 
 - prerequisites:
-- subtopics: [Space Repetition](spaced-repetition.md)
+- subtopics: [Space Repetition](spaced-repetition.md), [education](education.md)
 - curators: nileshtrivedi
 
 ---
@@ -42,6 +42,7 @@
 - [How People Learn: Brain, Mind, Experience, and School](https://www.nap.edu/catalog/9853/how-people-learn-brain-mind-experience-and-school-expanded-edition) by [National Academies Press](https://www.nap.edu)
 - [Learning How To Learn](https://www.goodreads.com/book/show/36647421-learning-how-to-learn?ac=1&from_search=true) (2018) by [Barbara Oakley](#people)
 - [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef) by Timothy Ferris
+- [Mastery](https://www.goodreads.com/book/show/13589182-mastery) by Robert Greene
 
 ## Certifications & Assessment
 

@@ -8,8 +8,6 @@
 
 ## Apps
 
-- [A sample link](https://example/) by [Author](#people)
-
 ## Articles
 
 ## Audio, Podcasts
@@ -17,6 +15,10 @@
 ## Blogs
 
 ## Books
+
+- [Imaginary Cities](https://www.goodreads.com/book/show/25542140-imaginary-cities) by Darran Anderson
+- [Legal Systems Very Different From Ours](https://www.goodreads.com/book/show/30066446-legal-systems-very-different-from-ours) by David D. Friedman
+- [Vanishing Kingdoms: The History of Half-Forgotten Europe] by Norman Davies
 
 ## Certifications & Assessment
 
@@ -50,7 +52,7 @@
 
 ## Q&A
 
-- [World building](http://worldbuilding.stackexchange.com)
+- [World building StackExchange](http://worldbuilding.stackexchange.com)
 
 ## Quotes
 

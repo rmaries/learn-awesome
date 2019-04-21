@@ -32,9 +32,9 @@
 
 ## Forums, Group chats
 
-- [Art](https://www.reddit.com/r/Art/)
-- [Imaginary cityscapes](https://www.reddit.com/r/ImaginaryCityscapes/)
-- [Pour Painting](https://www.reddit.com/r/PourPainting/)
+- [/r/Art/](https://www.reddit.com/r/Art/)
+- [/r/ImaginaryCityscapes/](https://www.reddit.com/r/ImaginaryCityscapes/)
+- [/r/PourPainting/](https://www.reddit.com/r/PourPainting/)
 
 ## Games
 
@@ -54,7 +54,7 @@
 
 ## Q&A
 
-- [Stack Exchange](https://crafts.stackexchange.com/)
+- [Crafts StackExchange](https://crafts.stackexchange.com/)
 
 ## Research Papers
 

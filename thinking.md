@@ -23,6 +23,7 @@
 - [Thinking in Systems](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella H. Meadows, Diana Wright
 - [The Educated Mind: How Cognitive Tools Shape Our Understanding](https://www.goodreads.com/book/show/648782.The_Educated_Mind) by Kieran Egan
 - [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.goodreads.com/book/show/39088592-the-model-thinker) by Scott E. Page
+- [Factfullness](https://www.goodreads.com/book/show/34890015-factfulness) by Hans Rosling
 
 ## Certifications & Assessment
 

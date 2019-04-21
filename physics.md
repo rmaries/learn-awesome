@@ -101,6 +101,8 @@
 
 ## Videos, Documentaries & Films
 
+- [Up & Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
+
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Physics)

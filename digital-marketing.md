@@ -8,11 +8,15 @@
 
 ## Apps & Websites
 
+- [Marketing Technology Landscape 2019](https://chiefmartec.com/2019/04/marketing-technology-landscape-supergraphic-2019/)
+
 ## Articles
 
 ## Audio, Podcasts
 
 ## Blogs
+
+- [ChiefMarTec](https://chiefmartec.com/)
 
 ## Books
 
@@ -45,6 +49,8 @@
 ## Newsletters
 
 ## People
+
+- [Scott Brinker](https://twitter.com/chiefmartec)
 
 ## Q&A
 

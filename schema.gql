@@ -1,0 +1,10 @@
+define
+
+name sub attribute
+	datatype string;
+
+student sub entity
+	has name
+
+topic sub entity
+	has name

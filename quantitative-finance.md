@@ -16,6 +16,8 @@
 
 ## Books
 
+- [Python for Finance](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) by Yves Hilpisch
+
 ## Certifications & Assessment
 
 ## Cheatsheets
@@ -25,6 +27,8 @@
 ## Conferences
 
 ## Courses
+
+- [Applied Finance Courses](https://www.datacamp.com/courses/topic:applied_finance) by DataCamp
 
 ## Forums, Group chats
 

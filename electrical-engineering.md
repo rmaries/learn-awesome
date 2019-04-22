@@ -14,6 +14,10 @@
 
 ## Blogs
 
+- [Bunnies Studios](https://www.bunniestudios.com/)
+- [Yifan Lu's blog](https://yifan.lu/)
+- [Fail0verflow blog](https://fail0verflow.com/blog/)
+
 ## Books
 
 ## Certifications & Assessment

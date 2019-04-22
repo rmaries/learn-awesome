@@ -116,6 +116,7 @@
 - [LearnMachineLearning | Reddit](https://www.reddit.com/r/learnmachinelearning/)
 - [Data Science | Reddit](https://www.reddit.com/r/datascience/)
 - [KaggleNoobs](https://kagglenoobs.herokuapp.com/)
+- [DataHouse Discord](https://discord.gg/qVRkPtr)
 
 ## Games
 

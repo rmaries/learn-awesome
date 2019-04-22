@@ -136,6 +136,7 @@
 - [Learn Machine Learning](https://www.reddit.com/r/learnmachinelearning/)
 - [Machine learning](https://www.reddit.com/r/MachineLearning/)
 - [ML Questions](https://www.reddit.com/r/MLQuestions/)
+- [DataHouse Discord](https://discord.gg/qVRkPtr)
 
 ## Games
 

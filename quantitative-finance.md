@@ -17,6 +17,7 @@
 ## Books
 
 - [Python for Finance](https://www.oreilly.com/library/view/python-for-finance/9781492024323/) by Yves Hilpisch
+- [Introduction to Quantitative Finance using Python](https://cambridgespark.com/introduction-to-quantitative-finance/) by Cambridge Spark
 
 ## Certifications & Assessment
 
@@ -50,7 +51,7 @@
 
 ## People
 
-## Q&
+## Q&A
 
 - [Quantitative finance](https://quant.stackexchange.com)
 

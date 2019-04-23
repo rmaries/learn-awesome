@@ -9,12 +9,17 @@
 ## Apps & Websites
 
 - [Varsity by Zerodha](https://play.google.com/store/apps/details?id=com.zerodha.varsity&hl=en_US)
+- [EconomicTimes](https://economictimes.indiatimes.com/)
 
 ## Articles
 
 ## Audio, Podcasts
 
+- [Paisa Vaisa - all things money in India](https://ivmpodcasts.com/paisavaisa) by [Anupam Gupta](https://twitter.com/b50)
+
 ## Blogs
+
+- [CapitalMind](https://capitalmind.in/)
 
 ## Books
 
@@ -35,6 +40,9 @@
 
 ## Forums, Group chats
 
+- [IndiaInvestmens Discord](https://discord.gg/qJ6vhTX)
+- [/r/IndiaInvestments/](https://www.reddit.com/r/IndiaInvestments/)
+
 ## Games
 
 ## Images
@@ -52,6 +60,8 @@
 ## Newsletters
 
 ## People
+
+- [Deepak Shenoy](https://twitter.com/deepakshenoy)
 
 ## Q&A
 

@@ -15,8 +15,6 @@
 
 ## Audio, Podcasts
 
-- [Paisa Vaisa - all things money in India](https://ivmpodcasts.com/paisavaisa) by [Anupam Gupta](https://twitter.com/b50)
-
 ## Blogs
 
 ## Books
@@ -34,6 +32,7 @@
 ## Courses
 
 - [Varsity by Zerodha](https://zerodha.com/varsity/)
+- [Finance for Everyone: Smart Tools for Decision-Making](https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1)
 
 ## Forums, Group chats
 

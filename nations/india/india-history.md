@@ -1,4 +1,4 @@
-# Web Design
+# India - History
 
 - prerequisites:
 - subtopics:
@@ -8,8 +8,6 @@
 
 ## Apps & Websites
 
-- [Undraw: Open-source illustrations](https://undraw.co/illustrations)
-
 ## Articles
 
 ## Audio, Podcasts
@@ -17,8 +15,6 @@
 ## Blogs
 
 ## Books
-
-- [📕 Don’t make me think (2000)](http://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
 ## Certifications & Assessment
 
@@ -59,3 +55,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

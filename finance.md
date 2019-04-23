@@ -65,6 +65,8 @@
 
 ## Videos, Documentaries & Films
 
+- [Excel Finance Functions: PMT() • PV() • RATE() • NPER()](https://www.youtube.com/watch?v=AfWRp1mExQw)
+
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Finance)

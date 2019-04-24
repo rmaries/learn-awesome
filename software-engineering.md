@@ -1,4 +1,4 @@
-# Electrical Engineering
+# Software Engineering
 
 - prerequisites:
 - subtopics:
@@ -6,17 +6,13 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
 
 ## Audio, Podcasts
 
 ## Blogs
-
-- [Bunnies Studios](https://www.bunniestudios.com/)
-- [Yifan Lu's blog](https://yifan.lu/)
-- [Fail0verflow blog](https://fail0verflow.com/blog/)
 
 ## Books
 
@@ -52,16 +48,16 @@
 
 ## Q&A
 
-- [Electrical engineering](http://electronics.stackexchange.com?title=)
-
 ## Quotes
 
 ## Research Papers
+
+- [Out of the Tar Pit](http://curtclifton.net/papers/MoseleyMarks06a.pdf) by Ben Moseley, Peter Marks
 
 ## Videos, Documentaries & Films
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Electrical_engineering)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Electrical_engineering)
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
 

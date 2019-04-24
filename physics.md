@@ -6,8 +6,9 @@
 
 ------
 
-## Apps
+## Apps and Websites
 
+- [Science Friday](https://www.sciencefriday.com/topics/physics-chemistry/)
 - [Algodoo](http://www.algodoo.com/)
 
 ## Articles
@@ -99,6 +100,8 @@
 - [Kindergarten Quantum Mechanics](https://arxiv.org/abs/quant-ph/0510032)
 
 ## Videos, Documentaries & Films
+
+- [Up & Atom](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw)
 
 ## Wiki
 

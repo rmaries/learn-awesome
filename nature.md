@@ -1,4 +1,4 @@
-# Electrical Engineering
+# Nature
 
 - prerequisites:
 - subtopics:
@@ -6,17 +6,15 @@
 
 ------
 
-## Apps
+## Apps & Websites
+
+- [Science Friday](https://www.sciencefriday.com/topics/nature/)
 
 ## Articles
 
 ## Audio, Podcasts
 
 ## Blogs
-
-- [Bunnies Studios](https://www.bunniestudios.com/)
-- [Yifan Lu's blog](https://yifan.lu/)
-- [Fail0verflow blog](https://fail0verflow.com/blog/)
 
 ## Books
 
@@ -52,8 +50,6 @@
 
 ## Q&A
 
-- [Electrical engineering](http://electronics.stackexchange.com?title=)
-
 ## Quotes
 
 ## Research Papers
@@ -62,6 +58,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Electrical_engineering)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Electrical_engineering)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Nature)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Nature)
 

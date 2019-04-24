@@ -8,6 +8,8 @@
 
 ## Apps & Websites
 
+- [Science Friday](https://www.sciencefriday.com/topics/food-garden/)
+
 ## Articles
 
 ## Audio, Podcasts

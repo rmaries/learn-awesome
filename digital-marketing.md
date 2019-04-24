@@ -1,4 +1,4 @@
-# Electrical Engineering
+# Digital Marketing
 
 - prerequisites:
 - subtopics:
@@ -6,7 +6,9 @@
 
 ------
 
-## Apps
+## Apps & Websites
+
+- [Marketing Technology Landscape 2019](https://chiefmartec.com/2019/04/marketing-technology-landscape-supergraphic-2019/)
 
 ## Articles
 
@@ -14,9 +16,7 @@
 
 ## Blogs
 
-- [Bunnies Studios](https://www.bunniestudios.com/)
-- [Yifan Lu's blog](https://yifan.lu/)
-- [Fail0verflow blog](https://fail0verflow.com/blog/)
+- [ChiefMarTec](https://chiefmartec.com/)
 
 ## Books
 
@@ -50,9 +50,9 @@
 
 ## People
 
-## Q&A
+- [Scott Brinker](https://twitter.com/chiefmartec)
 
-- [Electrical engineering](http://electronics.stackexchange.com?title=)
+## Q&A
 
 ## Quotes
 
@@ -62,6 +62,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Electrical_engineering)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Electrical_engineering)
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Digital_marketing)
+- [Simple Wikipedia]()
 

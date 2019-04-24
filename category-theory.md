@@ -20,6 +20,7 @@
 - [📖 Basic Category Theory (2016)](https://arxiv.org/pdf/1612.09375.pdf)
 - [📖 Category Theory in Context (2016)](http://www.math.jhu.edu/~eriehl/context.pdf)
 - [📖 Category Theory (2006)](http://angg.twu.net/MINICATS/awodey__category_theory.pdf)
+- [Seven Sketches in Compositionality](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/18-s097iap19textbook.pdf) by Brendan Fong, David Spivak
 
 ## Certifications & Assessment
 
@@ -30,6 +31,8 @@
 ## Conferences
 
 ## Courses
+
+- [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/index.htm) by MIT OCW
 
 ## Forums, Group chats
 

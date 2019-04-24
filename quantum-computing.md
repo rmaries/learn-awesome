@@ -36,6 +36,8 @@
 
 ## Interactives
 
+- [Quantum Computing for the Very Curious](https://quantum.country/qcvc) by Michael Nielson and Andy Matuschak
+
 ## Journals
 
 ## Learning Plans

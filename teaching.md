@@ -1,4 +1,4 @@
-# Electrical Engineering
+# Teaching
 
 - prerequisites:
 - subtopics:
@@ -6,17 +6,17 @@
 
 ------
 
-## Apps
+## Apps and websites
+
+- [Cult of Pedagogy](https://www.cultofpedagogy.com/)
 
 ## Articles
+
+- [How to teach an inductive learning lesson](https://www.cultofpedagogy.com/inductive-learning/)
 
 ## Audio, Podcasts
 
 ## Blogs
-
-- [Bunnies Studios](https://www.bunniestudios.com/)
-- [Yifan Lu's blog](https://yifan.lu/)
-- [Fail0verflow blog](https://fail0verflow.com/blog/)
 
 ## Books
 
@@ -52,8 +52,6 @@
 
 ## Q&A
 
-- [Electrical engineering](http://electronics.stackexchange.com?title=)
-
 ## Quotes
 
 ## Research Papers
@@ -61,7 +59,3 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
-
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Electrical_engineering)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Electrical_engineering)
-

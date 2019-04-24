@@ -37,14 +37,14 @@
 
 ## Forums, Group chats
 
-- [Askscience](https://www.reddit.com/r/askscience/)
-- [Astronomy](https://www.reddit.com/r/Astronomy/)
-- [Chemistry](https://www.reddit.com/r/chemistry/)
-- [Computational chemistry](https://www.reddit.com/r/comp_chem/)
-- [explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
-- [Physics](https://www.reddit.com/r/Physics/)
-- [Quantum computing](https://www.reddit.com/r/QuantumComputing/)
-- [Science](https://www.reddit.com/r/science/)
+- [/r/Askscience](https://www.reddit.com/r/askscience/)
+- [/r/Astronomy](https://www.reddit.com/r/Astronomy/)
+- [/r/Chemistry](https://www.reddit.com/r/chemistry/)
+- [/r/comp_chem](https://www.reddit.com/r/comp_chem/)
+- [/r/explorables](https://www.reddit.com/r/explorables/) - Interactive explanations, thinking tools, concept visualizations, and other media for communicating and generating ideas.
+- [/r/Physics](https://www.reddit.com/r/Physics/)
+- [/r/QuantumComputing](https://www.reddit.com/r/QuantumComputing/)
+- [/r/Science](https://www.reddit.com/r/science/)
 
 ## Games
 
@@ -54,7 +54,7 @@
 
 ## Journals
 
-- [I Wonder](https://azimpremjifoundation.org/foundation/779)
+- [I Wonder](https://azimpremjifoundation.org/foundation/779) by Ajim Premji Foundation
 
 ## Learning Plans
 
@@ -79,6 +79,11 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [The Power of Ten](https://youtu.be/0fKBhvDjuy0)
+- [The King of Random](https://www.youtube.com/user/01032010814)
+- [SmarterEveryDay](https://www.youtube.com/user/destinws2)
+- [Chrismas Lectures](https://www.rigb.org/christmas-lectures/watch) by The Royal Institution
 
 ## Wiki
 

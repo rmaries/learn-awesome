@@ -31,6 +31,7 @@
 ## Courses
 
 - [HTML5 game development](https://www.udacity.com/course/html5-game-development--cs255) 🆓
+- [Handmade Hero video repository](https://handmadehero.org/watch#EpisodeGuide)
 
 ## Forums, Group chats
 
@@ -45,7 +46,7 @@
 ## Learning Plans
 
 ## Livestreams
-
+- [Handmade Hero](https://handmadehero.org/watch)
 ## Meetups
 
 ## Newsletters

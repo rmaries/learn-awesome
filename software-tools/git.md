@@ -9,8 +9,8 @@
 ## Apps and Website
 
 - [Learn GitHub](https://try.github.io/)
-
 - [App GitHub for Desktop](https://desktop.github.com/)
+- For Beginners - [Resources by Github](https://try.github.io/)
 
 ## Articles
 
@@ -34,6 +34,8 @@
 ## Conferences
 
 ## Courses
+
+- [codecademy](https://www.codecademy.com/learn/learn-git)
 
 ## Forums, Group chats
 
@@ -60,3 +62,6 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Git)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Git_(software))

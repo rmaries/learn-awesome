@@ -6,7 +6,11 @@
 
 ------
 
-## Apps
+## Apps and Website
+
+- [Learn GitHub](https://try.github.io/)
+
+- [App GitHub for Desktop](https://desktop.github.com/)
 
 ## Articles
 

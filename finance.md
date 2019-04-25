@@ -60,6 +60,8 @@
 
 ## Quotes
 
+> Make a will. Pay off your credit card balance. Get term life insurance if you have a family to support. Fund your company 401K to the maximum. Fund your IRA to the maximum. Buy a house if you want to live in a house and can afford it. Put six months’ expenses in a money market account. Take whatever is left over and invest it 70 percent in a stock index fund and 30 percent in a bond fund through any discount brokerage company and never touch it until retirement. If any of this confuses you, or you have something special going on (retirement, college planning, tax issue), hire a fee-based financial planner, not one who charges you a percentage of your portfolio. - Scott Adams
+
 ## Research Papers
 
 ## Videos, Documentaries & Films

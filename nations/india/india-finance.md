@@ -40,7 +40,7 @@
 
 ## Forums, Group chats
 
-- [IndiaInvestmens Discord](https://discord.gg/qJ6vhTX)
+- [IndiaInvestments Discord](https://discord.gg/qJ6vhTX)
 - [/r/IndiaInvestments/](https://www.reddit.com/r/IndiaInvestments/)
 
 ## Games

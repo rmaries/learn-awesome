@@ -146,6 +146,7 @@
 ## Interactives
 
 - [Mathigon](https://mathigon.org/)
+- [Parallel](https://parallel.org.uk/)
 
 ## Journals
 

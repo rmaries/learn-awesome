@@ -9,6 +9,7 @@
 ## Apps and Websites
 
 - [Science Friday](https://www.sciencefriday.com/topics/earth-science/)
+- [Paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology)
 
 ## Articles
 

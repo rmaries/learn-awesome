@@ -43,6 +43,8 @@
 
 ## Learning Plans
 
+- [NodeJS Developer Roadmap for 2019](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+
 ## Livestreams
 
 ## Meetups

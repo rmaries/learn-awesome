@@ -20,7 +20,6 @@
 
 ## Articles
 
-- [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning)
 - [The Spiral Approach to Thinking and Learning](https://www.av8n.com/physics/spiral-approach.htm) (alternative to Mastery learning)
 - [There's no speed limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 - [What kids need to learn to succeed in 2050](https://medium.com/s/youthnow/yuval-noah-harari-21-lessons-21st-century-what-kids-need-to-learn-now-to-succeed-in-2050-1b72a3fb4bcf) by Yuval Noah Harari
@@ -30,6 +29,7 @@
 - [Why Lifelong Learning is The Only Option](http://www.gettingsmart.com/2017/01/10-reasons-why-lifelong-learning-is-the-only-option/)
 - [Aerobic Exercises Enhance Neurogenesis and Neuroplasticity](https://sharpbrains.com/resources/2-the-4-pillars-of-brain-maintenance/physical-exercise-why-aerobic-exercise-enhances-neurogenesis-and-neuroplasticity/)
 - [You and Your Research](https://jamesclear.com/great-speeches/you-and-your-research-by-richard-hamming) by Richard Hamming
+- [Learning, Remembering & Thinking](https://www.av8n.com/physics/thinking.htm) by John Denker
 
 ## Audio, Podcasts
 
@@ -123,3 +123,4 @@
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Learning)
 - [Simple Wikipedia](https://simple.wikipedia.org/wiki/Learning)
 - [Philosophy of Education](https://en.wikipedia.org/wiki/Philosophy_of_education)
+- [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning)

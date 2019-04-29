@@ -10,6 +10,8 @@
 
 ## Articles
 
+- [Learning, Remembering & Thinking](https://www.av8n.com/physics/thinking.htm) by John Denker
+
 ## Audio, Podcasts
 
 ## Blogs

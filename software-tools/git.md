@@ -36,6 +36,7 @@
 ## Courses
 
 - [codecademy](https://www.codecademy.com/learn/learn-git)
+- [Bitbucket](https://www.atlassian.com/git/tutorials)
 
 ## Forums, Group chats
 

@@ -59,7 +59,7 @@
 
 ## Videos, Documentaries & Films
 
-[Eco Snippets](http://www.ecosnippets.com/)
+- [Eco Snippets](http://www.ecosnippets.com/)
 
 ## Wiki
 

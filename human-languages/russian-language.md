@@ -30,6 +30,7 @@
 ## Conferences
 
 ## Courses
+- [Learn Russian by Michelt Thomas](https://www.michelthomas.com/learn-russian/)
 
 ## Forums, Group chats
 

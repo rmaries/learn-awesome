@@ -17,6 +17,8 @@
 ## Books
 
 - [Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/37797374-the-drawing-on-the-right-side-of-the-brain-workbook) by Betty Edwards
+- [Atlas of Human Anatomy for the Artist (Galaxy Books)](https://www.amazon.com/Atlas-Human-Anatomy-Artist-Galaxy/dp/0935736344/)
+- [Human Anatomy for Artists: The Elements of Form](https://www.amazon.com/Human-Anatomy-Artists-Elements-Form/dp/0195052064/)
 
 ## Certifications & Assessment
 
@@ -27,6 +29,8 @@
 ## Conferences
 
 ## Courses
+- [Figure drawing with Gelnn Vilppu](https://www.nma.art/videolessons/search/instructors/glenn-vilppu/series/figure-drawing-with-glenn-vilppu/)
+- [Anatomy for figure drawing with Glenn Vilppu](https://www.nma.art/videolessons/search/instructors/glenn-vilppu/series/anatomy-for-figure-drawing/)
 
 ## Forums, Group chats
 
@@ -38,6 +42,7 @@
 ## Images
 
 ## Interactives
+- [ZygoteBody for learning human anatomy](https://www.zygotebody.com/)
 
 ## Journals
 

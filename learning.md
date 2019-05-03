@@ -20,7 +20,6 @@
 
 ## Articles
 
-- [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning)
 - [The Spiral Approach to Thinking and Learning](https://www.av8n.com/physics/spiral-approach.htm) (alternative to Mastery learning)
 - [There's no speed limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 - [What kids need to learn to succeed in 2050](https://medium.com/s/youthnow/yuval-noah-harari-21-lessons-21st-century-what-kids-need-to-learn-now-to-succeed-in-2050-1b72a3fb4bcf) by Yuval Noah Harari
@@ -30,6 +29,7 @@
 - [Why Lifelong Learning is The Only Option](http://www.gettingsmart.com/2017/01/10-reasons-why-lifelong-learning-is-the-only-option/)
 - [Aerobic Exercises Enhance Neurogenesis and Neuroplasticity](https://sharpbrains.com/resources/2-the-4-pillars-of-brain-maintenance/physical-exercise-why-aerobic-exercise-enhances-neurogenesis-and-neuroplasticity/)
 - [You and Your Research](https://jamesclear.com/great-speeches/you-and-your-research-by-richard-hamming) by Richard Hamming
+- [Learning, Remembering & Thinking](https://www.av8n.com/physics/thinking.htm) by John Denker
 
 ## Audio, Podcasts
 
@@ -100,7 +100,9 @@
 
 > The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality. His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the "quantity" group: fifty pound of pots rated an "A", forty pounds a "B", and so on. Those being graded on "quality", however, needed to produce only one pot - albeit a perfect one - to get an "A". Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity. It seems that while the "quantity" group was busily churning out piles of work - and learning from their mistakes - the "quality" group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay. - From the book "Art & Fear"
 
-> "The internet is the best school ever created. The best peers are on the Internet. The best books are on the Internet. The best teachers are on the Internet. The tools for learning are abundant. It’s the desire to learn that’s scarce." - Naval Ravikant
+> The internet is the best school ever created. The best peers are on the Internet. The best books are on the Internet. The best teachers are on the Internet. The tools for learning are abundant. It’s the desire to learn that’s scarce. - Naval Ravikant
+
+> Education is what people do to you. Learning is what you do for yourself. - Unknown
 
 ## Research Papers
 
@@ -114,9 +116,11 @@
 - [Digital Aristotle: Thoughts on the Future of Education](https://www.youtube.com/watch?v=7vsCAM17O-M)
 - [This will revolutionize education](https://www.youtube.com/watch?v=GEmuEWjHr5c) by Veritasium (a critique to Digital Aristotle idea above)
 - [The Science of Thinking](https://www.youtube.com/watch?v=UBVV8pch1dM) by Veritasium
+- [It's the Educonomy, Stupid!](https://www.c-span.org/video/?c4502496/brandon-busteed-speech) by Brandon Busteed, Director of Education from Gallup
 
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Learning)
 - [Simple Wikipedia](https://simple.wikipedia.org/wiki/Learning)
 - [Philosophy of Education](https://en.wikipedia.org/wiki/Philosophy_of_education)
+- [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning)

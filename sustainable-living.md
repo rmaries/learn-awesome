@@ -8,6 +8,9 @@
 
 ## Apps
 
+- [Sustainable living association](https://sustainablelivingassociation.org/) 
+- [Eco Snippets](http://www.ecosnippets.com/)
+
 ## Articles
 
 ## Audio, Podcasts
@@ -55,6 +58,8 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [Eco Snippets](http://www.ecosnippets.com/)
 
 ## Wiki
 

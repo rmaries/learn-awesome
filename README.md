@@ -1,6 +1,4 @@
-![Never stop learning](header.jpg?raw=true)
-
-# learn-awesome
+# Learn Awesome
 
 [![Gitter](https://img.shields.io/badge/-Gitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gitter.im/learn-awesome/community)
 [![Twitter](https://img.shields.io/badge/-Twitter-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://twitter.com/learn_awesome)
@@ -20,7 +18,7 @@ We also have [math](math.md), [abstract algebra](abstract-algebra.md), [science]
 
 A lot of our current users are programmers. And so we have: [Git](git.md), [algorithms](computer-science/algorithms.md), [artificial intelligence](computer-science/artificial-intelligence.md), [compilers](computer-science/compilers.md), [computer science](computer-science/computer-science.md), [computer security](computer-science/computer-security.md), [computer vision](computer-science/computer-vision.md), [cryptocurrency](cryptocurrency.md), [cryptography](cryptography.md), [deep learning](computer-science/deep-learning.md), [machine learning](computer-science/machine-learning.md), and [programming](programming.md). And of course a whole bunch of [programming languages](programming-languages/)! :-)
 
-For hobbies, we currently have [magic](magic.md), [music](music.md) & [photography](photography.md). We're now starting to curate links for a few [human languages](human-languages) as well.
+For hobbies, we currently have [magic](magic.md), [music](music.md),[drawing](drawing.md) & [photography](photography.md). We're now starting to curate links for a few [human languages](human-languages) as well.
 
 You should join us to expand and improve our collection! Use this [template](template.md) to create a page for a new topic and send us a pull request. For discussions, come over to [Gitter](https://gitter.im/learn-awesome/). Happy learning :-)
 
@@ -29,7 +27,7 @@ You should join us to expand and improve our collection! Use this [template](tem
 ## Contributing
 
 - Always put the learner first.
-- Have a high bar for quality. The Internet is full of awesome things as well as less-than-awesome things.
+- Have a high bar for quality. The Internet is full of awesome things as well as trash.
 - Only add links you think are awesome.
 - Do not promote your own books / articles / videos etc. If it's good, it will show up.
 - Remove any affiliate codes etc from the links.
@@ -48,8 +46,7 @@ You should join us to expand and improve our collection! Use this [template](tem
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Discuss your ideas & questions over at [Gitter](https://gitter.im/learn-awesome/).
-
-Thank you for your suggestions! 💜
+- Thank you for your contributions! ❤️
 
 ## Future
 

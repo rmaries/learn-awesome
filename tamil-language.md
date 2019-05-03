@@ -1,4 +1,4 @@
-# Academia
+# Tamil-Language
 
 - prerequisites:
 - subtopics:
@@ -6,7 +6,9 @@
 
 ------
 
-## Apps
+## Apps & Websites
+
+- [Multibhashi](https://www.multibhashi.com/app/courses)
 
 ## Articles
 
@@ -48,8 +50,6 @@
 
 ## Q&A
 
-- [Academia](https://academia.stackexchange.com)
-
 ## Quotes
 
 ## Research Papers
@@ -57,3 +57,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia](https://en.wikipedia.org/wiki/Tamil_language)
+- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Tamil_language)
+

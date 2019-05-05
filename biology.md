@@ -10,6 +10,8 @@
 
 - [Science Friday](https://www.sciencefriday.com/topics/biology/)
 - [Seek - Know the name of a plant or an animal using computer vision](https://play.google.com/store/apps/details?id=org.inaturalist.seek) by iNaturalist
+- [BioRxiv](https://www.biorxiv.org/)
+- [Cold Spring Harbor Laboratory](https://www.cshl.edu/)
 
 ## Articles
 

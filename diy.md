@@ -17,6 +17,8 @@
 
 ## Blogs
 
+- [Smart Watch From Scratch](https://imgur.com/a/FSBwD3g)
+
 ## Books
 
 - [Toy from Trash books](http://www.arvindguptatoys.com/)

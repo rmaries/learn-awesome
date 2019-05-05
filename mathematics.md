@@ -28,6 +28,7 @@
 
 ## Blogs
 
+- [How to Teach Yourself Math](https://www.scotthyoung.com/blog/2018/12/11/teach-yourself-math/)
 - [Comfortable Numbered](http://hardmath123.github.io/)
 - [Danny Gratzer](https://jozefg.bitbucket.io)
 - [Henry de Valence](https://www.hdevalence.ca/blog/)

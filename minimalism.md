@@ -38,6 +38,8 @@
 
 - [Free course on Udemy](https://www.udemy.com/minimalism-simplicity-freedom/learn/lecture/7353226#overview)
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [reddit](https://www.reddit.com/r/minimalism/)

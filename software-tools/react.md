@@ -47,6 +47,8 @@
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16) 🆓
 - [React Holiday (2017)](https://react.holiday/) - React through examples. 🆓
 
+## FlashCards
+
 ## Forums, Group chats
 
 ## Games

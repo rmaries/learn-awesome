@@ -40,6 +40,8 @@
 - [Vim magic](https://www.reddit.com/r/vim_magic/)
 - [Vim](https://www.reddit.com/r/vim/)
 
+## FlashCards
+
 ## Games
 
 ## Images

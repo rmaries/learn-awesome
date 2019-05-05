@@ -111,6 +111,8 @@
 - [CanYa Community](https://t.me/CanYaCommunity)
 - [IndiaBits](https://t.me/indiabits)
 
+## FlashCards
+
 ## Games
 
 ## Images

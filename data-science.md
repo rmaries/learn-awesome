@@ -118,6 +118,8 @@
 - [KaggleNoobs](https://kagglenoobs.herokuapp.com/)
 - [DataHouse Discord](https://discord.gg/qVRkPtr)
 
+## FlashCards
+
 ## Games
 
 ## Images

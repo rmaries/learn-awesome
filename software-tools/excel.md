@@ -29,6 +29,8 @@
 - [Free Online Excel Course for Beginners](https://learn.edx.org/spreadsheets/) by Microsoft, edX
 - [Excel Fundamentals](https://www.edx.org/professional-certificate/microsoft-excel-fundamentals)
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [/r/excel](https://www.reddit.com/r/excel/)

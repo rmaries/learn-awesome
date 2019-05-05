@@ -38,6 +38,8 @@
 - [/r/recipes](https://www.reddit.com/r/recipes/)
 - [/r/IndianFood](https://www.reddit.com/r/IndianFood/)
 
+## FlashCards
+
 ## Games
 
 ## Images

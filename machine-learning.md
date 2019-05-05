@@ -128,6 +128,8 @@
 - [Statistical learning (2015)](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) 🆓
 - [Tensorflow for deep learning research (2017)](http://web.stanford.edu/class/cs20si/index.html) 🆓
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [Artificial Intelligence](https://www.reddit.com/r/artificial/)

@@ -30,6 +30,7 @@
 - [Aerobic Exercises Enhance Neurogenesis and Neuroplasticity](https://sharpbrains.com/resources/2-the-4-pillars-of-brain-maintenance/physical-exercise-why-aerobic-exercise-enhances-neurogenesis-and-neuroplasticity/)
 - [You and Your Research](https://jamesclear.com/great-speeches/you-and-your-research-by-richard-hamming) by Richard Hamming
 - [Learning, Remembering & Thinking](https://www.av8n.com/physics/thinking.htm) by John Denker
+- [All you need is 20 hours to learn something new](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/) by Josh Kaufman
 
 ## Audio, Podcasts
 
@@ -56,6 +57,8 @@
 
 - [Learning How To Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) by [Dr. Barbara Oakley](#people) & [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) (12 hours; Beginner)
 - [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) by [Dr. Barbara Oakley](#people), [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) & M.S. Orlando Trejo (11 hours; Beginner)
+
+## FlashCards
 
 ## Forums, Group chats
 

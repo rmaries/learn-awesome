@@ -3,8 +3,43 @@ define
 name sub attribute
 	datatype string;
 
+url sub attribute
+	datatype string;
+
+birthyear sub attribute
+	datatype long;
+
+type sub attribute
+	datatype string;
+
+length sub attribute
+	datatype string;
+
 student sub entity
-	has name
+	has name;
 
 topic sub entity
-	has name
+	has name;
+
+ideaset sub entity
+	has name;
+
+expression sub entity
+	has name,
+	has type,
+	has length;
+
+link sub entity
+	has url,
+	has has_ads,
+	has is_paid;
+
+ideaset_expression sub relation
+	relates expression,
+	relates ideaset
+
+expression_link sub relation
+	relates expression,
+	relates link;
+
+commit

@@ -125,6 +125,8 @@
 - [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [Fived](https://www.reddit.com/r/fived/)

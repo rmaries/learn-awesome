@@ -28,6 +28,8 @@
 
 ## Courses
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [Purescript](https://www.reddit.com/r/purescript/)

@@ -28,6 +28,10 @@
 
 ## Courses
 
+- [MasterClass: Penn & Teller teach the art of magic](https://www.masterclass.com/classes/penn-and-teller-teach-the-art-of-magic) 
+
+## FlashCards
+
 ## Forums, Group chats
 
 ## Games

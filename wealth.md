@@ -32,6 +32,8 @@
 
 - [Computational investing](https://www.coursera.org/learn/computational-investing) 💰
 
+## FlashCards
+
 ## Forums, Group chats
 
 ## Games

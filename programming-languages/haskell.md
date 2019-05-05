@@ -50,6 +50,8 @@
 - [Introduction to Haskell (2016)](http://www.seas.upenn.edu/%7Ecis194/spring13/) 🆓
 - [Stanford functional systems in Haskell (2014)](http://www.scs.stanford.edu/14sp-cs240h/) 🆓
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [Haskell](https://www.reddit.com/r/haskell/)

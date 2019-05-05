@@ -26,6 +26,8 @@
 
 ## Courses
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [Idris](https://www.reddit.com/r/Idris/)

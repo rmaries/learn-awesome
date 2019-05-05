@@ -32,6 +32,8 @@
 - [Child Nutrition & Cooking](https://www.coursera.org/learn/childnutrition?) by Maya Adam (Stanford school of medicine) (8 hours, beginner)
 - [Everyday Parenting: The ABCs of Child Rearing](https://www.coursera.org/learn/everyday-parenting) (14 hours, beginner)
 
+## FlashCards
+
 ## Forums, Group chats
 
 ## Games

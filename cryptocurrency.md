@@ -42,6 +42,8 @@
 
 - [CryptoTechnology](https://www.reddit.com/r/CryptoTechnology/)
 
+## FlashCards
+
 ## Games
 
 ## Images

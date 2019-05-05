@@ -26,6 +26,8 @@
 
 ## Courses
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [Powershell](https://www.reddit.com/r/PowerShell/)

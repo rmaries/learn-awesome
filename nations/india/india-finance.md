@@ -38,6 +38,8 @@
 
 ## Courses
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [IndiaInvestments Discord](https://discord.gg/qJ6vhTX)

@@ -69,6 +69,8 @@
 - [React For Beginners — The best way to learn React](https://reactforbeginners.com/) (Always updated, 6 hours, Beginner) by Wes Bos. `Paid`
 - [Advanced React & GraphQL — Build Full Stack Applications with React and GraphQL](https://advancedreact.com/) (Always updated, 15+ hours, Beginner) by Wes Bos. `Paid`
 
+## FlashCards
+
 ## Forums, Group chats
 
 - [JavaScript](https://www.reddit.com/r/javascript/)

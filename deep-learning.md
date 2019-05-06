@@ -38,6 +38,7 @@
 - [Stanford deep learning for natural language processing](http://cs224d.stanford.edu/syllabus.html) 🆓
 - [Deep Learning UC Berkeley STAT-157 (2019)](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
 - [CS294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+- [Practical Deep Learning for Coders (2019)](https://course.fast.ai/) 🆓
 
 ## Forums, Group chats
 

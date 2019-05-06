@@ -27,6 +27,8 @@
 
 ## FlashCards
 
+- [Anki Decks](https://ankiweb.net/shared/decks/french)
+
 ## Forums, Group chats
 
 ## Games

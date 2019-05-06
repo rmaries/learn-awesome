@@ -1,4 +1,4 @@
-# Spanish Language
+# Law
 
 - prerequisites:
 - subtopics:
@@ -6,7 +6,7 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
 ## Articles
 
@@ -28,7 +28,7 @@
 
 ## FlashCards
 
-- [Anki Decks](https://ankiweb.net/shared/decks/spanish)
+- [Anki Decks](https://ankiweb.net/shared/decks/law)
 
 ## Forums, Group chats
 
@@ -52,8 +52,6 @@
 
 ## Q&A
 
-- [Spanish language](http://spanish.stackexchange.com)
-
 ## Quotes
 
 ## Research Papers
@@ -62,6 +60,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Spanish_language)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Spanish_language)
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
 

@@ -52,6 +52,8 @@
 
 ## FlashCards
 
+- [Anki Decks](https://ankiweb.net/shared/decks/physics)
+
 ## Forums, Group chats
 
 ## Games

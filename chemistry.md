@@ -37,9 +37,11 @@
 
 - [Bioinformatics specialization](https://www.coursera.org/specializations/bioinformatics) 💰
 
-## Forums, Group chats
-
 ## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/chemistry)
+
+## Forums, Group chats
 
 ## Games
 

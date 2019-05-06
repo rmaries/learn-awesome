@@ -28,6 +28,8 @@
 
 ## FlashCards
 
+- [Anki Decks](https://ankiweb.net/shared/decks/german)
+
 ## Forums, Group chats
 
 ## Games

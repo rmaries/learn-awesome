@@ -34,6 +34,8 @@
 
 ## FlashCards
 
+- [Anki Decks](https://ankiweb.net/shared/decks/russian)
+
 ## Forums, Group chats
 
 ## Games

@@ -17,6 +17,7 @@
 ## Books
 
 - [On Education, Especially in early childhood](https://www.goodreads.com/book/show/29782087-on-education-especially-in-early-childhood) by Bertrand Russell
+- [Summerhill](https://www.amazon.in/Summerhill-English-S-Neil/dp/8189976028/) by A.S. Neil
 - [How Children Fail](https://en.wikipedia.org/wiki/How_Children_Fail) by John Holt
 
 ## Certifications & Assessment

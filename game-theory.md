@@ -32,6 +32,8 @@
 
 ## Games
 
+- [The game of trust](https://ncase.me/trust/) by Nicky Case
+
 ## Images
 
 ## Interactives

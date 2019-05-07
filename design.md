@@ -30,6 +30,7 @@
 - [📕 Alien Phenomenology or what its like to be a thing (2012)](https://www.amazon.com/Alien-Phenomenology-What-Thing-Posthumanities/dp/0816678987)
 - [📕 The Best Interface Is No Interface: The Simple Path to Brilliant Technology](http://www.nointerface.com/book/)
 - [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
+- [📕 Universal Principles of Design (2010)](https://www.goodreads.com/book/show/130730.Universal_Principles_of_Design)
 
 ## Certifications & Assessment
 

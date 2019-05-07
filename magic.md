@@ -60,4 +60,6 @@
 
 ## Videos, Documentaries & Films
 
+- [The Art of Misdirection (Ted Talk)](https://www.youtube.com/watch?v=GZGY0wPAnus) by Apollo Robbins
+
 ## Wiki

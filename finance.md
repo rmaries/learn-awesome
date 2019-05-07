@@ -33,6 +33,7 @@
 
 - [Varsity by Zerodha](https://zerodha.com/varsity/)
 - [Finance for Everyone: Smart Tools for Decision-Making](https://www.edx.org/course/finance-everyone-smart-tools-decision-michiganx-fin101x-1)
+- [Introduction of Financial Accounting](https://www.coursera.org/learn/wharton-accounting) by Prof. Brian Bushee
 
 ## Forums, Group chats
 

@@ -16,6 +16,8 @@
 
 ## Blogs
 
+- [Adrian Rosebrock's comprehensive tutorials on everything about OpenCV, Computer Vision, and Deep Learning](https://www.pyimagesearch.com/)
+
 ## Books
 
 ## Certifications & Assessment

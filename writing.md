@@ -10,6 +10,8 @@
 
 ## Articles
 
+- [The Day You Became a Better Writer](https://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) by Scott Adams
+
 ## Audio, Podcasts
 
 ## Blogs

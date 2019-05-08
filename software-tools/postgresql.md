@@ -1,4 +1,4 @@
-# Visualization
+# PostgreSQL
 
 - prerequisites:
 - subtopics:
@@ -6,20 +6,19 @@
 
 ------
 
-## Apps
+## Apps & Websites
 
-- [Tools & Libs](http://selection.datavisualization.ch/)
+- [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
 
 ## Articles
+
+- [Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 
 ## Audio, Podcasts
 
 ## Blogs
 
 ## Books
-
-- [📕 Envisioning information (1990)](http://www.goodreads.com/book/show/17745.Envisioning_Information)
-- [The Grammar of Graphics](https://www.goodreads.com/book/show/2549408.The_Grammar_of_Graphics)
 
 ## Certifications & Assessment
 
@@ -62,3 +61,7 @@
 ## Videos, Documentaries & Films
 
 ## Wiki
+
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
+

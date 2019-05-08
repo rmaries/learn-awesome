@@ -75,6 +75,7 @@
 
 ## Books
 
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) by Christopher Bishop
 - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)

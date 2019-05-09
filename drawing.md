@@ -57,6 +57,7 @@
 ## Journals
 
 ## Learning Plans
+- [Renaissance Figure Drawing](https://www.nma.art/learningpaths/renaissance-figure-drawing/) - Glenn Vilppu - Covers most of the figure drawing though an introduction to perspective and general sense of drawing will be required before attempting this.
 
 ## Livestreams
 

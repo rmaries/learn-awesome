@@ -8,6 +8,8 @@
 
 ## Apps & Websites
 
+- [Text search of complete Calvin and Hobbes scripts](http://michaelyingling.com/random/calvin_and_hobbes/)
+
 ## Articles
 
 ## Audio, Podcasts

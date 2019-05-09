@@ -10,6 +10,8 @@
 
 ## Articles
 
+- [Publishing a plugin to the Wordpress Plugin Directory](https://www.sitepoint.com/publishing-a-plugin-to-the-wordpress-plugin-directory/)
+
 ## Audio, Podcasts
 
 ## Blogs

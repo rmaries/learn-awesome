@@ -1,4 +1,4 @@
-# PostgreSQL
+# AI Ethics
 
 - prerequisites:
 - subtopics:
@@ -8,11 +8,9 @@
 
 ## Apps & Websites
 
-- [PostgreSQL Wiki](https://wiki.postgresql.org/wiki/Main_Page)
-
 ## Articles
 
-- [Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+- [AI Ethics Resources](https://www.fast.ai/2018/09/24/ai-ethics-resources/) by FastAI
 
 ## Audio, Podcasts
 
@@ -29,6 +27,8 @@
 ## Conferences
 
 ## Courses
+
+- [Tech Ethics Curricula](https://medium.com/@cfiesler/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18)
 
 ## FlashCards
 
@@ -52,6 +52,9 @@
 
 ## People
 
+- Arvind Narayanan (Prof at Princeton): [twitter](https://twitter.com/timnitGebru)
+- Kate Crawford (Prof at NYU): [twitter](https://twitter.com/katecrawford)
+
 ## Q&A
 
 ## Quotes
@@ -62,6 +65,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
+- [Main Wikipedia]()
 - [Simple Wikipedia]()
 

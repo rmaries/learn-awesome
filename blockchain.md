@@ -1,7 +1,6 @@
 # Blockchain
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: [anistark](https://twitter.com/kranirudha)
 
 ------

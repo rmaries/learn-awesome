@@ -1,7 +1,6 @@
 # Security
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

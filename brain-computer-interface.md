@@ -1,7 +1,6 @@
 # Brain Computer Interface
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

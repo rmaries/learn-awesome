@@ -1,7 +1,6 @@
 # Sales Force
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

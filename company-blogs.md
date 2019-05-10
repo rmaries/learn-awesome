@@ -1,6 +1,5 @@
 # Company Blogs
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

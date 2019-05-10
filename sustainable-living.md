@@ -1,7 +1,6 @@
 # Sustainable Living
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

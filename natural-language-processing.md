@@ -1,7 +1,6 @@
 # Natural Language Processing
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

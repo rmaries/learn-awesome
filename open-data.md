@@ -1,7 +1,6 @@
 # Open Data
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

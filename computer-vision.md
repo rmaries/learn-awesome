@@ -1,7 +1,6 @@
 # Computer Vision
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

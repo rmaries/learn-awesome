@@ -1,7 +1,6 @@
 # Statistics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

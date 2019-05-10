@@ -1,7 +1,6 @@
 # Cybernetics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Swimming
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

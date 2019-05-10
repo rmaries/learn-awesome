@@ -1,7 +1,6 @@
 # Poker
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

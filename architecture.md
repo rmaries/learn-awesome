@@ -1,7 +1,6 @@
 # Architecture
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

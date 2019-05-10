@@ -1,7 +1,6 @@
 # Neural Networks
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

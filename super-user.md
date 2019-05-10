@@ -1,7 +1,6 @@
 # Super User
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

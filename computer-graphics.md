@@ -1,7 +1,6 @@
 # Computer Graphics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Web Development
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Scripted Audio
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

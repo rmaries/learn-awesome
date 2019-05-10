@@ -1,7 +1,6 @@
 # Spaced Repetition
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

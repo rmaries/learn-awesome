@@ -1,7 +1,6 @@
 # Spanish Language
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

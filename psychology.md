@@ -1,7 +1,6 @@
 # Psychology
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

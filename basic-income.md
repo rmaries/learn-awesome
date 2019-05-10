@@ -1,7 +1,6 @@
 # Basic income
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

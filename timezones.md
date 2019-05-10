@@ -1,7 +1,6 @@
 # Timezones
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

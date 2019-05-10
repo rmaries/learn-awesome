@@ -1,7 +1,6 @@
 # Data Science
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: [Jarmos](https://twitter.com/Jarmosan)
 
 ------

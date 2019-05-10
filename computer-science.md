@@ -1,7 +1,6 @@
 # Computer Science
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

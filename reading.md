@@ -1,7 +1,6 @@
 # Reading
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

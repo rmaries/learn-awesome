@@ -1,7 +1,6 @@
 # Computer Networking
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

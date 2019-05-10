@@ -1,7 +1,6 @@
 # Life
 
-- prerequisites:
-- subtopics: [health](health.md), [wealth](wealth.md), [learning](learning.md), [relationships](relationships.md), [productivity](productivity.md)
+- related_topics: [health](health.md), [wealth](wealth.md), [learning](learning.md), [relationships](relationships.md), [productivity](productivity.md)
 - curators:
 
 ------

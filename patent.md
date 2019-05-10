@@ -1,7 +1,6 @@
 # Patent
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

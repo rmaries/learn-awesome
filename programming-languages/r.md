@@ -1,7 +1,6 @@
 # R
 
-- prerequisites: [programming](programming.md)
-- subtopics: [Data Science](https://github.com/learn-awesome/learn-awesome/tree/master/data-science)
+- related_topics: [programming](programming.md) [Data Science](https://github.com/learn-awesome/learn-awesome/tree/master/data-science)
 - curators: [Jarmos](https://github.com/Jarmos-san)
 
 ------

@@ -1,7 +1,6 @@
 # Gamification
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

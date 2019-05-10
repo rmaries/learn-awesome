@@ -1,7 +1,6 @@
 # Artificial Intelligence
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: 
 
 ------

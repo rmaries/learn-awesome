@@ -1,7 +1,6 @@
 # Russian
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

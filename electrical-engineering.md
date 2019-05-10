@@ -1,7 +1,6 @@
 # Electrical Engineering
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

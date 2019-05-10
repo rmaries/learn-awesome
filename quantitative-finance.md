@@ -1,7 +1,6 @@
 # Quantitative Finance
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

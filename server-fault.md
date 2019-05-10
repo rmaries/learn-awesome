@@ -1,7 +1,6 @@
 # Server Fault
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Project Management
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

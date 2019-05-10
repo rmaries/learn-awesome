@@ -1,7 +1,6 @@
 # World Building
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

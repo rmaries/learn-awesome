@@ -1,7 +1,6 @@
 # Database Administrators
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

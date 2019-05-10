@@ -1,6 +1,5 @@
 # French language
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

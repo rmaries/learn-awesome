@@ -1,7 +1,6 @@
 # English Language
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Computer Memory
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

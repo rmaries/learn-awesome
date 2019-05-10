@@ -1,7 +1,6 @@
 # Education
 
-- prerequisites: [learning](learning.md)
-- subtopics:
+- related_topics: [learning](learning.md)
 - curators: nileshtrivedi
 
 ------

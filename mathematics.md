@@ -1,7 +1,6 @@
 # Mathematics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: [nileshtrivedi](https://github.com/nileshtrivedi)
 
 ------

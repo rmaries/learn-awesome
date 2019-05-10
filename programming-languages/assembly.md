@@ -1,7 +1,6 @@
 # Assembly
 
-- prerequisites: [programming](programming.md)
-- subtopics:
+- related_topics: [programming](programming.md)
 - curators:
 
 ------

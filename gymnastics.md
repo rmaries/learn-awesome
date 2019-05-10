@@ -1,7 +1,6 @@
 # Gymnastics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

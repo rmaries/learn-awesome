@@ -1,7 +1,6 @@
 # Health
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

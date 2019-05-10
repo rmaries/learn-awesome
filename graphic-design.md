@@ -1,7 +1,6 @@
 # Graphic Design
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

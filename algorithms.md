@@ -1,7 +1,6 @@
 # Algorithms
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

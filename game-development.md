@@ -1,7 +1,6 @@
 # Game Development
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Drawing
 
-- prerequisites: None
-- subtopics: Form, Value, Perspective, Composition, Color
+- related_topics:
 - curators: pareshchouhan
 
 ------

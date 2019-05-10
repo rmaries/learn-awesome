@@ -1,7 +1,6 @@
 # Amateur Radio
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Animation
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

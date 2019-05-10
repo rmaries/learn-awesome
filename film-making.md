@@ -1,7 +1,6 @@
 # Film Making
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

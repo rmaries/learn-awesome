@@ -1,7 +1,6 @@
 # DIY (Do It Yourself)
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

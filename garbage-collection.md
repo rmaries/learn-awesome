@@ -1,7 +1,6 @@
 # Garbage Collection
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Excel
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Regular Expression
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

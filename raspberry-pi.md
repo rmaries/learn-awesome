@@ -1,7 +1,6 @@
 # Raspberry pi
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Art and Crafts
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

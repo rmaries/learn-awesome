@@ -1,7 +1,6 @@
 # Learning
 
-- prerequisites:
-- subtopics: [Space Repetition](spaced-repetition.md), [education](education.md)
+- related_topics: [Space Repetition](spaced-repetition.md), [education](education.md)
 - curators: nileshtrivedi
 
 ---

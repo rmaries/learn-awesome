@@ -1,7 +1,6 @@
 # Home improvement
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Memoirs
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

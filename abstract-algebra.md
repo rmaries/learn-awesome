@@ -1,7 +1,6 @@
 # Abstract Algebra
 
-- prerequisites: algebra
-- subtopics:
+- related_topics: [algebra](algebra.md)
 - curators: nileshtrivedi
 
 ------

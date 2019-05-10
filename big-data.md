@@ -1,7 +1,6 @@
 # Big Data
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

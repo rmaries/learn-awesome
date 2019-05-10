@@ -1,7 +1,6 @@
 # Integrated Development Environment
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

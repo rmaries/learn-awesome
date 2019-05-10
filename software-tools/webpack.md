@@ -1,7 +1,6 @@
 # Web Pack
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

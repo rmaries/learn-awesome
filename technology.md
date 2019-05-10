@@ -1,7 +1,6 @@
 # Technology
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

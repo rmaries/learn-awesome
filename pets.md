@@ -1,7 +1,6 @@
 # Pets
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

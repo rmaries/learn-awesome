@@ -1,7 +1,6 @@
 # Machine Learning
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

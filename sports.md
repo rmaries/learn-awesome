@@ -1,7 +1,6 @@
 # Sports
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

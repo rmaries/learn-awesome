@@ -1,7 +1,6 @@
 # Magic
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

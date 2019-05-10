@@ -1,7 +1,6 @@
 # Culture
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

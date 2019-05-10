@@ -1,7 +1,6 @@
 # Tor
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Git
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -10,7 +9,8 @@
 
 - [Learn GitHub](https://try.github.io/)
 - [App GitHub for Desktop](https://desktop.github.com/)
-- For Beginners - [Resources by Github](https://try.github.io/)
+- [Resources by Github](https://try.github.io/) - For beginners
+- [Git Rebase in Depth](https://git-rebase.io)
 
 ## Articles
 

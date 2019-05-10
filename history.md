@@ -1,7 +1,6 @@
 # History
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # Sleep
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

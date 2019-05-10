@@ -1,7 +1,6 @@
 # Linear Algebra
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

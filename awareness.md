@@ -1,7 +1,6 @@
 # Awareness
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

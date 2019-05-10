@@ -1,7 +1,6 @@
 # Category Theory
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

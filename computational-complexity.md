@@ -1,6 +1,5 @@
 # Computational Complexity
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

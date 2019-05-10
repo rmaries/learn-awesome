@@ -1,7 +1,6 @@
 # Biblical Hermeneutics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

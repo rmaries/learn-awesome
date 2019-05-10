@@ -1,7 +1,6 @@
 # Alcohol
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

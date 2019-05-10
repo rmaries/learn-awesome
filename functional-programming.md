@@ -1,7 +1,6 @@
 # Functional Programming
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

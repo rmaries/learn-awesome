@@ -1,7 +1,6 @@
 # Software Engineering
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

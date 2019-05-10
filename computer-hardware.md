@@ -1,7 +1,6 @@
 # Computer Hardware
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

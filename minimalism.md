@@ -1,7 +1,6 @@
 # Minimalism
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -1,7 +1,6 @@
 # PostgreSQL
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------

@@ -91,6 +91,8 @@
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+- [Books by John Allen Paulos](http://johnallenpaulos.com/booksandreviews.html)
+- [Disquisitiones Arithmeticae](https://books.google.co.in/books?id=iRbmmhOLA1kC&dq=isbn:0300094736&hl=en&sa=X&ved=0ahUKEwjLsuX5y5HiAhUKVH0KHQ37AR4Q6AEIKDAA) by Carl Friedrich Gauss
 
 ## Certifications & Assessment
 
@@ -171,6 +173,7 @@
 ## People
 
 - Grant Sanderson (3Blue1Brown0): [Twitter](https://twitter.com/3blue1brown) | [Website](https://www.3blue1brown.com/) | [Wiki](https://en.wikipedia.org/wiki/3Blue1Brown) | [Instagram](https://www.instagram.com/3blue1brown_animations/)
+- Steven Strogatz: [twitter](https://twitter.com/stevenstrogatz)
 
 ## Q&A
 

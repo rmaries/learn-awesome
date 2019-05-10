@@ -9,7 +9,10 @@
 ## Apps
 
 ## Articles
-
+- [Calculus I](http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx) from Paul's Online Notes
+- [Calculus II](http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx) from Paul's Online Notes
+- [Calculus III](http://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx) from Paul's Online Notes
+- [Differential Equations](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx) from Paul's Online Notes
 ## Audio, Podcasts
 
 ## Blogs
@@ -19,6 +22,8 @@
 ## Certifications & Assessment
 
 ## Cheatsheets
+
+- [Calculus Cheat Sheet](http://tutorial.math.lamar.edu/Extras/CheatSheets_Tables.aspx#CalcSheet) from Paul's Online Notes
 
 ## Code
 

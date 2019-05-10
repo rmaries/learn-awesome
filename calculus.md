@@ -59,6 +59,7 @@
 ## Videos, Documentaries & Films
 
 - [Overview of differential equations](https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6&index=2&t=0s) by 3Blue1Brown
+- [The Beauty of Calculus](https://frankeprogram.yale.edu/event/steven-strogatz-lecture-april-26-2019) by Steven Strogatz
 
 ## Wiki
 

@@ -69,6 +69,8 @@
 
 ## Videos, Documentaries & Films
 
+- [How the Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Economics)

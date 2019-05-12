@@ -1,7 +1,6 @@
 # Aviation
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -16,6 +15,8 @@
 
 ## Books
 
+ - [See How it Flies: A new spin on the perceptions, procedures, and principles of flight](https://www.av8n.com/how/) by John S. Denker
+
 ## Certifications & Assessment
 
 ## Cheatsheets
@@ -27,6 +28,8 @@
 ## Courses
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

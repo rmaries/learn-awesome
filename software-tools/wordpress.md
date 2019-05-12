@@ -1,7 +1,6 @@
 # Topic
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -9,6 +8,8 @@
 ## Apps
 
 ## Articles
+
+- [Publishing a plugin to the Wordpress Plugin Directory](https://www.sitepoint.com/publishing-a-plugin-to-the-wordpress-plugin-directory/)
 
 ## Audio, Podcasts
 
@@ -25,6 +26,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

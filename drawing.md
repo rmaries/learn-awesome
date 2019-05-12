@@ -1,7 +1,6 @@
 # Drawing
 
-- prerequisites: None
-- subtopics: Form, Value, Perspective, Composition, Color
+- related_topics:
 - curators: pareshchouhan
 
 ------
@@ -22,6 +21,8 @@
 ## Books
 
 - [Drawing on the Right Side of the Brain](https://www.goodreads.com/book/show/37797374-the-drawing-on-the-right-side-of-the-brain-workbook) by Betty Edwards
+- [Atlas of Human Anatomy for the Artist (Galaxy Books)](https://www.amazon.com/Atlas-Human-Anatomy-Artist-Galaxy/dp/0935736344/)
+- [Human Anatomy for Artists: The Elements of Form](https://www.amazon.com/Human-Anatomy-Artists-Elements-Form/dp/0195052064/)
 - [Fun with pencil, Figure drawing for all its worth, Drawing the head and hands, Succesfull drawing, Creative illustration, The eye of the painter](http://www.alexhays.com/loomis/) by Andrew Loomis
 
 ## Certifications & Assessment
@@ -32,8 +33,9 @@
 
 ## Conferences
 
-## Courses  
-
+## Courses
+- [Figure drawing with Gelnn Vilppu](https://www.nma.art/videolessons/search/instructors/glenn-vilppu/series/figure-drawing-with-glenn-vilppu/)
+- [Anatomy for figure drawing with Glenn Vilppu](https://www.nma.art/videolessons/search/instructors/glenn-vilppu/series/anatomy-for-figure-drawing/)
 - [The art and science of drawing](https://www.skillshare.com/user/artandscienceofdrawing) by Brent Eviston
 
 ## Forums, Group chats
@@ -42,15 +44,19 @@
 - [/r/learntodraw](https://www.reddit.com/r/learntodraw/)
 - [/r/ArtFundamentals](https://www.reddit.com/r/ArtFundamentals)
 
+## FlashCards
+
 ## Games
 
 ## Images
 
 ## Interactives
+- [ZygoteBody for learning human anatomy](https://www.zygotebody.com/)
 
 ## Journals
 
 ## Learning Plans
+- [Renaissance Figure Drawing](https://www.nma.art/learningpaths/renaissance-figure-drawing/) - Glenn Vilppu - Covers most of the figure drawing though an introduction to perspective and general sense of drawing will be required before attempting this.
 
 ## Livestreams
 
@@ -61,6 +67,7 @@
 ## People
 
 ## Q&A
+- [Draw a box, Q&A Regarding drawing in general](https://drawabox.com/faq)
 
 ## Quotes
 

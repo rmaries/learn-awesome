@@ -1,7 +1,6 @@
 # Mathematics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: [nileshtrivedi](https://github.com/nileshtrivedi)
 
 ------
@@ -28,6 +27,7 @@
 
 ## Blogs
 
+- [How to Teach Yourself Math](https://www.scotthyoung.com/blog/2018/12/11/teach-yourself-math/)
 - [Comfortable Numbered](http://hardmath123.github.io/)
 - [Danny Gratzer](https://jozefg.bitbucket.io)
 - [Henry de Valence](https://www.hdevalence.ca/blog/)
@@ -91,6 +91,8 @@
 - [📕 Invitation to ergodic theory](http://bookstore.ams.org/stml-42)
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+- [Books by John Allen Paulos](http://johnallenpaulos.com/booksandreviews.html)
+- [Disquisitiones Arithmeticae](https://books.google.co.in/books?id=iRbmmhOLA1kC&dq=isbn:0300094736&hl=en&sa=X&ved=0ahUKEwjLsuX5y5HiAhUKVH0KHQ37AR4Q6AEIKDAA) by Carl Friedrich Gauss
 
 ## Certifications & Assessment
 
@@ -125,6 +127,10 @@
 - [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/math)
+
 ## Forums, Group chats
 
 - [Fived](https://www.reddit.com/r/fived/)
@@ -146,6 +152,7 @@
 ## Interactives
 
 - [Mathigon](https://mathigon.org/)
+- [Parallel](https://parallel.org.uk/)
 
 ## Journals
 
@@ -166,6 +173,7 @@
 ## People
 
 - Grant Sanderson (3Blue1Brown0): [Twitter](https://twitter.com/3blue1brown) | [Website](https://www.3blue1brown.com/) | [Wiki](https://en.wikipedia.org/wiki/3Blue1Brown) | [Instagram](https://www.instagram.com/3blue1brown_animations/)
+- Steven Strogatz: [twitter](https://twitter.com/stevenstrogatz)
 
 ## Q&A
 

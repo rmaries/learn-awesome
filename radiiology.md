@@ -1,7 +1,6 @@
 # Radiology
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -27,6 +26,8 @@
 ## Courses
 
 - [Radiology Masterclass](https://www.radiologymasterclass.co.uk/)
+
+## FlashCards
 
 ## Forums, Group chats
 

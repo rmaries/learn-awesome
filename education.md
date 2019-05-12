@@ -1,7 +1,6 @@
 # Education
 
-- prerequisites: [learning](learning.md)
-- subtopics:
+- related_topics: [learning](learning.md)
 - curators: nileshtrivedi
 
 ------
@@ -37,6 +36,8 @@
 
 ## Forums, Group chats
 
+## FlashCards
+
 ## Games
 
 ## Images
@@ -58,6 +59,8 @@
 ## People
 
 ## Q&A
+
+- - [Academia] For higher Education (https://academia.stackexchange.com)
 
 ## Quotes
 

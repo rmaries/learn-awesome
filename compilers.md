@@ -1,7 +1,6 @@
 # Compilers
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -36,6 +35,8 @@
 - [Stanford compiler construction (2016)](https://web.stanford.edu/class/cs143/) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

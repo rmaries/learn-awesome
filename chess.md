@@ -1,7 +1,6 @@
 # Chess
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -29,7 +28,11 @@
 
 ## Courses
 
+- [Garry Kasparov teaches Chess](https://www.masterclass.com/classes/garry-kasparov-teaches-chess)  
+
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

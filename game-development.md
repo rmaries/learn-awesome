@@ -1,7 +1,6 @@
 # Game Development
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -36,6 +35,8 @@
 ## Forums, Group chats
 
 - [Game Dev](https://www.reddit.com/r/gamedev/)
+
+## FlashCards
 
 ## Games
 

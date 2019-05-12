@@ -1,7 +1,6 @@
 # Spanish Language
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -25,6 +24,10 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/spanish)
 
 ## Forums, Group chats
 

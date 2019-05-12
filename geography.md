@@ -1,7 +1,6 @@
 # Geography
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -27,6 +26,10 @@
 ## Courses
 
 ## Forums, Group chats
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/geography)
 
 ## Games
 

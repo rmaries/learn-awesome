@@ -1,7 +1,6 @@
 # Gamification
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -29,6 +28,8 @@
 - [Gamification](https://www.coursera.org/learn/gamification) 💰
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

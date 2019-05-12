@@ -1,7 +1,6 @@
 # Category Theory
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -35,6 +34,8 @@
 - [Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/index.htm) by MIT OCW
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

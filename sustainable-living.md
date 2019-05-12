@@ -1,12 +1,14 @@
 # Sustainable Living
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
 
 ## Apps
+
+- [Sustainable living association](https://sustainablelivingassociation.org/) 
+- [Eco Snippets](http://www.ecosnippets.com/)
 
 ## Articles
 
@@ -25,6 +27,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 
@@ -55,6 +59,8 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [Eco Snippets](http://www.ecosnippets.com/)
 
 ## Wiki
 

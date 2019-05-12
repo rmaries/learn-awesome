@@ -1,7 +1,6 @@
 # Physics
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -10,6 +9,7 @@
 
 - [Science Friday](https://www.sciencefriday.com/topics/physics-chemistry/)
 - [Algodoo](http://www.algodoo.com/)
+- [PhysicsTravelGuide](https://physicstravelguide.com/start)
 
 ## Articles
 
@@ -49,6 +49,10 @@
 
 ## Courses
 
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/physics)
+
 ## Forums, Group chats
 
 ## Games
@@ -66,6 +70,8 @@
 - [Inspire](https://inspirehep.net)
 
 ## Learning Plans
+
+- [So You Want To Learn Physics?](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) by Susan Fowler
 
 ## Livestreams
 

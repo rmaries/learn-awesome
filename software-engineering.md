@@ -1,7 +1,6 @@
 # Software Engineering
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -15,6 +14,7 @@
 ## Blogs
 
 ## Books
+- [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Certifications & Assessment
 
@@ -25,6 +25,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

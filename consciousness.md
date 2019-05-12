@@ -1,7 +1,6 @@
 # Consciousness
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -32,6 +31,8 @@
 - [Neuro](https://www.reddit.com/r/neuro/)
 - [Psychonaut](https://www.reddit.com/r/Psychonaut/)
 - [Rational psychonaut](https://www.reddit.com/r/RationalPsychonaut/)
+
+## FlashCards
 
 ## Games
 

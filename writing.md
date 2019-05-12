@@ -1,7 +1,6 @@
 # Writing
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -10,6 +9,8 @@
 
 ## Articles
 
+- [The Day You Became a Better Writer](https://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/) by Scott Adams
+
 ## Audio, Podcasts
 
 ## Blogs
@@ -17,7 +18,8 @@
 ## Books
 
 - [📕 Style: Lessons in Clarity and Grace (1981)](https://www.goodreads.com/book/show/6966800)
-- [100 Ways to Improve Your Writing](https://www.goodreads.com/book/show/702619.100_Ways_to_Improve_Your_Writing) by Gary Provost
+- [📕 100 Ways to Improve Your Writing](https://www.goodreads.com/book/show/702619.100_Ways_to_Improve_Your_Writing) by Gary Provost
+- [📕 On Writing:  Memoir of the Craft (2012)](https://www.goodreads.com/book/show/10569.On_Writing) by Stephen King
 
 ## Certifications & Assessment
 
@@ -28,6 +30,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

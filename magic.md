@@ -1,7 +1,6 @@
 # Magic
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -27,6 +26,10 @@
 ## Conferences
 
 ## Courses
+
+- [MasterClass: Penn & Teller teach the art of magic](https://www.masterclass.com/classes/penn-and-teller-teach-the-art-of-magic) 
+
+## FlashCards
 
 ## Forums, Group chats
 
@@ -55,5 +58,7 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [The Art of Misdirection (Ted Talk)](https://www.youtube.com/watch?v=GZGY0wPAnus) by Apollo Robbins
 
 ## Wiki

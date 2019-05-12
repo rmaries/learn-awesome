@@ -1,7 +1,6 @@
 # Cryptography
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -35,6 +34,8 @@
 - [Stanford cryptography II (2017)](https://www.coursera.org/learn/crypto2) 💰
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

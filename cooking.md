@@ -1,7 +1,6 @@
 # Cooking
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -37,6 +36,8 @@
 - [/r/AskCulinary](https://www.reddit.com/r/AskCulinary/)
 - [/r/recipes](https://www.reddit.com/r/recipes/)
 - [/r/IndianFood](https://www.reddit.com/r/IndianFood/)
+
+## FlashCards
 
 ## Games
 

@@ -1,7 +1,6 @@
 # Prolog
 
-- prerequisites: [programming](programming.md)
-- subtopics:
+- related_topics: [programming](programming.md)
 - curators:
 
 ------
@@ -28,6 +27,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

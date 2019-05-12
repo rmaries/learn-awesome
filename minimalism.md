@@ -1,7 +1,6 @@
 # Minimalism
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -37,6 +36,8 @@
 ## Courses
 
 - [Free course on Udemy](https://www.udemy.com/minimalism-simplicity-freedom/learn/lecture/7353226#overview)
+
+## FlashCards
 
 ## Forums, Group chats
 

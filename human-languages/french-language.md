@@ -1,6 +1,5 @@
 # French language
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -24,6 +23,10 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/french)
 
 ## Forums, Group chats
 

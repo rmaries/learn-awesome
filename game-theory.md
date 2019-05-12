@@ -1,7 +1,6 @@
 # Game Theory
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -28,7 +27,11 @@
 
 ## Forums, Group chats
 
+## FlashCards
+
 ## Games
+
+- [The game of trust](https://ncase.me/trust/) by Nicky Case
 
 ## Images
 

@@ -1,7 +1,6 @@
 # Poker
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -25,6 +24,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

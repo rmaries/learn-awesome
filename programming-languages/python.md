@@ -1,7 +1,6 @@
 # Python
 
-- prerequisites: [programming](programming.md)
-- subtopics:
+- related_topics: [programming](programming.md)
 - curators: [Jarmos](https://twitter.com/Jarmosan)
 
 ------
@@ -76,6 +75,8 @@
 - [The Python Bible™ | Everything You Need to Program in Python](https://www.udemy.com/share/10000OBUQcclZbRXo=/) (**Estimated time to complete**: 9 hours, **Difficulty**: Beginner) `Paid`
 - [30 Days of Python | Unlock your Python Potential](https://www.udemy.com/share/1000MUBUQcclZbRXo=/) (**Estimated time to complete**: 9.5 hours, **Difficulty**: Beginner) `Paid`
 - [Automate the Boring Stuffs With Python Programming](https://www.udemy.com/share/100006BUQcclZbRXo=/) (**Estimated time to complete**: 9.5 hours, **Difficulty**: Beginner) by [Al Sweigart](https://twitter.com/AlSweigart) `Paid`
+
+## FlashCards
 
 ## Forums, Group chats
 

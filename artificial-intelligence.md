@@ -1,7 +1,6 @@
 # Artificial Intelligence
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: 
 
 ------
@@ -40,6 +39,8 @@
 - [The society of mind (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

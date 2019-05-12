@@ -1,7 +1,6 @@
 # Russian
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -30,6 +29,11 @@
 ## Conferences
 
 ## Courses
+- [Learn Russian by Michelt Thomas](https://www.michelthomas.com/learn-russian/)
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/russian)
 
 ## Forums, Group chats
 

@@ -1,7 +1,6 @@
 # Go
 
-- prerequisites: [programming](programming.md)
-- subtopics:
+- related_topics: [programming](programming.md)
 - curators:
 
 ------
@@ -53,6 +52,10 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
+
+## FlashCards
 
 ## Forums, Group chats
 

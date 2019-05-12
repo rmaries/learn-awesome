@@ -1,7 +1,6 @@
 # Anatomy
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -29,6 +28,10 @@
 - [Applied Anatomy of the locomotor system](https://www.edx.org/course/applied-anatomy-of-the-locomotor-system-2)
 
 ## Forums, Group chats
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/anatomy)
 
 ## Games
 

@@ -1,7 +1,6 @@
 # Spaced Repetition
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -13,6 +12,7 @@
 ## Articles
 
 - [Leitner System](https://en.wikipedia.org/wiki/Leitner_system)
+- [Everything I Know: Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
 
 ## Audio, Podcasts
 
@@ -29,6 +29,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

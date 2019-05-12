@@ -1,7 +1,6 @@
 # Life
 
-- prerequisites:
-- subtopics: [health](health.md), [wealth](wealth.md), [learning](learning.md), [relationships](relationships.md), [productivity](productivity.md)
+- related_topics: [health](health.md), [wealth](wealth.md), [learning](learning.md), [relationships](relationships.md), [productivity](productivity.md)
 - curators:
 
 ------
@@ -13,6 +12,7 @@
 - [Make Your Own Rules](https://www.ribbonfarm.com/2018/02/15/make-your-own-rules/) by [Venkatesh Rao](#people)
 - [Modes of Living](https://invertedpassion.com/modes-of-living/) by [Paras Chopra](#people)
 - [A Natural History of Beauty](https://meltingasphalt.com/a-natural-history-of-beauty/)
+- [Life Is Short](http://paulgraham.com/vb.html) by Paul Graham
 
 ## Audio, Podcasts
 
@@ -36,6 +36,8 @@
 ## Courses
 
 - [A Life of Happiness and Fulfillment](https://www.coursera.org/learn/happiness)
+
+## FlashCards
 
 ## Forums, Group chats
 

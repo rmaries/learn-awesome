@@ -1,7 +1,6 @@
 # Abstract Algebra
 
-- prerequisites: algebra
-- subtopics:
+- related_topics: [algebra](algebra.md)
 - curators: nileshtrivedi
 
 ------
@@ -30,7 +29,11 @@
 
 ## Courses
 
+- [Math E-222 Instructor- Professor Benedict Gross](http://www.infocobuild.com/education/audio-video-courses/mathematics/math-e222-harvard.html)
+
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 
@@ -47,6 +50,8 @@
 ## Newsletters
 
 ## People
+
+- [Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether)
 
 ## Q&A
 

@@ -1,7 +1,6 @@
 # CSS
 
-- prerequisites: [programming](programming.md)
-- subtopics:
+- related_topics: [programming](programming.md)
 - curators:
 
 ------
@@ -30,6 +29,8 @@
 ## Courses
 
 - [CSS Grid by Wes Bos](https://github.com/wesbos/css-grid) 🆓
+
+## FlashCards
 
 ## Forums, Group chats
 

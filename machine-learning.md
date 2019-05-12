@@ -1,7 +1,6 @@
 # Machine Learning
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -75,6 +74,7 @@
 
 ## Books
 
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book) by Christopher Bishop
 - [The Elements of Statistical Learning](http://web.stanford.edu/~hastie/ElemStatLearn/)
 - [📕 Paradigms of artificial intelligence programming (1991)](http://norvig.com/paip.html)
 - [📕 Artificial intelligence a modern approach (1994)](http://www.goodreads.com/book/show/27543.Artificial_Intelligence)
@@ -127,6 +127,8 @@
 - [Practical Deep Learning For Coders (2018)](http://course.fast.ai/) - Learn how to build state of the art models without needing graduate-level math. 🆓
 - [Statistical learning (2015)](https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) 🆓
 - [Tensorflow for deep learning research (2017)](http://web.stanford.edu/class/cs20si/index.html) 🆓
+
+## FlashCards
 
 ## Forums, Group chats
 

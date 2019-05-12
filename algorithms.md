@@ -1,7 +1,6 @@
 # Algorithms
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -47,6 +46,8 @@
 - [MIT introduction to algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

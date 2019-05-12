@@ -1,7 +1,6 @@
 # Bicycles
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -29,6 +28,8 @@
 ## Forums, Group chats
 
 - [Bike commuting](https://www.reddit.com/r/bikecommuting/)
+
+## FlashCards
 
 ## Games
 

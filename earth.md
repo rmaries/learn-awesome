@@ -1,7 +1,6 @@
 # Earth
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -9,6 +8,7 @@
 ## Apps and Websites
 
 - [Science Friday](https://www.sciencefriday.com/topics/earth-science/)
+- [Paleoclimatology](https://en.wikipedia.org/wiki/Paleoclimatology)
 
 ## Articles
 
@@ -48,6 +48,8 @@
 - [Earth: The Power of the Planet](https://letterboxd.com/film/earth-the-power-of-the-planet/)
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

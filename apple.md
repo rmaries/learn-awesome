@@ -1,7 +1,6 @@
 # Apple
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -35,6 +34,8 @@
 - [MacOS](https://www.reddit.com/r/MacOS/)
 - [Osx](https://www.reddit.com/r/osx/)
 
+
+## FlashCards
 
 ## Games
 

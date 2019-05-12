@@ -1,7 +1,6 @@
 # Chemistry
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -36,6 +35,10 @@
 ## Courses
 
 - [Bioinformatics specialization](https://www.coursera.org/specializations/bioinformatics) 💰
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/chemistry)
 
 ## Forums, Group chats
 

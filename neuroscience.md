@@ -1,7 +1,6 @@
 # Neuroscience
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -38,6 +37,8 @@
 
 - [The Human Brain (2018)](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) 🆓
 
+## FlashCards
+
 ## Forums, Group chats
 
 ## Games
@@ -59,6 +60,8 @@
 ## Q&A
 
 ## Quotes
+
+> If the brain were so simple we could understand it, we would be so simple we couldn't. - anonymous
 
 ## Research Papers
 

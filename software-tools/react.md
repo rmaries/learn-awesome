@@ -1,7 +1,6 @@
 # React
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -46,6 +45,8 @@
 - [Complete intro to React v4 (2018)](https://btholt.github.io/complete-intro-to-react-v4/) 🆓
 - [Leverage New Features of React 16 (2018)](https://egghead.io/courses/leverage-new-features-of-react-16) 🆓
 - [React Holiday (2017)](https://react.holiday/) - React through examples. 🆓
+
+## FlashCards
 
 ## Forums, Group chats
 

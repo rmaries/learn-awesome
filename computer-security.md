@@ -1,7 +1,6 @@
 # Computer Security
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -32,6 +31,8 @@
 - [Hacker101 (2018)](https://github.com/Hacker0x01/hacker101) - Free class for web security. 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

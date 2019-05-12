@@ -1,7 +1,6 @@
 # Health
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -40,6 +39,8 @@
 ## Courses
 
 - [Science of Exercise](https://www.coursera.org/learn/science-exercise)
+
+## FlashCards
 
 ## Forums, Group chats
 

@@ -1,7 +1,6 @@
 # Chinese Language
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -25,6 +24,10 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
+
+- [Anki Decks](https://ankiweb.net/shared/decks/chinese)
 
 ## Forums, Group chats
 

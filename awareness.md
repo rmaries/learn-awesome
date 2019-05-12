@@ -1,7 +1,6 @@
 # Awareness
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -36,6 +35,8 @@
 
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

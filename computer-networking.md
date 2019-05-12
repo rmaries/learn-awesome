@@ -1,7 +1,6 @@
 # Computer Networking
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -43,6 +42,8 @@
 - [Introduction to EECS II: digital communication systems (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/index.htm) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

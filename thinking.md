@@ -1,7 +1,6 @@
 # Thinking
 
-- prerequisites:
-- subtopics: 
+- related_topics: 
 - curators: 
 
 ------
@@ -9,6 +8,8 @@
 ## Apps
 
 ## Articles
+
+- [Learning, Remembering & Thinking](https://www.av8n.com/physics/thinking.htm) by John Denker
 
 ## Audio, Podcasts
 
@@ -34,6 +35,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

@@ -1,7 +1,6 @@
 # Quantitative Finance
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -30,6 +29,8 @@
 ## Courses
 
 - [Applied Finance Courses](https://www.datacamp.com/courses/topic:applied_finance) by DataCamp
+
+## FlashCards
 
 ## Forums, Group chats
 

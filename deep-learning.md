@@ -1,7 +1,6 @@
 # Deep Learning
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -36,8 +35,13 @@
 - [Ucl reinforcement learning (2015)](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - [Stanford convolutional neural networks for visual recognition](http://cs231n.stanford.edu/syllabus.html) 🆓
 - [Stanford deep learning for natural language processing](http://cs224d.stanford.edu/syllabus.html) 🆓
+- [Deep Learning UC Berkeley STAT-157 (2019)](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
+- [CS294-158 Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp19/home)
+- [Practical Deep Learning for Coders (2019)](https://course.fast.ai/) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

@@ -1,7 +1,6 @@
 # Operating Systems
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -38,6 +37,8 @@
 - [Computer science from the bottom up](http://www.bottomupcs.com/) 🆓
 - [How to make a computer operating system (2015)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) 🆓
 - [Operating system engineering](https://pdos.csail.mit.edu/6.828/2016/schedule.html) 🆓
+
+## FlashCards
 
 ## Forums, Group chats
 

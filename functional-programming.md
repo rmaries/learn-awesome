@@ -1,7 +1,6 @@
 # Functional Programming
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -48,6 +47,8 @@
 - [Programming paradigms (2018)](http://www.cs.nott.ac.uk/~pszgmh/pgp.html) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

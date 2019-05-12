@@ -1,7 +1,6 @@
 # Blockchain
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: [anistark](https://twitter.com/kranirudha)
 
 ------
@@ -110,6 +109,8 @@
 - [Prover Project](https://t.me/prover_io)
 - [CanYa Community](https://t.me/CanYaCommunity)
 - [IndiaBits](https://t.me/indiabits)
+
+## FlashCards
 
 ## Games
 

@@ -1,7 +1,6 @@
 # Autobiography
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -31,6 +30,8 @@
 ## Courses
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

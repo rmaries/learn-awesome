@@ -1,7 +1,6 @@
 # DIY (Do It Yourself)
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -16,6 +15,8 @@
 ## Audio, Podcasts
 
 ## Blogs
+
+- [Smart Watch From Scratch](https://imgur.com/a/FSBwD3g)
 
 ## Books
 
@@ -32,6 +33,8 @@
 ## Courses
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

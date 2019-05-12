@@ -1,7 +1,6 @@
 # Games
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -33,8 +32,9 @@
 ## Forums, Group chats
 
 - [Factorio](https://www.reddit.com/r/factorio/)
-
 - [Patient gamers](https://www.reddit.com/r/patientgamers/)
+
+## FlashCards
 
 ## Games
 

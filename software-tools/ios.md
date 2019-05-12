@@ -1,7 +1,6 @@
 # iOS
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -35,6 +34,8 @@
 ## Courses
 
 - [Developing iOS 10 apps with Swift (2017)](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120) 🆓
+
+## FlashCards
 
 ## Forums, Group chats
 

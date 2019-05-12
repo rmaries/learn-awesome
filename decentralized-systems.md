@@ -1,7 +1,6 @@
 # Decentralized Systems
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -29,6 +28,8 @@
 - [MIT Decentralized Applications (2018)](http://nil.lcs.mit.edu/6.S974/papers.html) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

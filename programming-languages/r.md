@@ -1,7 +1,6 @@
 # R
 
-- prerequisites: [programming](programming.md)
-- subtopics: [Data Science](https://github.com/learn-awesome/learn-awesome/tree/master/data-science)
+- related_topics: [programming](programming.md) [Data Science](https://github.com/learn-awesome/learn-awesome/tree/master/data-science)
 - curators: [Jarmos](https://github.com/Jarmos-san)
 
 ------
@@ -60,6 +59,8 @@
 
 - [R Programming A-Z™: R For Data Science With Real Exercises!](https://www.udemy.com/share/1000DOBUQcclZbRXo=/) (**Estimated time to Complete**:10.5 hours, **Difficulty**: Beginner) by _Kirill Eremenko_ `paid`
 - [R Programming | Coursera](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science) (**Estimated time to Complete**: 20 hours, **Difficulty**: Intermediate) by _[Roger D. Peng](https://twitter.com/rdpeng?lang=en)_, _[Jeff Leek](http://jtleek.com/)_, _[Brian Caffo](https://sites.google.com/view/bcaffo/home)_ `paid certificate`
+
+## FlashCards
 
 ## Forums, Group chats
 

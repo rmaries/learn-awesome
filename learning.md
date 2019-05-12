@@ -1,7 +1,6 @@
 # Learning
 
-- prerequisites:
-- subtopics: [Space Repetition](spaced-repetition.md), [education](education.md)
+- related_topics: [Space Repetition](spaced-repetition.md), [education](education.md)
 - curators: nileshtrivedi
 
 ---
@@ -20,7 +19,6 @@
 
 ## Articles
 
-- [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning)
 - [The Spiral Approach to Thinking and Learning](https://www.av8n.com/physics/spiral-approach.htm) (alternative to Mastery learning)
 - [There's no speed limit](https://sivers.org/kimo) by [Derek Sivers](#people) (5 minutes)
 - [What kids need to learn to succeed in 2050](https://medium.com/s/youthnow/yuval-noah-harari-21-lessons-21st-century-what-kids-need-to-learn-now-to-succeed-in-2050-1b72a3fb4bcf) by Yuval Noah Harari
@@ -30,6 +28,8 @@
 - [Why Lifelong Learning is The Only Option](http://www.gettingsmart.com/2017/01/10-reasons-why-lifelong-learning-is-the-only-option/)
 - [Aerobic Exercises Enhance Neurogenesis and Neuroplasticity](https://sharpbrains.com/resources/2-the-4-pillars-of-brain-maintenance/physical-exercise-why-aerobic-exercise-enhances-neurogenesis-and-neuroplasticity/)
 - [You and Your Research](https://jamesclear.com/great-speeches/you-and-your-research-by-richard-hamming) by Richard Hamming
+- [Learning, Remembering & Thinking](https://www.av8n.com/physics/thinking.htm) by John Denker
+- [All you need is 20 hours to learn something new](https://ideas.ted.com/dont-have-10000-hours-to-learn-something-new-thats-fine-all-you-need-is-20-hours/) by Josh Kaufman
 
 ## Audio, Podcasts
 
@@ -43,6 +43,10 @@
 - [Learning How To Learn](https://www.goodreads.com/book/show/36647421-learning-how-to-learn?ac=1&from_search=true) (2018) by [Barbara Oakley](#people)
 - [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef) by Timothy Ferris
 - [Mastery](https://www.goodreads.com/book/show/13589182-mastery) by Robert Greene
+- [Mindstorms](https://mindstorms.media.mit.edu/) by Seymour Papert
+- [Experience and Education](https://books.google.co.in/books?id=JhjPK4FKpCcC&redir_esc=y) by John Dewey
+- [Young Children Reinvent Arithmetic](https://books.google.co.in/books/about/Young_Children_Reinvent_Arithmetic.html?id=XWPdDgAAQBAJ&redir_esc=y)
+- [Lifelong Kindergarten](https://mitpress.mit.edu/books/lifelong-kindergarten) by Mitchel Resnick
 
 ## Certifications & Assessment
 
@@ -56,6 +60,8 @@
 
 - [Learning How To Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn/) by [Dr. Barbara Oakley](#people) & [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) (12 hours; Beginner)
 - [Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift) by [Dr. Barbara Oakley](#people), [Dr. Terrence Sejnowski](https://www.coursera.org/instructor/terry) & M.S. Orlando Trejo (11 hours; Beginner)
+
+## FlashCards
 
 ## Forums, Group chats
 
@@ -123,3 +129,4 @@
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Learning)
 - [Simple Wikipedia](https://simple.wikipedia.org/wiki/Learning)
 - [Philosophy of Education](https://en.wikipedia.org/wiki/Philosophy_of_education)
+- [Mastery Learning](https://en.wikipedia.org/wiki/Mastery_learning)

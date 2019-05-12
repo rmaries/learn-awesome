@@ -1,7 +1,6 @@
 # Code
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -39,6 +38,8 @@
 - [Tiny code](https://www.reddit.com/r/tinycode/)
 - [Vim magic](https://www.reddit.com/r/vim_magic/)
 - [Vim](https://www.reddit.com/r/vim/)
+
+## FlashCards
 
 ## Games
 

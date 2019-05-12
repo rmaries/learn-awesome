@@ -1,7 +1,6 @@
 # Visualization
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -19,7 +18,7 @@
 ## Books
 
 - [📕 Envisioning information (1990)](http://www.goodreads.com/book/show/17745.Envisioning_Information)
-
+- [The Grammar of Graphics](https://www.goodreads.com/book/show/2549408.The_Grammar_of_Graphics)
 
 ## Certifications & Assessment
 
@@ -30,6 +29,8 @@
 ## Conferences
 
 ## Courses
+
+## FlashCards
 
 ## Forums, Group chats
 

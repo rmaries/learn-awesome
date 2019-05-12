@@ -1,14 +1,16 @@
 # Git
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
 
-## Apps and Websites
+## Apps and Website
 
-- For Beginners - [Resources by Github](https://try.github.io/)
+- [Learn GitHub](https://try.github.io/)
+- [App GitHub for Desktop](https://desktop.github.com/)
+- [Resources by Github](https://try.github.io/) - For beginners
+- [Git Rebase in Depth](https://git-rebase.io)
 
 ## Articles
 
@@ -34,6 +36,9 @@
 ## Courses
 
 - [codecademy](https://www.codecademy.com/learn/learn-git)
+- [Bitbucket](https://www.atlassian.com/git/tutorials)
+
+## FlashCards
 
 ## Forums, Group chats
 

@@ -1,7 +1,6 @@
 # CryptoCurrency
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -41,6 +40,8 @@
 ## Forums, Group chats
 
 - [CryptoTechnology](https://www.reddit.com/r/CryptoTechnology/)
+
+## FlashCards
 
 ## Games
 

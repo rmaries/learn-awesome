@@ -1,7 +1,6 @@
 # Data Science
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators: [Jarmos](https://twitter.com/Jarmosan)
 
 ------
@@ -117,6 +116,8 @@
 - [Data Science | Reddit](https://www.reddit.com/r/datascience/)
 - [KaggleNoobs](https://kagglenoobs.herokuapp.com/)
 - [DataHouse Discord](https://discord.gg/qVRkPtr)
+
+## FlashCards
 
 ## Games
 

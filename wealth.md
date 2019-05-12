@@ -1,7 +1,6 @@
 # Wealth
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -31,6 +30,8 @@
 ## Courses
 
 - [Computational investing](https://www.coursera.org/learn/computational-investing) 💰
+
+## FlashCards
 
 ## Forums, Group chats
 

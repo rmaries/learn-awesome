@@ -1,7 +1,6 @@
 # Computer Vision
 
-- prerequisites:
-- subtopics:
+- related_topics:
 - curators:
 
 ------
@@ -15,6 +14,8 @@
 ## Audio, Podcasts
 
 ## Blogs
+
+- [Adrian Rosebrock's comprehensive tutorials on everything about OpenCV, Computer Vision, and Deep Learning](https://www.pyimagesearch.com/)
 
 ## Books
 
@@ -33,6 +34,8 @@
 - [Programming computer vision with python (2012)](http://programmingcomputervision.com/) 🆓
 
 ## Forums, Group chats
+
+## FlashCards
 
 ## Games
 

@@ -28,7 +28,7 @@
 
 ## Courses
 
-- [Garry Kasparov teaches Chess](https://www.masterclass.com/classes/garry-kasparov-teaches-chess)  
+- [Garry Kasparov teaches Chess](https://www.masterclass.com/classes/garry-kasparov-teaches-chess) `Paid`  
 
 ## Forums, Group chats
 

@@ -43,6 +43,10 @@
 - [Learning How To Learn](https://www.goodreads.com/book/show/36647421-learning-how-to-learn?ac=1&from_search=true) (2018) by [Barbara Oakley](#people)
 - [The 4-hour Chef](https://www.goodreads.com/book/show/13129810-the-4-hour-chef) by Timothy Ferris
 - [Mastery](https://www.goodreads.com/book/show/13589182-mastery) by Robert Greene
+- [Mindstorms](https://mindstorms.media.mit.edu/) by Seymour Papert
+- [Experience and Education](https://books.google.co.in/books?id=JhjPK4FKpCcC&redir_esc=y) by John Dewey
+- [Young Children Reinvent Arithmetic](https://books.google.co.in/books/about/Young_Children_Reinvent_Arithmetic.html?id=XWPdDgAAQBAJ&redir_esc=y)
+- [Lifelong Kindergarten](https://mitpress.mit.edu/books/lifelong-kindergarten) by Mitchel Resnick
 
 ## Certifications & Assessment
 

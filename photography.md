@@ -61,6 +61,8 @@
 
 ## Videos, Documentaries & Films
 
+- [Why Mirrorless Cameras Are Taking Over](https://www.youtube.com/watch?v=p5PvHlk3yig) by EnGadget
+
 ## Wiki
 
 - [Main Wikipedia](https://en.wikipedia.org/wiki/Photography)

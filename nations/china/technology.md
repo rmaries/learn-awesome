@@ -51,6 +51,8 @@
 
 ## People
 
+- Jan Smejkal: [twitter](https://twitter.com/yourchinaguy)
+
 ## Q&A
 
 ## Quotes

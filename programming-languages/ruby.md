@@ -35,6 +35,10 @@
 
 ## Conferences
 
+- [RubyConf](https://rubyconf.org/)
+- [RubyConf India](https://www.rubyconfindia.org/)
+- [Deccan RubyConf, India](https://www.deccanrubyconf.org/)
+
 ## Courses
 
 ## FlashCards

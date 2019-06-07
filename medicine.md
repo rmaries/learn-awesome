@@ -18,6 +18,8 @@
 
 ## Books
 
+- [Nature Cure](http://www.arvindguptatoys.com/arvindgupta/handbook-naturecure.pdf)
+
 ## Certifications & Assessment
 
 ## Cheatsheets

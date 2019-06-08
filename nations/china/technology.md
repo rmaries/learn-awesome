@@ -1,14 +1,13 @@
-# Medicine
+# Technology
 
 - related_topics:
 - curators:
 
 ------
 
-## Apps and Website
+## Apps & Websites
 
-- [NIH Dietary Supplements](https://ods.od.nih.gov/)
-- [Science Friday topic - Brain](https://www.sciencefriday.com/topics/brain/)
+- [Abacus News](https://www.abacusnews.com/)
 
 ## Articles
 
@@ -17,8 +16,6 @@
 ## Blogs
 
 ## Books
-
-- [Nature Cure](http://www.arvindguptatoys.com/arvindgupta/handbook-naturecure.pdf)
 
 ## Certifications & Assessment
 
@@ -50,7 +47,11 @@
 
 ## Newsletters
 
+- [China EconTalk](https://chinaecontalk.substack.com/)
+
 ## People
+
+- Jan Smejkal: [twitter](https://twitter.com/yourchinaguy)
 
 ## Q&A
 
@@ -62,6 +63,6 @@
 
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Medicine)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Medicine)
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
 

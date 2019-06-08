@@ -80,6 +80,7 @@
 ## Learning Plans
 
 - [Open Source Society University](https://github.com/ossu/computer-science)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ## Livestreams
 

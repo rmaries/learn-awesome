@@ -7,9 +7,9 @@
 
 ## Apps
 
-[Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_IN) - This is mainly good for photos that is consumed on social media platforms like Instagram, Facebook etc.
+- [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed&hl=en_IN) - This is mainly good for photos that is consumed on social media platforms like Instagram, Facebook etc.
    
-[Photopills](https://www.photopills.com/) - This is very good app if you are planning to shoot milkyway or any other event like meteor shower etc.
+- [Photopills](https://www.photopills.com/) - This is very good app if you are planning to shoot milkyway or any other event like meteor shower etc.
    
 ## Articles
 
@@ -60,6 +60,8 @@
 ## Research Papers
 
 ## Videos, Documentaries & Films
+
+- [Why Mirrorless Cameras Are Taking Over](https://www.youtube.com/watch?v=p5PvHlk3yig) by EnGadget
 
 ## Wiki
 

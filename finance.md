@@ -36,6 +36,9 @@
 
 ## Forums, Group chats
 
+- [/r/personalfinance](https://www.reddit.com/r/personalfinance)
+- [/r/investing/](https://www.reddit.com/r/investing/)
+
 ## FlashCards
 
 ## Games

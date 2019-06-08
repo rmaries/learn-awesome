@@ -81,6 +81,8 @@
 - [Enjoying the practice when you really suck](https://www.youtube.com/watch?v=agv_TP_NXgA) by Volen CK
 - [Understanding Painting, Drawing & Art from Imagination](https://www.youtube.com/watch?v=HEcJ4iYYyzM) by Volen CK
 - [How to Paint and Draw](https://www.youtube.com/watch?v=xa5FhpagCnE) by Volen CK
+- [Easy Watercolor Techniques & Ideas!](https://www.youtube.com/watch?v=9P0ot0ifwXk)
+- [Watercolor Painting Ideas for Beginners | Wet in Wet Technique](https://www.youtube.com/watch?v=qDqpmSwyHqQ)
 
 ## Wiki
 

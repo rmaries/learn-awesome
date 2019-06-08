@@ -93,10 +93,13 @@
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 - [Books by John Allen Paulos](http://johnallenpaulos.com/booksandreviews.html)
 - [Disquisitiones Arithmeticae](https://books.google.co.in/books?id=iRbmmhOLA1kC&dq=isbn:0300094736&hl=en&sa=X&ved=0ahUKEwjLsuX5y5HiAhUKVH0KHQ37AR4Q6AEIKDAA) by Carl Friedrich Gauss
+- [Reading List by American Institute of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
 
 ## Certifications & Assessment
 
 ## Cheatsheets
+
+ - [All-in-one Mathematics Cheatsheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
 
 ## Code
 

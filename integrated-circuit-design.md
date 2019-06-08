@@ -1,24 +1,21 @@
-# Medicine
+# Integrated Circuit Design
 
 - related_topics:
 - curators:
 
 ------
 
-## Apps and Website
-
-- [NIH Dietary Supplements](https://ods.od.nih.gov/)
-- [Science Friday topic - Brain](https://www.sciencefriday.com/topics/brain/)
+## Apps & Websites
 
 ## Articles
+
+- [Ask HN: How to self-study integrated circuit design?](https://news.ycombinator.com/item?id=19890949)
 
 ## Audio, Podcasts
 
 ## Blogs
 
 ## Books
-
-- [Nature Cure](http://www.arvindguptatoys.com/arvindgupta/handbook-naturecure.pdf)
 
 ## Certifications & Assessment
 
@@ -60,8 +57,11 @@
 
 ## Videos, Documentaries & Films
 
+- [Onur Multu Lectures](https://www.youtube.com/channel/UCIwQ8uOeRFgOEvBLYc3kc3g)
+- [Carnegie Mellon Computer Architecture](https://www.youtube.com/user/cmu18447)
+
 ## Wiki
 
-- [Main Wikipedia](https://en.wikipedia.org/wiki/Medicine)
-- [Simple Wikipedia](https://simple.wikipedia.org/wiki/Medicine)
+- [Main Wikipedia]()
+- [Simple Wikipedia]()
 
